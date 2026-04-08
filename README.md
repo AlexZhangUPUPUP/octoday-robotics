@@ -81,25 +81,27 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> 进阶演练舱 (From Zero to Hero)</h2>
 
-<p align="center">顺着极简学习主轴层层深入具身生态结构：</p>
+<p align="center">我们为您设计了顺着主轴层层深入的学习图谱：</p>
 
-```mermaid
-flowchart TD
-    %% 极简原生 GitHub 风格
-    classDef default fill:#ffffff,stroke:#d0d7de,stroke-width:2px,color:#24292f,rx:8;
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brick.png" width="25" /> 1. 筑基 (Foundation)</h3>
+  <p>📖 <b>阅读首选书籍课程</b> &emsp;|&emsp; 🧠 <b>掌握具身核心术语</b> &emsp;|&emsp; ⚙️ <b>熟悉底层物理逻辑</b></p>
+</blockquote>
 
-    A["<b>🧱 1. 筑基 (Foundation)</b><br/><br/>📖 阅读首选书籍课程 &emsp;|&emsp; 🧠 掌握具身核心术语 &emsp;|&emsp; ⚙️ 熟悉底层物理逻辑"]
-    
-    B["<b>🔭 2. 瞭望 (Exploration)</b><br/><br/>📄 追踪最热前沿论文 &emsp;|&emsp; 💻 运行经典开源代码 &emsp;|&emsp; 📈 把控前沿演进趋势"]
-    
-    C["<b>🧩 3. 连接 (Connection)</b><br/><br/>🏢 翻阅全球企业清单 &emsp;|&emsp; 🔍 研究真实落地场景 &emsp;|&emsp; 💼 反推市场求职技能"]
-    
-    D["<b>🌐 4. 融入 (Immersion)</b><br/><br/>🗣️ 关注大佬架构洞见 &emsp;|&emsp; 💬 参与最燃技术讨论 &emsp;|&emsp; 🏆 提交高光开源代码"]
-    
-    A ===> B ===> C ===> D
-    
-    linkStyle default stroke:#d0d7de,stroke-width:2px;
-```
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> 2. 瞭望 (Exploration)</h3>
+  <p>📄 <b>追踪最热前沿论文</b> &emsp;|&emsp; 💻 <b>运行经典开源代码</b> &emsp;|&emsp; 📈 <b>把控前沿演进趋势</b></p>
+</blockquote>
+
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Puzzle%20Piece.png" width="25" /> 3. 连接 (Connection)</h3>
+  <p>🏢 <b>翻阅全球企业清单</b> &emsp;|&emsp; 🔍 <b>研究真实落地场景</b> &emsp;|&emsp; 💼 <b>反推市场求职技能</b></p>
+</blockquote>
+
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" /> 4. 融入 (Immersion)</h3>
+  <p>🗣️ <b>关注大佬架构洞见</b> &emsp;|&emsp; 💬 <b>参与最燃技术讨论</b> &emsp;|&emsp; 🏆 <b>点亮属于你的开源荣誉</b></p>
+</blockquote>
 
 <br/>
 

@@ -81,25 +81,27 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> The Journey (From Zero to Hero)</h2>
 
-<p align="center">Drill down through the Embodied AI ecosystem following the minimal axis:</p>
+<p align="center">We have tailored a minimal roadmap traversing deeper into the ecosystem:</p>
 
-```mermaid
-flowchart TD
-    %% 极简原生 GitHub 风格
-    classDef default fill:#ffffff,stroke:#d0d7de,stroke-width:2px,color:#24292f,rx:8;
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brick.png" width="25" /> 1. Foundation</h3>
+  <p>📖 <b>Read Books & Courses</b> &emsp;|&emsp; 🧠 <b>Master Terminology</b> &emsp;|&emsp; ⚙️ <b>Grasp Basic Logic</b></p>
+</blockquote>
 
-    A["<b>🧱 1. Foundation</b><br/><br/>📖 Read Books & Courses &emsp;|&emsp; 🧠 Master Terminology &emsp;|&emsp; ⚙️ Grasp Basic Logic"]
-    
-    B["<b>🔭 2. Exploration</b><br/><br/>📄 Track Top Papers &emsp;|&emsp; 💻 Run Open-source Code &emsp;|&emsp; 📈 Follow Latest Trends"]
-    
-    C["<b>🧩 3. Connection</b><br/><br/>🏢 Explore AI Companies &emsp;|&emsp; 🔍 Study Scenarios &emsp;|&emsp; 💼 Decrypt Job Demands"]
-    
-    D["<b>🌐 4. Immersion</b><br/><br/>🗣️ Follow Key Insights &emsp;|&emsp; 💬 Join Tech Discussions &emsp;|&emsp; 🏆 Contribute to Open-source"]
-    
-    A ===> B ===> C ===> D
-    
-    linkStyle default stroke:#d0d7de,stroke-width:2px;
-```
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> 2. Exploration</h3>
+  <p>📄 <b>Track Top Papers</b> &emsp;|&emsp; 💻 <b>Run Open-source Code</b> &emsp;|&emsp; 📈 <b>Follow Latest Trends</b></p>
+</blockquote>
+
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Puzzle%20Piece.png" width="25" /> 3. Connection</h3>
+  <p>🏢 <b>Explore AI Companies</b> &emsp;|&emsp; 🔍 <b>Study Scenarios</b> &emsp;|&emsp; 💼 <b>Decrypt Job Demands</b></p>
+</blockquote>
+
+<blockquote>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" /> 4. Immersion</h3>
+  <p>🗣️ <b>Follow Key Insights</b> &emsp;|&emsp; 💬 <b>Join Tech Discussions</b> &emsp;|&emsp; 🏆 <b>Contribute to Open-source</b></p>
+</blockquote>
 
 <br/>
 
