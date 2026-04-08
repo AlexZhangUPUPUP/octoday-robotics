@@ -14,8 +14,8 @@
 
 🌐 [English Version](README_EN.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/LILAN-00/Octoday-Robotics?style=social)](https://github.com/LILAN-00/Octoday-Robotics/stargazers)
-[![更新状态](https://img.shields.io/badge/更新频率-每周-blue)](https://github.com/LILAN-00/Octoday-Robotics)
+[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
+[![更新状态](https://img.shields.io/badge/更新频率-每周-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
 [![贡献指南](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
@@ -75,8 +75,8 @@ graph TD
 我们欢迎所有形式的贡献（如添加公司、优质论文、工具等）：
 
 1. 📖 阅读 [贡献指南](CONTRIBUTING.md) 了解详细流程。
-2. ✨ 提交 [Pull Request](https://github.com/Octoday-Robotics/Embodied-AI/compare) 直接贡献资源更新。
-3. 🐛 发现死链、错误或有新建议？请提交 [Issue](https://github.com/Octoday-Robotics/Embodied-AI/issues/new/choose)。
+2. ✨ 提交 [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) 直接贡献资源更新。
+3. 🐛 发现死链、错误或有新建议？请提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose)。
 
 ---
 
@@ -87,7 +87,7 @@ graph TD
 项目完全开源，欢迎任何形式的贡献、建议与合作。如果您有任何问题、想法或资源推荐，欢迎通过以下方式联系我们：
 
 - **邮箱**：octoday@yeah.net
-- **GitHub Issues**：直接提交 [Issue](https://github.com/LILAN-00/Octoday-Embodied-Hub/issues)
+- **GitHub Issues**：直接提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
 - 📱 **微信公众号**：扫描下方二维码，获取最新动态与资源更新
 
 <img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
@@ -96,8 +96,8 @@ graph TD
 
 感谢所有为项目添砖加瓦的贡献者（排名不分先后）：
 
-<a href="https://github.com/LILAN-00/Octoday-Embodied-Hub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LILAN-00/Octoday-Embodied-Hub" />
+<a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
 </a>
 
 ---

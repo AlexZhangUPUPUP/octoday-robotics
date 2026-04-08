@@ -105,4 +105,4 @@
 
 ---
 
-> **说明**：本列表持续更新。欢迎通过 [Issues](https://github.com/LILAN-00/Octoday-Embodied-Hub/issues) 或 Pull Request 补充新工具或修正信息。
+> **说明**：本列表持续更新。欢迎通过 [Issues](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) 或 Pull Request 补充新工具或修正信息。

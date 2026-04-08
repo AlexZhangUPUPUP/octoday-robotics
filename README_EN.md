@@ -14,8 +14,8 @@ This is not just another tedious paper list, but a **hub connecting industry, ta
 
 🌐 [中文版](README.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/LILAN-00/Octoday-Robotics?style=social)](https://github.com/LILAN-00/Octoday-Robotics/stargazers)
-[![Update Frequency](https://img.shields.io/badge/Update%20Frequency-Weekly-blue)](https://github.com/LILAN-00/Octoday-Robotics)
+[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
+[![Update Frequency](https://img.shields.io/badge/Update%20Frequency-Weekly-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
@@ -75,8 +75,8 @@ graph TD
 We welcome all forms of contribution! Whether it's adding new companies, papers, or fixing errors, every contribution helps the community.
 
 1. 📖 Read the [Contribution Guide](CONTRIBUTING.md) for detailed steps.
-2. ✨ Submit a [Pull Request](https://github.com/Octoday-Robotics/Embodied-AI/compare) to directly add content.
-3. 🐛 Found an error/broken link or have a suggestion? Open an [Issue](https://github.com/Octoday-Robotics/Embodied-AI/issues/new/choose).
+2. ✨ Submit a [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) to directly add content.
+3. 🐛 Found an error/broken link or have a suggestion? Open an [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose).
 
 ---
 
@@ -87,7 +87,7 @@ We welcome all forms of contribution! Whether it's adding new companies, papers,
 The project is fully open source. Any form of contribution, suggestion, or collaboration is welcome. For questions, ideas, or resource recommendations, feel free to reach out:
 
 - **Email**: octoday@yeah.net
-- **GitHub Issues**: Submit an [Issue](https://github.com/LILAN-00/Octoday-Embodied-Hub/issues) directly.
+- **GitHub Issues**: Submit an [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) directly.
 - 📱 **WeChat Official Account**: Scan the QR code below for the latest updates and resource news.
 
 <img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
@@ -96,8 +96,8 @@ The project is fully open source. Any form of contribution, suggestion, or colla
 
 Special thanks to all contributors (in no particular order):
 
-<a href="https://github.com/LILAN-00/Octoday-Embodied-Hub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LILAN-00/Octoday-Embodied-Hub" />
+<a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
 </a>
 
 ---

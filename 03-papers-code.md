@@ -687,4 +687,4 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 
 ---
 
-> **说明**：持续更新中。欢迎通过 [Issues](https://github.com/LILAN-00/Octoday-Embodied-Hub/issues) 或 Pull Request 补充最新论文或修正信息。
+> **说明**：持续更新中。欢迎通过 [Issues](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) 或 Pull Request 补充最新论文或修正信息。
