@@ -38,29 +38,21 @@ This repository is designed as a **structured resource index + industry knowledg
 > **A strategic learning guide designed for beginners to dive into the Embodied AI ecosystem.**
 
 ```mermaid
-flowchart LR
-    %% Custom Node Styles
-    classDef base fill:#E1F5FE,stroke:#0284c7,stroke-width:2px,color:#0369a1,rx:5,ry:5;
-    classDef explore fill:#FCE4EC,stroke:#db2777,stroke-width:2px,color:#be185d,rx:5,ry:5;
-    classDef connect fill:#FFF8E1,stroke:#d97706,stroke-width:2px,color:#b45309,rx:5,ry:5;
-    classDef community fill:#E8F5E9,stroke:#16a34a,stroke-width:2px,color:#15803d,rx:5,ry:5;
+flowchart TD
+    %% 极简原生 GitHub 风格
+    classDef default fill:#ffffff,stroke:#d0d7de,stroke-width:2px,color:#24292f,rx:8;
 
-    %% Define Nodes with line breaks and text dividers
-    A["<b>🧱 1. Foundation</b><br/>━━━━━━━━━━━━━<br/>📖 Read Books & Courses<br/>⚙️ Grasp Basic Logic<br/>🧠 Master Terminology"]:::base
+    A["<b>🧱 1. Foundation</b><br/><br/>📖 Read Books & Courses &emsp;|&emsp; 🧠 Master Terminology &emsp;|&emsp; ⚙️ Grasp Basic Logic"]
     
-    B["<b>🔭 2. Exploration</b><br/>━━━━━━━━━━━━━<br/>📄 Track Top Papers<br/>💻 Run Open-source Code<br/>📈 Follow Latest Trends"]:::explore
+    B["<b>🔭 2. Exploration</b><br/><br/>📄 Track Top Papers &emsp;|&emsp; 💻 Run Open-source Code &emsp;|&emsp; 📈 Follow Latest Trends"]
     
-    C["<b>🧩 3. Connection</b><br/>━━━━━━━━━━━━━<br/>🏢 Explore Companies<br/>🔍 Study Scenarios<br/>💼 Decrypt Job Demands"]:::connect
+    C["<b>🧩 3. Connection</b><br/><br/>🏢 Explore AI Companies &emsp;|&emsp; 🔍 Study Scenarios &emsp;|&emsp; 💼 Decrypt Job Demands"]
     
-    D["<b>🌐 4. Immersion</b><br/>━━━━━━━━━━━━━<br/>🗣️ Follow Key Insights<br/>💬 Join Tech Discussions<br/>🏆 Contribute to OSS/Comps"]:::community
-
-    %% Flow transitions
-    A ====>|"Phase 1"| B
-    B ====>|"Phase 2"| C
-    C ====>|"Phase 3"| D
-
-    %% Link Styles
-    linkStyle default stroke:#94a3b8,stroke-width:2px,color:#475569;
+    D["<b>🌐 4. Immersion</b><br/><br/>🗣️ Follow Key Insights &emsp;|&emsp; 💬 Join Tech Discussions &emsp;|&emsp; 🏆 Contribute to Open-source"]
+    
+    A ===> B ===> C ===> D
+    
+    linkStyle default stroke:#d0d7de,stroke-width:2px;
 ```
 
 ---

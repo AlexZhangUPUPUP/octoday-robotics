@@ -38,29 +38,21 @@
 > **给初学者的一份学习导航：顺着图表层层深入具身生态**
 
 ```mermaid
-flowchart LR
-    %% 自定义节点样式
-    classDef base fill:#E1F5FE,stroke:#0284c7,stroke-width:2px,color:#0369a1,rx:5,ry:5;
-    classDef explore fill:#FCE4EC,stroke:#db2777,stroke-width:2px,color:#be185d,rx:5,ry:5;
-    classDef connect fill:#FFF8E1,stroke:#d97706,stroke-width:2px,color:#b45309,rx:5,ry:5;
-    classDef community fill:#E8F5E9,stroke:#16a34a,stroke-width:2px,color:#15803d,rx:5,ry:5;
+flowchart TD
+    %% 极简原生 GitHub 风格
+    classDef default fill:#ffffff,stroke:#d0d7de,stroke-width:2px,color:#24292f,rx:8;
 
-    %% 节点定义
-    A["<b>🧱 1. 筑基：构建知识框架</b><br/>━━━━━━━━━━━━━<br/>📖 阅读推荐书籍与课程<br/>⚙️ 熟悉基础底层逻辑<br/>🧠 掌握通用核心术语"]:::base
+    A["<b>🧱 1. 筑基 (Foundation)</b><br/><br/>📖 阅读首选书籍课程 &emsp;|&emsp; 🧠 掌握具身核心术语 &emsp;|&emsp; ⚙️ 熟悉底层物理逻辑"]
     
-    B["<b>🔭 2. 瞭望：追踪科研前沿</b><br/>━━━━━━━━━━━━━<br/>📄 追踪前沿顶会论文<br/>💻 运行复现开源代码<br/>📈 把控最新领域趋势"]:::explore
+    B["<b>🔭 2. 瞭望 (Exploration)</b><br/><br/>📄 追踪最热前沿论文 &emsp;|&emsp; 💻 运行经典开源代码 &emsp;|&emsp; 📈 把控前沿演进趋势"]
     
-    C["<b>🧩 3. 连接：洞察产业动态</b><br/>━━━━━━━━━━━━━<br/>🏢 翻阅公司产品列表<br/>🔍 研究实际落地场景<br/>💼 反推求职所需技能"]:::connect
+    C["<b>🧩 3. 连接 (Connection)</b><br/><br/>🏢 翻阅全球企业清单 &emsp;|&emsp; 🔍 研究真实落地场景 &emsp;|&emsp; 💼 反推市场求职技能"]
     
-    D["<b>🌐 4. 融入：加入社区生态</b><br/>━━━━━━━━━━━━━<br/>🗣️ 关注行业大佬洞见<br/>💬 参与优质技术讨论<br/>🏆 贡献开源或打比赛"]:::community
-
-    %% 阶段流转线
-    A ====>|"第一阶段"| B
-    B ====>|"第二阶段"| C
-    C ====>|"第三阶段"| D
-
-    %% 连接线样式
-    linkStyle default stroke:#94a3b8,stroke-width:2px,color:#475569;
+    D["<b>🌐 4. 融入 (Immersion)</b><br/><br/>🗣️ 关注大佬架构洞见 &emsp;|&emsp; 💬 参与最燃技术讨论 &emsp;|&emsp; 🏆 提交高光开源代码"]
+    
+    A ===> B ===> C ===> D
+    
+    linkStyle default stroke:#d0d7de,stroke-width:2px;
 ```
 
 ---
