@@ -1,98 +1,41 @@
-<div align="center">
-
 <img width="1280" height="400" alt="Head Banner2" src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" />
 
-<br/>
+<div align="center">
 
-<a href="README_EN.md">
-  <img src="https://img.shields.io/badge/English_Version-000000?style=for-the-badge&logo=googletranslate&logoColor=white" alt="EN"/>
-</a>
-
-<br/><br/>
-
-# 🤖 星期八 · 具身智能资源库
-**— 降低检索门槛 · 共建产业级知识地图 —**
-
-[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=flat-square)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
-[![更新状态](https://img.shields.io/badge/更新频率-每周-blue?style=flat-square)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
-[![贡献指南](https://img.shields.io/badge/PRs_Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-
+# 🤖星期八-具身智能社区
 </div>
 
-<br/>
+## 🌟 我们的愿景
+> 一份持续更新的具身智能（Embodied AI）领域结构化资源索引，涵盖公司、招聘、论文、代码库、数据集、学习路径等。旨在**降低中文开发者的信息检索门槛，共建行业知识地图**。
 
-## 🗺️ 全局知识生态 (Knowledge Map)
+**“星期八”意味着额外的一天——我们希望具身智能技术的普及能极大解放生产力，用最高效的技术让你的生活真正“多出一天”。**
 
-> 💡 **“星期八”**意味着额外的一天，我们希望这些优质结构化的资源整理，能极大解放开发者的获取成本，让最高效的技术使你的生活真正**多出一天**。  
-> 这里不是又一个冗杂的论文列表，而是一个连接**产业、人才与知识**的高频能量站。
+这里不是又一个冗杂的论文列表，而是一个连接**产业、人才与知识**的信息枢纽。不论你是学生、工程师还是投资人，都能在这里找到所需的拼图。
 
-```mermaid
-mindmap
-  root((🤖<br/>星期八<br/>具身生态))
-    探索前沿
-      📄 论文与代码库
-      🔧 工具与仿真平台
-    行业洞察
-      🏢 全球具身公司图谱
-      💼 最新招聘信息
-    打牢根基
-      📖 术语与基础知识
-      🧭 学习路径建议
-    参与开源
-      🤝 提交你的 PR
-```
+🌐 [English Version](README_EN.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
+[![更新状态](https://img.shields.io/badge/更新频率-每周-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
+[![贡献指南](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
 
-## 🎯 核心航站楼 (Core Terminals)
+## 📚 1. 核心资源矩阵
 
-本仓库采用**按图索骥 (On-demand)** 的设计理念。拒绝文章堆砌，通过下方操作面板直接一键直达所需功能区。
+本仓库的设计理念是**按图索骥，各取所需**，拒绝杂乱的文章堆砌。你可以通过下方的网格导航迅速找到所需的板块：
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>🧠 基础底层</b><br>
-        <sub>理论与逻辑</sub><br><br>
-        <a href="00-basics.md">
-          <img src="https://img.shields.io/badge/📖_基础知识-0369a1?style=for-the-badge" alt="基础知识"/>
-        </a><br><br>
-        <a href="CONTRIBUTING.md">
-          <img src="https://img.shields.io/badge/🤝_贡献指南-1e40af?style=for-the-badge" alt="贡献指南"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <b>🏢 产业风向</b><br>
-        <sub>场景与机遇</sub><br><br>
-        <a href="01-companies.md">
-          <img src="https://img.shields.io/badge/🏢_公司图谱-b45309?style=for-the-badge" alt="公司图谱"/>
-        </a><br><br>
-        <a href="02-jobs.md">
-          <img src="https://img.shields.io/badge/💼_最新招聘-ea580c?style=for-the-badge" alt="招聘信息"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <b>🛠️ 技术生态</b><br>
-        <sub>算法与评测</sub><br><br>
-        <a href="03-papers-code.md">
-          <img src="https://img.shields.io/badge/📄_论文与代码-be185d?style=for-the-badge" alt="论文代码"/>
-        </a><br><br>
-        <a href="04-tools.md">
-          <img src="https://img.shields.io/badge/🔧_工具与平台-9d174d?style=for-the-badge" alt="开发工具"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <sub>*(注：交流社区体系正在筹备建设中，相关资源后续将补充，如有推荐欢迎通过 Issues 或者下方公众号联系我们！)*</sub>
-</div>
+| 🧠 基础建设 | 🏢 产业动态 | 🛠️ 技术生态 |
+| :--- | :--- | :--- |
+| [**📖 基础知识**](00-basics.md)<br>入门书籍、课程路线与核心术语 | [**🏢 具身智能公司**](01-companies.md)<br>行业图谱与代表企业及产品 | [**📄 论文与代码库**](03-papers-code.md)<br>涵盖9大方向的前沿顶会与代码 |
+| [**🤝 贡献指南**](CONTRIBUTING.md)<br>欢迎以 PR 的形式参与共建知识库 | [**💼 招聘信息**](02-jobs.md)<br>最新 HC 、实习机会与行业人才需求 | [**🔧 工具与平台**](04-tools.md)<br>数据处理、控制开发与仿真评测工具 |
+
+*(注：学习交流社区体系正在筹备建设中，相关资源后续将补充，如有推荐欢迎通过 Issues 或者下方公众号联系我们！)*
 
 ---
 
-## 🧭 进阶演练舱 (From Zero to Hero)
+## 🧭 2. 学习路径图 (From Zero to Hero)
 
-> 以下是一套专为初学者打造的破冰路线。**流程图统领大局 + 折叠面板细化任务**，让你看完图表，立刻就能行动跳转。
+> **给初学者的一份学习导航：顺着图表层层深入具身生态**
 
 ```mermaid
 flowchart LR
@@ -120,82 +63,35 @@ flowchart LR
     linkStyle default stroke:#94a3b8,stroke-width:2px,color:#475569;
 ```
 
-### ⚡ 行动清单 (Action Checklist)
-*点击下方展开详细要求，直达资源目标页！*
+---
 
-<details open>
-<summary><b>🔥 Phase 1: 强打底盘 (Foundation)</b></summary>
-<br>
+## 🤝 3. 如何贡献
 
-> 📚 推荐直接点击访问 [**📖 基础知识板块**](00-basics.md) 开始你的第一站：
-> 1. 阅读推荐的入门书籍与经典视频课程，对具身架构建立直观体感。
-> 2. 背熟各种核心概念（如 VLA、阻抗控制、正逆运动学），这是高效阅读前沿论文的密码。
+> 💡 **资源的价值在于使用，更在于分享**。如果你通过这份资源库有所收获，不妨也贡献一份力量，帮助后来者走得更顺！
 
-</details>
+我们欢迎所有形式的贡献（如添加公司、优质论文、工具等）：
 
-<details>
-<summary><b>🔥 Phase 2: 追踪火力 (Exploration)</b></summary>
-<br>
-
-> 🔬 前往 [**📄 论文与代码库**](03-papers-code.md) 以及 [**🔧 工具与平台**](04-tools.md)：
-> 1. 关注国际顶会（CoRL, ICRA, IROS）的最新操作榜单与视觉架构前沿。
-> 2. 本地跑通一两个强化学习或模仿学习的经典开源框架以深挖系统底座。
-
-</details>
-
-<details>
-<summary><b>🔥 Phase 3: 直面商海 (Industry)</b></summary>
-<br>
-
-> 🏢 务实是最后的技术归宿，请深入探索 [**🏢 具身智能公司动态**](01-companies.md)：
-> 1. 拆解这几十家头部明星公司到底在用什么方案，旨在落地在何种场景。
-> 2. 从 [**💼 招聘信息专区**](02-jobs.md) 分析市场对具身智能工程师的具体 HC 技能要求，反推出你的“技能树碎片”。
-
-</details>
-
-<details>
-<summary><b>🔥 Phase 4: 开源共建 (Community)</b></summary>
-<br>
-
-> 🏆 沉淀与分享是极客最好的名片，详见 [**🤝 贡献指南**](CONTRIBUTING.md)：
-> 1. 参加业内开源生态活动，亦或各种软硬件控制挑战赛。
-> 2. 为本资源库以及你熟知的其他具身项目提交 Issue 洞见，合并属于你的第一行 PR。
-
-</details>
+1. 📖 阅读 [贡献指南](CONTRIBUTING.md) 了解详细流程。
+2. ✨ 提交 [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) 直接贡献资源更新。
+3. 🐛 发现死链、错误或有新建议？请提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose)。
 
 ---
 
-## 🤝 如何参与 (How to Contribute)
+## 👥 关于星期八团队
 
-> 💡 **“知识的裂变，来自分享。”** 
-> 
-> 如果这份指南降低了你的上手难度，不妨也提交一个提交 PR 补全它，帮助后来者走得更顺！
+**星期八 Robotics（Octoday-Robotics）** 是一个由具身智能爱好者、开发者和行业观察者组成的开放社区。我们希望通过系统化的资源整理，降低中文开发者进入具身智能领域的门槛，加速知识传播与产业融合。
 
-我们非常欢迎所有形式的微小贡献（添加你的公司、优质论文、甚至修正错别字）。仅需几步愉快的流程即可完成交互：
+项目完全开源，欢迎任何形式的贡献、建议与合作。如果您有任何问题、想法或资源推荐，欢迎通过以下方式联系我们：
 
-1. 📖 阅读 [贡献指南](CONTRIBUTING.md) 了解基础规范。
-2. ✨ 在 GitHub 提交 [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) 直接挂载资源。
-3. 🐛 发现死链、错误或有产品新建议？请一键提交 [Issue 新方案](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose)。
+- **邮箱**：octoday@yeah.net
+- **GitHub Issues**：直接提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
+- 📱 **微信公众号**：扫描下方二维码，获取最新动态与资源更新
 
----
+<img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
 
-## 👥 关于星期八团队 (About Us)
+### 🌟 特别感谢
 
-**星期八 Robotics（Octoday-Robotics）** 是一个无边界的具身智能爱好者联盟。在这里，算法工程师、硬件极客、产业观察者共同协作，试图消除进入机器人领域的高精尖“技术壁垒”。
-
-本项目依靠纯开源生态自我更迭。如有任何学术碰撞、合作灵感，请随时呼叫中心：
-
-- 📧 **邮箱**：octoday@yeah.net
-- 📝 **脑洞与追踪**：[开启一个全新的 Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
-- 📱 **官方微信矩阵**：扫描下方二维码，共同进击下一个时代。
-
-<div align="center">
-  <img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
-</div>
-
-### 🌟 星光贡献榜 (Hall of Contributors)
-
-致谢所有在这片智能土地上开荒撒网的技术先锋：
+感谢所有为项目添砖加瓦的贡献者（排名不分先后）：
 
 <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
@@ -203,6 +99,6 @@ flowchart LR
 
 ---
 
-## 📄 许可证 (License)
+## 📄 许可证
 
-开源的魅力在于不受拘束，本项目采用高度宽容的 MIT License。详细条款请审阅 [LICENSE](LICENSE) 自治协议。
+本项目采用 MIT 许可证。详细信息请查看 [LICENSE](LICENSE) 文件。
