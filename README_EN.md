@@ -1,41 +1,87 @@
-<img width="1280" height="400" alt="Head Banner2" src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" />
-
 <div align="center">
-
-# 🤖 Octoday-Embodied-Hub
+  <img src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" width="100%" alt="Head Banner" />
+  
+  <div>&nbsp;</div>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=d97706&center=true&vCenter=true&width=500&lines=Cultivating+the+Ultimate+Embodied+Hub;Extending+Productivity+to+an+8th+Day" alt="Typing SVG" />
+  
+  <div>&nbsp;</div>
+  
+  <div>
+    <a href="README.md"><img src="https://img.shields.io/badge/Language-中文版-000000?style=for-the-badge&logo=googletranslate" alt="CN"/></a>&emsp;
+    <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers"><img src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&color=eab308" alt="Stars"/></a>&emsp;
+    <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge" alt="PRs"/></a>
+  </div>
+  
+  <div>&nbsp;</div>
 </div>
 
-## 🌟 Our Vision
-> A continuously updated structured resource index for the field of Embodied AI, covering companies, jobs, papers, code repositories, datasets, and learning paths. Aimed at **lowering the information retrieval barrier and building a community-driven knowledge map**.
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Our Vision</h2>
+<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" />
 
-**"Octoday" means an extra day — we believe Embodied AI will massively boost productivity, leveraging technology to truly grant you an extra "eighth day" in your life.**
+<p><b>Octoday</b> means an extra day — we believe Embodied AI (EAI) will massively boost human productivity, leveraging autonomous technology to truly grant you an extra "eighth day" in your life.</p>
 
-This is not just another tedious paper list, but a **hub connecting industry, talent, and knowledge**. Whether you are a student, an engineer, or an investor, you will find what you need here.
+<p>This is not just another tedious paper list. It is a highly curated Hub connecting <b>industry</b>, <b>talent</b>, and <b>knowledge</b>. We bring together a group of idealists driven by open-source ethics. Whether you are an exploring beginner, an algorithm engineer, or an investor, you will find your puzzle piece here.</p>
 
-🌐 [中文版](README.md)
+<br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
-[![Update Frequency](https://img.shields.io/badge/Update%20Frequency-Weekly-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> Navigator</h2>
 
----
+<p align="center">Rejecting endless walls of text, we use <b>intent-driven</b> guidance. Simply find your obstacle below 👇</p>
 
-## 📚 1. Core Resource Matrix
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
+      <b>Want to build your theoretical foundation?</b>
+    </td>
+    <td align="center" width="45%">
+      <p>Proceed to: <a target="_blank" href="00-basics.md"><b>📖《Core Basics & Terminology》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30" height="30" />
+      <b>Looking for State-Of-The-Art codes & papers?</b>
+    </td>
+    <td align="center">
+      <p>Proceed to: <a target="_blank" href="03-papers-code.md"><b>📄《Frontier Papers & Repos》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" />
+      <b>Need reliable Simulation & Testing Tools?</b>
+    </td>
+    <td align="center">
+      <p>Proceed to: <a target="_blank" href="04-tools.md"><b>🔧《Simulators & Frameworks》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" height="30" />
+      <b>Curious about leading start-ups and products?</b>
+    </td>
+    <td align="center">
+      <p>Proceed to: <a target="_blank" href="01-companies.md"><b>🏢《EAI Industry Landscape》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" height="30" />
+      <b>Polishing your resume for talent acquisition?</b>
+    </td>
+    <td align="center">
+      <p>Proceed to: <a target="_blank" href="02-jobs.md"><b>💼《Job Listings & Analytics》</b></a></p>
+    </td>
+  </tr>
+</table>
 
-This repository is designed as a **structured resource index + industry knowledge map**. Our philosophy is: **Find what you need, exactly when you need it**. You can quickly navigate through the grid below:
+<br/>
 
-| 🧠 Foundations | 🏢 Industry Info | 🛠️ Tech Ecosystem |
-| :--- | :--- | :--- |
-| [**📖 Basic Knowledge**](00-basics.md)<br>Recommended books, courses, and core terminology | [**🏢 Embodied AI Companies**](01-companies.md)<br>Industry landscape and representative tech companies | [**📄 Papers & Code**](03-papers-code.md)<br>Top-tier papers and open-source code across 9 directions |
-| [**🤝 Contribution Guide**](CONTRIBUTING.md)<br>Learn how to contribute missing resources via PRs | [**💼 Job Listings**](02-jobs.md)<br>Full-time, internships, and dynamic talent demand | [**🔧 Tools & Platforms**](04-tools.md)<br>Practical tools for motion control, simulation, and datasets |
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> The Journey (From Zero to Hero)</h2>
 
-*(Note: The Learning Community section is currently under development. To connect with us or recommend resources, please open an Issue!)*
-
----
-
-## 🧭 2. Learning Path (From Zero to Hero)
-
-> **A strategic learning guide designed for beginners to dive into the Embodied AI ecosystem.**
+<p align="center">Drill down through the Embodied AI ecosystem following the minimal axis:</p>
 
 ```mermaid
 flowchart TD
@@ -55,42 +101,54 @@ flowchart TD
     linkStyle default stroke:#d0d7de,stroke-width:2px;
 ```
 
----
+<br/>
 
-## 🤝 3. How to Contribute
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> Contribute</h2>
 
-> 💡 **The value of resources lies in their use, and even more in sharing.** If you find this resource hub helpful, consider contributing to help others on their journey!
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30" />
+      <b>Have a new startup or paper to submit?</b>
+    </td>
+    <td align="center" width="45%">
+      <p>Read the: <a target="_blank" href="CONTRIBUTING.md"><b>🤝《Pull Request Guidelines》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="30" height="30" />
+      <b>Spotted an edge-case bug or broken link?</b>
+    </td>
+    <td align="center">
+      <p>Launch an: <a target="_blank" href="https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose"><b>🐛 Issue ticket</b></a></p>
+    </td>
+  </tr>
+</table>
 
-We welcome all forms of contribution! Whether it's adding new companies, papers, or fixing errors, every contribution helps the community.
+<br/>
 
-1. 📖 Read the [Contribution Guide](CONTRIBUTING.md) for detailed steps.
-2. ✨ Submit a [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) to directly add content.
-3. 🐛 Found an error/broken link or have a suggestion? Open an [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose).
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="35" height="35" /> Join the Community</h2>
 
----
+<p align="center">This hub is entirely unsponsored open-source. Scan the badge below to sync with our latest signals:</p>
 
-## 👥 About Octoday Robotics
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" width="100%" alt="Tail Banner" />
+</div>
 
-**Octoday Robotics** is an open community of Embodied AI enthusiasts, developers, and industry observers. We aim to lower the barrier to entry for developers through systematic resource curation, accelerating knowledge dissemination and industry integration.
+<br/>
 
-The project is fully open source. Any form of contribution, suggestion, or collaboration is welcome. For questions, ideas, or resource recommendations, feel free to reach out:
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="35" height="35" /> Hall of Fame</h2>
 
-- **Email**: octoday@yeah.net
-- **GitHub Issues**: Submit an [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) directly.
-- 📱 **WeChat Official Account**: Scan the QR code below for the latest updates and resource news.
+<div align="center">
+  <p>Incredible gratitude to the pioneers paving this road:</p>
+  <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
+  </a>
+</div>
 
-<img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
+<br/>
 
-### 🌟 Special Thanks
-
-Special thanks to all contributors (in no particular order):
-
-<a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
-</a>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<div align="center">
+  <small>Secured under the highly permissive <a href="LICENSE">MIT License</a>.</small>
+</div>

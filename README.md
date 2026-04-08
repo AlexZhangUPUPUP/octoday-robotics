@@ -1,41 +1,87 @@
-<img width="1280" height="400" alt="Head Banner2" src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" />
-
 <div align="center">
-
-# 🤖星期八-具身智能社区
+  <img src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" width="100%" alt="Head Banner" />
+  
+  <div>&nbsp;</div>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=d97706&center=true&vCenter=true&width=500&lines=降低开发者的信息检索门槛;共建具身智能产业级大知识地图" alt="Typing SVG" />
+  
+  <div>&nbsp;</div>
+  
+  <div>
+    <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English-000000?style=for-the-badge&logo=googletranslate" alt="EN"/></a>&emsp;
+    <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers"><img src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&color=eab308" alt="Stars"/></a>&emsp;
+    <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge" alt="PRs"/></a>
+  </div>
+  
+  <div>&nbsp;</div>
 </div>
 
-## 🌟 我们的愿景
-> 一份持续更新的具身智能（Embodied AI）领域结构化资源索引，涵盖公司、招聘、论文、代码库、数据集、学习路径等。旨在**降低中文开发者的信息检索门槛，共建行业知识地图**。
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> 我们的愿景 (Vision)</h2>
+<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" />
 
-**“星期八”意味着额外的一天——我们希望具身智能技术的普及能极大解放生产力，用最高效的技术让你的生活真正“多出一天”。**
+<p><b>星期八 (Octoday)</b> 意味着额外的一天——我们希望具身智能技术的普及能极大解放生产力，用最高效的技术让你的生活真正“多出一天”。</p>
 
-这里不是又一个冗杂的论文列表，而是一个连接**产业、人才与知识**的信息枢纽。不论你是学生、工程师还是投资人，都能在这里找到所需的拼图。
+<p>这里不仅是一份持续更新的结构化资源库（涵盖公司、招聘、论文、代码库、数据集），更是一个连接<b>产业</b>、<b>人才</b>与<b>知识</b>的信息枢纽。我们汇聚了一群有开源信仰的探索者，无论你是渴望入局的小白、资深算法工程师，还是产业投资人，都能在这里找到属于你的这块拼图。</p>
 
-🌐 [English Version](README_EN.md)
+<br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers)
-[![更新状态](https://img.shields.io/badge/更新频率-每周-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics)
-[![贡献指南](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> 核心航向标 (Guide)</h2>
 
----
+<p align="center">拒绝杂乱的文章堆砌，采用<b>问题导向</b>的高效导航。遇到什么路障，就点什么板块 👇</p>
 
-## 📚 1. 核心资源矩阵
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
+      <b>想从零开始打捞知识底座？</b>
+    </td>
+    <td align="center" width="45%">
+      <p>前往 <a target="_blank" href="00-basics.md"><b>📖《基础知识与入门库》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30" height="30" />
+      <b>需要追踪国际顶会与最热代码？</b>
+    </td>
+    <td align="center">
+      <p>前往 <a target="_blank" href="03-papers-code.md"><b>📄《前沿论文与开源代码》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" />
+      <b>寻找好用的机器人仿真开发工具？</b>
+    </td>
+    <td align="center">
+      <p>前往 <a target="_blank" href="04-tools.md"><b>🔧《工具与仿真平台》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" height="30" />
+      <b>想洞察全行业正在落地的明星公司？</b>
+    </td>
+    <td align="center">
+      <p>前往 <a target="_blank" href="01-companies.md"><b>🏢《具身智能全球图谱》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" height="30" />
+      <b>准备看机会、求职投递简历？</b>
+    </td>
+    <td align="center">
+      <p>前往 <a target="_blank" href="02-jobs.md"><b>💼《最新HC与招聘内推》</b></a></p>
+    </td>
+  </tr>
+</table>
 
-本仓库的设计理念是**按图索骥，各取所需**，拒绝杂乱的文章堆砌。你可以通过下方的网格导航迅速找到所需的板块：
+<br/>
 
-| 🧠 基础建设 | 🏢 产业动态 | 🛠️ 技术生态 |
-| :--- | :--- | :--- |
-| [**📖 基础知识**](00-basics.md)<br>入门书籍、课程路线与核心术语 | [**🏢 具身智能公司**](01-companies.md)<br>行业图谱与代表企业及产品 | [**📄 论文与代码库**](03-papers-code.md)<br>涵盖9大方向的前沿顶会与代码 |
-| [**🤝 贡献指南**](CONTRIBUTING.md)<br>欢迎以 PR 的形式参与共建知识库 | [**💼 招聘信息**](02-jobs.md)<br>最新 HC 、实习机会与行业人才需求 | [**🔧 工具与平台**](04-tools.md)<br>数据处理、控制开发与仿真评测工具 |
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> 进阶演练舱 (From Zero to Hero)</h2>
 
-*(注：学习交流社区体系正在筹备建设中，相关资源后续将补充，如有推荐欢迎通过 Issues 或者下方公众号联系我们！)*
-
----
-
-## 🧭 2. 学习路径图 (From Zero to Hero)
-
-> **给初学者的一份学习导航：顺着图表层层深入具身生态**
+<p align="center">顺着极简学习主轴层层深入具身生态结构：</p>
 
 ```mermaid
 flowchart TD
@@ -55,42 +101,54 @@ flowchart TD
     linkStyle default stroke:#d0d7de,stroke-width:2px;
 ```
 
----
+<br/>
 
-## 🤝 3. 如何贡献
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> 参与共建 (How to Contribute)</h2>
 
-> 💡 **资源的价值在于使用，更在于分享**。如果你通过这份资源库有所收获，不妨也贡献一份力量，帮助后来者走得更顺！
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30" />
+      <b>想提交你的公司、论文或新工具？</b>
+    </td>
+    <td align="center" width="45%">
+      <p>请参考：<a target="_blank" href="CONTRIBUTING.md"><b>🤝《开源贡献指南 PR Flow》</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="30" height="30" />
+      <b>发现死链、错误，提出前沿建议？</b>
+    </td>
+    <td align="center">
+      <p>一键开启：<a target="_blank" href="https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose"><b>🐛 提交 Issues</b></a></p>
+    </td>
+  </tr>
+</table>
 
-我们欢迎所有形式的贡献（如添加公司、优质论文、工具等）：
+<br/>
 
-1. 📖 阅读 [贡献指南](CONTRIBUTING.md) 了解详细流程。
-2. ✨ 提交 [Pull Request](https://github.com/AlexZhangUPUPUP/octoday-robotics/compare) 直接贡献资源更新。
-3. 🐛 发现死链、错误或有新建议？请提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose)。
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="35" height="35" /> 加入社区 (Community)</h2>
 
----
+<p align="center">项目完全开源，扫描下方图片二维码加入组织，获取最新动态与资源更新，获取属于你的第八天：</p>
 
-## 👥 关于星期八团队
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" width="100%" alt="Tail Banner" />
+</div>
 
-**星期八 Robotics（Octoday-Robotics）** 是一个由具身智能爱好者、开发者和行业观察者组成的开放社区。我们希望通过系统化的资源整理，降低中文开发者进入具身智能领域的门槛，加速知识传播与产业融合。
+<br/>
 
-项目完全开源，欢迎任何形式的贡献、建议与合作。如果您有任何问题、想法或资源推荐，欢迎通过以下方式联系我们：
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="35" height="35" /> 星光贡献榜 (Contributors)</h2>
 
-- **邮箱**：octoday@yeah.net
-- **GitHub Issues**：直接提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
-- 📱 **微信公众号**：扫描下方二维码，获取最新动态与资源更新
+<div align="center">
+  <p>致谢所有在这片智能土地上开荒撒网的技术先锋：</p>
+  <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
+  </a>
+</div>
 
-<img width="1280" height="560" alt="Tail Banner2" src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" />
+<br/>
 
-### 🌟 特别感谢
-
-感谢所有为项目添砖加瓦的贡献者（排名不分先后）：
-
-<a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
-</a>
-
----
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。详细信息请查看 [LICENSE](LICENSE) 文件。
+<div align="center">
+  <small>开源的魅力在于不受拘束，本项目采用极度宽松的 <a href="LICENSE">MIT License</a>。</small>
+</div>
