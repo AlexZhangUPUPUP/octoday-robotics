@@ -3,86 +3,203 @@
 
   <div>&nbsp;</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=%E6%8A%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%86%85%E5%AE%B9%E4%BB%8E%E6%95%A3%E7%82%B9%E9%95%BF%E6%96%87%E9%87%8D%E7%BB%84%E4%B8%BA%E7%BB%93%E6%9E%84%E5%8C%96%E5%AF%BC%E8%88%AA;%E8%BF%9E%E6%8E%A5%E7%9F%A5%E8%AF%86%E3%80%81%E4%BA%A7%E4%B8%9A%E3%80%81%E5%B7%A5%E5%85%B7%E3%80%81%E4%BA%BA%E6%89%8D%E4%B8%8E%E8%B6%8B%E5%8A%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=%E6%8A%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%86%85%E5%AE%B9%E4%BB%8E%E6%95%A3%E7%82%B9%E9%87%8D%E7%BB%84%E4%B8%BA%E7%BB%93%E6%9E%84%E5%8C%96%E5%AF%BC%E8%88%AA" alt="Typing SVG" />
 
   <div>&nbsp;</div>
 
   <div>
     <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English-111827?style=for-the-badge&logo=googletranslate" alt="English"/></a>&emsp;
-    <a href="embodied-ai-hub/README.md"><img src="https://img.shields.io/badge/New-Structured%20Hub-f59e0b?style=for-the-badge" alt="Structured Hub"/></a>&emsp;
+    <a href="embodied-ai-hub/README.md"><img src="https://img.shields.io/badge/Structured-Hub-f59e0b?style=for-the-badge" alt="Structured Hub"/></a>&emsp;
     <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers"><img src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&color=eab308" alt="Stars"/></a>&emsp;
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge" alt="PRs"/></a>
   </div>
-
-  <div>&nbsp;</div>
 </div>
 
-## 项目定位
+# 🤖 星期八 · 具身智能资源库 (Embodied AI Hub)
 
-`Octoday Robotics` 现在不再只是 5 篇长文的资源堆叠，而是开始向一套更适合 GitHub 浏览与持续扩展的 `Embodied AI Hub` 结构演进。
+> 🚀 一个连接「论文 × 项目 × 公司 × 人才」的具身智能信息枢纽
+> Built for developers, researchers, and builders in Embodied AI
 
-这次重构的目标不是推倒重来，而是把你已经沉淀下来的高价值内容，映射到更清晰的目录化信息架构里。
+---
 
-## 这次重构后的阅读方式
+## 🔥 本周精选（Weekly Picks）
 
-| 你现在想解决什么问题 | 推荐入口 | 说明 |
+> 每周更新，帮你节省信息筛选时间
+
+| 模块 | 本周焦点 | 入口 |
 | --- | --- | --- |
-| 我刚接触具身智能，不知道从哪里开始 | [Learning 学习中心](embodied-ai-hub/learning/README.md) | 书单、课程、术语、学习路径 |
-| 我想按角色或任务快速找到资料 | [Navigation 导航中心](embodied-ai-hub/navigation/README.md) | 按新人、研究者、求职者、开发者拆路由 |
-| 我想看代表公司和产业格局 | [Companies 公司库](embodied-ai-hub/companies/README.md) | 国内外重点公司、观察维度、行业标签 |
-| 我想找岗位和能力要求 | [Jobs 岗位中心](embodied-ai-hub/jobs/README.md) | 岗位类型、技能关键词、投递建议 |
-| 我想追论文、项目和模型路线 | [Papers 论文索引](embodied-ai-hub/papers/README.md) | Foundation Models、VLA、Agent、Manipulation、Navigation |
-| 我想找可复现的代码与工具链 | [Projects 项目与工具](embodied-ai-hub/projects/README.md) | 仿真平台、训练框架、开发工具、开源基座 |
-| 我想找数据集、基准和评测集 | [Datasets 数据与基准](embodied-ai-hub/datasets/README.md) | 数据集地图、Benchmark、评测建议 |
-| 我想跟进行业趋势与重点方向 | [Trends 趋势雷达](embodied-ai-hub/trends/README.md) | 顶会、实验室、赛道、观察框架 |
-| 我想做周更/资讯整理 | [Weekly 周报模板](embodied-ai-hub/weekly/README.md) | 可直接扩展成每周更新机制 |
+| 🧠 Papers | ⭐ Must Read: [Robot Foundation Models](embodied-ai-hub/papers/foundation-models.md)<br>🔥 Trending: [VLA (Vision-Language-Action)](embodied-ai-hub/papers/vla.md) | [论文总索引](embodied-ai-hub/papers/README.md) |
+| 🤖 Projects | 🔥 [Open-source Robot Stack](embodied-ai-hub/projects/frameworks.md)<br>🧠 [Simulation → Real Transfer Toolchains](embodied-ai-hub/papers/sim2real.md) | [项目入口](embodied-ai-hub/projects/README.md) |
+| 📈 Trends | [VLA 正在成为统一范式](embodied-ai-hub/trends/README.md)<br>[仿真到现实的迁移加速](embodied-ai-hub/papers/sim2real.md) | [趋势雷达](embodied-ai-hub/trends/README.md) |
 
-## 新的 Hub 结构
+👉 [点击进入 Weekly 全列表](embodied-ai-hub/weekly/README.md)
 
-| 模块 | 作用 | 主入口 | 对应旧内容来源 |
+---
+
+## 📊 论文排行榜（Paper Radar）
+
+> 不是简单按热度堆砌，而是按“当前最值得投入时间”的主题排序
+
+| Rank | Topic | 为什么值得先看 | 入口 |
 | --- | --- | --- | --- |
-| `navigation` | 按角色和问题快速导航 | [进入](embodied-ai-hub/navigation/README.md) | 融合全仓库 |
-| `learning` | 基础知识与学习路径 | [进入](embodied-ai-hub/learning/README.md) | [`00-basics.md`](00-basics.md) |
-| `companies` | 公司、产品与产业图谱 | [进入](embodied-ai-hub/companies/README.md) | [`01-companies.md`](01-companies.md) |
-| `jobs` | 招聘、技能画像、投递建议 | [进入](embodied-ai-hub/jobs/README.md) | [`02-jobs.md`](02-jobs.md) |
-| `papers` | 论文主索引与专题子页 | [进入](embodied-ai-hub/papers/README.md) | [`03-papers-code.md`](03-papers-code.md) |
-| `projects` | 开源项目、平台、仿真与工具链 | [进入](embodied-ai-hub/projects/README.md) | [`03-papers-code.md`](03-papers-code.md), [`04-tools.md`](04-tools.md) |
-| `datasets` | 数据集、基准、评测 | [进入](embodied-ai-hub/datasets/README.md) | [`03-papers-code.md`](03-papers-code.md) |
-| `trends` | 趋势追踪与研究观察框架 | [进入](embodied-ai-hub/trends/README.md) | 融合论文/公司/岗位/会议 |
-| `weekly` | 周报化沉淀与自动化更新入口 | [进入](embodied-ai-hub/weekly/README.md) | `embodied-ai-hub/scripts/` |
+| 🥇 01 | Robot Foundation Models | 正在重新定义通用机器人能力的上限和数据组织方式 | [foundation-models.md](embodied-ai-hub/papers/foundation-models.md) |
+| 🥈 02 | VLA (Vision-Language-Action) | 当前最强的统一范式之一，连接感知、语言和动作 | [vla.md](embodied-ai-hub/papers/vla.md) |
+| 🥉 03 | Manipulation | 最接近真实机器人落地的研究主线之一 | [manipulation.md](embodied-ai-hub/papers/manipulation.md) |
+| 04 | Embodied Agents & Reasoning | 长时程任务、规划和 agentic pipeline 的核心入口 | [agents.md](embodied-ai-hub/papers/agents.md) |
+| 05 | Sim2Real | 从“论文能跑”走向“系统能落地”的关键桥梁 | [sim2real.md](embodied-ai-hub/papers/sim2real.md) |
 
-## 融合策略
+---
 
-> 这次不是把旧内容直接删掉，而是做了一个双层结构：
->
-> 1. 根目录保留原有长文，作为全量信息源。
-> 2. `embodied-ai-hub/` 提供更适合 GitHub 展示的目录式导航与专题入口。
-> 3. 后续如果你要继续重构，可以再把旧长文逐步拆成更细的专题页，而不会破坏当前链接体系。
+## ⚡ 每周最新资讯（Latest Signals）
 
-## 旧内容归档
+> 让用户不用先翻完整目录，也能快速感知这一周该看什么
 
-如果你仍然习惯一次性阅读完整长文，这些旧入口仍然保留：
+| Channel | Latest Focus | Link |
+| --- | --- | --- |
+| Weekly Digest | 本周聚焦 `VLA / 操作数据 / 仿真平台` 三条线 | [Week 01 Sample](embodied-ai-hub/weekly/2026/week-01.md) |
+| Papers | 从 `Foundation Models` 和 `VLA` 两条线切入，建立主干认知 | [Paper Library](embodied-ai-hub/papers/README.md) |
+| Projects | 推荐优先看 `Frameworks` 和 `Simulators`，最容易进入工程闭环 | [Projects](embodied-ai-hub/projects/README.md) |
+| Jobs | 招聘高频关键词仍然集中在 `VLA / 仿真 / 控制 / ROS2 / Sim2Real` | [Jobs](embodied-ai-hub/jobs/README.md) |
+| Trends | 观察论文、工具链、公司动作和岗位是否同时升温 | [Trends](embodied-ai-hub/trends/README.md) |
 
-| Legacy 文档 | 内容 |
+👉 [进入 Weekly 总入口](embodied-ai-hub/weekly/README.md)
+
+---
+
+## 🧭 快速导航（Start Here）
+
+| 如果你现在要解决的是 | 最快入口 |
 | --- | --- |
-| [`00-basics.md`](00-basics.md) | 基础知识、书单、课程、术语、学习路径 |
-| [`01-companies.md`](01-companies.md) | 国内外具身智能公司全量长表 |
-| [`02-jobs.md`](02-jobs.md) | 招聘信息、岗位亮点、求职建议 |
-| [`03-papers-code.md`](03-papers-code.md) | 论文、代码、数据集、基准、综述 |
-| [`04-tools.md`](04-tools.md) | 仿真平台、开发框架、SDK、硬件平台 |
+| 想快速建立具身智能知识框架 | 🧠 [学习路径](embodied-ai-hub/learning/README.md) |
+| 想看当前论文主线和专题页 | 📄 [论文索引](embodied-ai-hub/papers/README.md) |
+| 想找可复现项目和工具链 | 🤖 [项目 / 代码库](embodied-ai-hub/projects/README.md) |
+| 想快速理解产业格局 | 🏢 [公司 / 实验室](embodied-ai-hub/companies/README.md) |
+| 想看岗位需求和能力关键词 | 💼 [招聘信息](embodied-ai-hub/jobs/README.md) |
+| 想找数据集、benchmark 和评测 | 🧪 [数据集 / Benchmark](embodied-ai-hub/datasets/README.md) |
 
-## 参与共建
+---
 
-如果你想继续把这个仓库打造成长期可维护的具身智能信息枢纽，最值得持续做的是：
+## 🗺️ 一图看懂（Visual Map）
 
-- 把 `weekly/` 变成真实周报，固定每周沉淀一版行业脉络。
-- 把 `papers/`、`datasets/`、`projects/` 按专题继续拆页，减少单页过长。
-- 给 `companies/` 增加更细的标签维度，比如 `人形`、`灵巧操作`、`工业物流`、`家庭服务`、`核心部件`。
-- 把 `jobs/` 做成“能力画像”驱动，而不仅仅是岗位列表。
+```mermaid
+flowchart TD
+    Hub["Embodied AI Hub"] --> Learn["🧠 学习路径"]
+    Hub --> Papers["📄 论文索引"]
+    Hub --> Projects["🤖 项目 / 代码库"]
+    Hub --> Industry["🏢 公司 / 实验室"]
+    Hub --> Jobs["💼 招聘信息"]
+    Hub --> Data["🧪 数据集 / Benchmark"]
+    Hub --> Weekly["🔥 Weekly"]
 
-提交方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+    Learn --> L1["Beginner"]
+    Learn --> L2["Intermediate"]
+    Learn --> L3["Advanced"]
 
-## 社区与致谢
+    Papers --> P1["Foundation Models"]
+    Papers --> P2["VLA"]
+    Papers --> P3["Manipulation / Perception"]
+    Papers --> P4["Survey / Sim2Real"]
+
+    Projects --> R1["Simulators"]
+    Projects --> R2["Frameworks"]
+    Projects --> R3["Hardware"]
+
+    Industry --> I1["Robotics Companies"]
+    Industry --> I2["AI Labs / Global Players"]
+```
+
+---
+
+## 🧠 学习路径（Learning Path）
+
+> 从入门到研究
+
+| Stage | 重点 | 推荐入口 |
+| --- | --- | --- |
+| 🌱 Beginner | 什么是具身智能、基础任务、术语、知识底座 | [glossary.md](embodied-ai-hub/learning/glossary.md), [README.md](embodied-ai-hub/learning/README.md) |
+| 🚀 Intermediate | Manipulation / Navigation / Simulation | [manipulation.md](embodied-ai-hub/papers/manipulation.md), [simulators.md](embodied-ai-hub/projects/simulators.md) |
+| 🧬 Advanced | Foundation Models / World Models / VLA / Agentic Reasoning | [foundation-models.md](embodied-ai-hub/papers/foundation-models.md), [vla.md](embodied-ai-hub/papers/vla.md) |
+
+补充入口： [推荐书单](embodied-ai-hub/learning/books.md) · [课程地图](embodied-ai-hub/learning/courses.md) · [学习路线图](embodied-ai-hub/learning/roadmap.md)
+
+---
+
+## 📄 论文索引（Paper Library）
+
+> 结构化整理，而不是简单堆砌
+
+| Track | 适合谁先看 | 入口 |
+| --- | --- | --- |
+| Perception & Spatial Intelligence | 做感知、导航、空间理解的人 | [perception.md](embodied-ai-hub/papers/perception.md) |
+| Manipulation | 做操作、双臂、遥操作的人 | [manipulation.md](embodied-ai-hub/papers/manipulation.md) |
+| Foundation Models | 想看主干趋势的人 | [foundation-models.md](embodied-ai-hub/papers/foundation-models.md) |
+| Vision-Language-Action | 想跟 VLA 统一范式的人 | [vla.md](embodied-ai-hub/papers/vla.md) |
+| Embodied Agents & Reasoning | 想看规划与长时程任务的人 | [agents.md](embodied-ai-hub/papers/agents.md) |
+| Survey / Benchmark / Sim2Real | 想快速补全全局视角的人 | [surveys.md](embodied-ai-hub/papers/surveys.md), [sim2real.md](embodied-ai-hub/papers/sim2real.md) |
+
+---
+
+## 🤖 项目 / 代码库（Projects）
+
+> 可落地的工程资源
+
+| 模块 | 你会看到什么 | 入口 |
+| --- | --- | --- |
+| Simulation 平台 | MuJoCo / Isaac Sim / Habitat / SAPIEN / Genesis | [simulators.md](embodied-ai-hub/projects/simulators.md) |
+| Robotics 工具链 | ROS2 / OpenVLA / Diffusion Policy / UMI / Drake | [frameworks.md](embodied-ai-hub/projects/frameworks.md) |
+| 开源机器人项目 / 硬件平台 | TurtleBot 4 / Husky / Unitree / K-Bot 等 | [hardware.md](embodied-ai-hub/projects/hardware.md) |
+| End-to-End 系统入口 | 从工具、代码到组合式工作台 | [README.md](embodied-ai-hub/projects/README.md) |
+
+---
+
+## 🏢 公司 / 实验室（Industry Map）
+
+> 产业地图（持续更新）
+
+| 维度 | 入口 |
+| --- | --- |
+| Robotics 公司 / 国内代表玩家 | [china.md](embodied-ai-hub/companies/china.md) |
+| AI Lab / Global Players / 海外路线差异 | [global.md](embodied-ai-hub/companies/global.md) |
+| 总入口与标签视角 | [README.md](embodied-ai-hub/companies/README.md) |
+
+---
+
+## 💼 招聘信息（Jobs）
+
+> 行业岗位聚合
+
+| 类型 | 入口 |
+| --- | --- |
+| 实习 / 校招 / 国内岗位 | [domestic.md](embodied-ai-hub/jobs/domestic.md) |
+| 全职岗位 / 海外机会 | [international.md](embodied-ai-hub/jobs/international.md) |
+| 顶尖人才计划 | [programs.md](embodied-ai-hub/jobs/programs.md) |
+| 总入口与技能画像 | [README.md](embodied-ai-hub/jobs/README.md) |
+
+---
+
+## 🧪 数据集 & Benchmark
+
+> 衡量模型能力的关键
+
+| 模块 | 入口 |
+| --- | --- |
+| Simulation benchmarks | [benchmarks.md](embodied-ai-hub/datasets/benchmarks.md) |
+| Real-world datasets | [README.md](embodied-ai-hub/datasets/README.md) |
+| Benchmark / Evaluation Map | [benchmarks.md](embodied-ai-hub/datasets/benchmarks.md) |
+
+---
+
+## 👥 社区（Community）
+
+> 这是一个可以一起建设的项目
+
+| 方式 | 入口 |
+| --- | --- |
+| 🗣️ 讨论区（Issues） | [Issues](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) |
+| ✍️ 投稿 / 共建 | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| 📅 Weekly 共创 | [Weekly](embodied-ai-hub/weekly/README.md) |
+
+👉 欢迎 PR / Star ⭐
 
 <div align="center">
   <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
@@ -90,6 +207,27 @@
   </a>
 </div>
 
+---
+
+## 🌟 我们的愿景（Vision）
+
+一份持续更新的具身智能（Embodied AI）领域结构化资源索引，
+涵盖公司、招聘、论文、代码库、数据集、学习路径等。
+
+降低中文开发者的信息检索门槛，构建行业知识地图。
+
+“星期八”意味着额外的一天。
+我们希望在这个领域，为你提供**超越常规的资源和视角**。
+
+这里不是又一个论文列表，
+而是一个连接产业、人才与知识的信息枢纽。
+
+---
+
+## ⭐ Star History
+
+如果这个项目对你有帮助，欢迎点一个 Star ⭐
+
 <div align="center">
-  <small>本项目采用 <a href="LICENSE">MIT License</a>，欢迎围绕具身智能知识、产业、工具与人才生态继续共建。</small>
+  <img src="https://api.star-history.com/svg?repos=AlexZhangUPUPUP/octoday-robotics&type=Date" width="100%" alt="Star History Chart" />
 </div>
