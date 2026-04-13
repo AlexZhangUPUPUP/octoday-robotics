@@ -1,156 +1,78 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" width="100%" alt="Head Banner" />
-  
+  <img src="image.png" width="100%" alt="Octoday Embodied AI Hub Banner" />
+
   <div>&nbsp;</div>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=d97706&center=true&vCenter=true&width=500&lines=Cultivating+the+Ultimate+Embodied+Hub;Extending+Productivity+to+an+8th+Day" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=Rebuilding+Octoday+Robotics+into+a+structured+Embodied+AI+Hub;Linking+knowledge%2C+industry%2C+projects%2C+data%2C+talent%2C+and+trends" alt="Typing SVG" />
+
   <div>&nbsp;</div>
-  
+
   <div>
-    <a href="README.md"><img src="https://img.shields.io/badge/Language-中文版-000000?style=for-the-badge&logo=googletranslate" alt="CN"/></a>&emsp;
+    <a href="README.md"><img src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87%E7%89%88-111827?style=for-the-badge&logo=googletranslate" alt="Chinese"/></a>&emsp;
+    <a href="embodied-ai-hub/README.md"><img src="https://img.shields.io/badge/New-Structured%20Hub-f59e0b?style=for-the-badge" alt="Structured Hub"/></a>&emsp;
     <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers"><img src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&color=eab308" alt="Stars"/></a>&emsp;
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge" alt="PRs"/></a>
   </div>
-  
+
   <div>&nbsp;</div>
 </div>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Our Vision</h2>
-<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" />
+## What This Repository Is Becoming
 
-<p><b>Octoday</b> means an extra day — we believe Embodied AI (EAI) will massively boost human productivity, leveraging autonomous technology to truly grant you an extra "eighth day" in your life.</p>
+`Octoday Robotics` is being refactored from a handful of long markdown documents into a clearer, category-based `Embodied AI Hub` that is easier to browse on GitHub and easier to expand over time.
 
-<p>This is not just another tedious paper list. It is a highly curated Hub connecting <b>industry</b>, <b>talent</b>, and <b>knowledge</b>. We bring together a group of idealists driven by open-source ethics. Whether you are an exploring beginner, an algorithm engineer, or an investor, you will find your puzzle piece here.</p>
+This pass does not delete the legacy long-form content. Instead, it places a structured navigation layer on top of the existing knowledge base.
 
-<br/>
+## Start Here
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> Navigator</h2>
+| Goal | Entry | What You Will Find |
+| --- | --- | --- |
+| Learn the field from scratch | [Learning](embodied-ai-hub/learning/README.md) | books, courses, glossary, roadmap |
+| Browse by persona or task | [Navigation](embodied-ai-hub/navigation/README.md) | routes for beginners, researchers, builders, job seekers |
+| Explore companies and the industry map | [Companies](embodied-ai-hub/companies/README.md) | key domestic and global players |
+| Track jobs and hiring signals | [Jobs](embodied-ai-hub/jobs/README.md) | skill keywords, role clusters, application guidance |
+| Follow papers and research tracks | [Papers](embodied-ai-hub/papers/README.md) | foundation models, VLA, agents, manipulation, navigation |
+| Find codebases and tooling | [Projects](embodied-ai-hub/projects/README.md) | simulators, frameworks, SDKs, open-source stacks |
+| Find datasets and benchmarks | [Datasets](embodied-ai-hub/datasets/README.md) | datasets, evaluation sets, benchmark map |
+| Track directions and field signals | [Trends](embodied-ai-hub/trends/README.md) | conferences, labs, themes, observation framework |
+| Turn updates into a repeatable digest | [Weekly](embodied-ai-hub/weekly/README.md) | weekly summary template and update workflow |
 
-<p align="center">Rejecting endless walls of text, we use <b>intent-driven</b> guidance. Simply find your obstacle below 👇</p>
+## Structure Map
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="55%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
-      <b>Want to build your theoretical foundation?</b>
-    </td>
-    <td align="center" width="45%">
-      <p>Proceed to: <a target="_blank" href="00-basics.md"><b>📖《Core Basics & Terminology》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30" height="30" />
-      <b>Looking for State-Of-The-Art codes & papers?</b>
-    </td>
-    <td align="center">
-      <p>Proceed to: <a target="_blank" href="03-papers-code.md"><b>📄《Frontier Papers & Repos》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" />
-      <b>Need reliable Simulation & Testing Tools?</b>
-    </td>
-    <td align="center">
-      <p>Proceed to: <a target="_blank" href="04-tools.md"><b>🔧《Simulators & Frameworks》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" height="30" />
-      <b>Curious about leading start-ups and products?</b>
-    </td>
-    <td align="center">
-      <p>Proceed to: <a target="_blank" href="01-companies.md"><b>🏢《EAI Industry Landscape》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" height="30" />
-      <b>Polishing your resume for talent acquisition?</b>
-    </td>
-    <td align="center">
-      <p>Proceed to: <a target="_blank" href="02-jobs.md"><b>💼《Job Listings & Analytics》</b></a></p>
-    </td>
-  </tr>
-</table>
+| Module | Purpose | Source Legacy Docs |
+| --- | --- | --- |
+| `navigation` | problem-driven routing | repository-wide synthesis |
+| `learning` | fundamentals and onboarding | [`00-basics.md`](00-basics.md) |
+| `companies` | company and product landscape | [`01-companies.md`](01-companies.md) |
+| `jobs` | hiring and talent signals | [`02-jobs.md`](02-jobs.md) |
+| `papers` | research index and topic pages | [`03-papers-code.md`](03-papers-code.md) |
+| `projects` | code, tooling, frameworks | [`03-papers-code.md`](03-papers-code.md), [`04-tools.md`](04-tools.md) |
+| `datasets` | datasets, benchmarks, evaluation | [`03-papers-code.md`](03-papers-code.md) |
+| `trends` | conference and ecosystem tracking | synthesis across docs |
+| `weekly` | repeatable weekly publishing workflow | `embodied-ai-hub/scripts/` |
 
-<br/>
+## Legacy Long-Form Docs
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> The Journey (From Zero to Hero)</h2>
+The original documents remain available as full-source references:
 
-<p align="center">We have tailored a minimal roadmap traversing deeper into the ecosystem:</p>
+| File | Coverage |
+| --- | --- |
+| [`00-basics.md`](00-basics.md) | fundamentals, books, courses, glossary, roadmap |
+| [`01-companies.md`](01-companies.md) | long-form company landscape |
+| [`02-jobs.md`](02-jobs.md) | jobs, highlights, application advice |
+| [`03-papers-code.md`](03-papers-code.md) | papers, code, datasets, benchmarks, surveys |
+| [`04-tools.md`](04-tools.md) | simulators, platforms, SDKs, robotics tooling |
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brick.png" width="25" /> 1. Foundation</h3>
-  <p>📖 <b>Read Books & Courses</b> &emsp;|&emsp; 🧠 <b>Master Terminology</b> &emsp;|&emsp; ⚙️ <b>Grasp Basic Logic</b></p>
-</blockquote>
+## Contribution
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> 2. Exploration</h3>
-  <p>📄 <b>Track Top Papers</b> &emsp;|&emsp; 💻 <b>Run Open-source Code</b> &emsp;|&emsp; 📈 <b>Follow Latest Trends</b></p>
-</blockquote>
-
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Puzzle%20Piece.png" width="25" /> 3. Connection</h3>
-  <p>🏢 <b>Explore AI Companies</b> &emsp;|&emsp; 🔍 <b>Study Scenarios</b> &emsp;|&emsp; 💼 <b>Decrypt Job Demands</b></p>
-</blockquote>
-
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" /> 4. Immersion</h3>
-  <p>🗣️ <b>Follow Key Insights</b> &emsp;|&emsp; 💬 <b>Join Tech Discussions</b> &emsp;|&emsp; 🏆 <b>Contribute to Open-source</b></p>
-</blockquote>
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> Contribute</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="55%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30" />
-      <b>Have a new startup or paper to submit?</b>
-    </td>
-    <td align="center" width="45%">
-      <p>Read the: <a target="_blank" href="CONTRIBUTING.md"><b>🤝《Pull Request Guidelines》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="30" height="30" />
-      <b>Spotted an edge-case bug or broken link?</b>
-    </td>
-    <td align="center">
-      <p>Launch an: <a target="_blank" href="https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose"><b>🐛 Issue ticket</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="35" height="35" /> Join the Community</h2>
-
-<p align="center">This hub is entirely unsponsored open-source. Scan the badge below to sync with our latest signals:</p>
+Use [CONTRIBUTING.md](CONTRIBUTING.md) if you want to help turn this into a durable embodied-AI knowledge hub.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" width="100%" alt="Tail Banner" />
-</div>
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="35" height="35" /> Hall of Fame</h2>
-
-<div align="center">
-  <p>Incredible gratitude to the pioneers paving this road:</p>
   <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
+    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" alt="contributors" />
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <small>Secured under the highly permissive <a href="LICENSE">MIT License</a>.</small>
+  <small>Licensed under <a href="LICENSE">MIT License</a>.</small>
 </div>

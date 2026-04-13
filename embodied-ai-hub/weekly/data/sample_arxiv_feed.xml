@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arXiv Query: embodied ai</title>
+  <id>http://arxiv.org/api/sample</id>
+  <updated>2026-04-12T00:00:00Z</updated>
+  <entry>
+    <id>http://arxiv.org/abs/2601.00001v1</id>
+    <updated>2026-04-12T10:00:00Z</updated>
+    <published>2026-04-12T10:00:00Z</published>
+    <title>Sample Embodied Foundation Model for Robot Skill Transfer</title>
+    <summary>We introduce a sample embodied foundation model that improves cross-embodiment robot skill transfer across manipulation tasks.</summary>
+    <author><name>Alice Zhang</name></author>
+    <author><name>Bob Lee</name></author>
+    <link href="http://arxiv.org/abs/2601.00001v1" rel="alternate" type="text/html" />
+    <link title="pdf" href="http://arxiv.org/pdf/2601.00001v1.pdf" rel="related" type="application/pdf" />
+    <category term="cs.RO" scheme="http://arxiv.org/schemas/atom" />
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.00002v1</id>
+    <updated>2026-04-11T09:30:00Z</updated>
+    <published>2026-04-11T09:30:00Z</published>
+    <title>Sample Vision-Language-Action Policy with Spatial Reasoning</title>
+    <summary>This sample paper studies a compact vision-language-action policy with improved spatial grounding for embodied navigation and manipulation.</summary>
+    <author><name>Carol Chen</name></author>
+    <author><name>David Wang</name></author>
+    <author><name>Emma Xu</name></author>
+    <link href="http://arxiv.org/abs/2601.00002v1" rel="alternate" type="text/html" />
+    <link title="pdf" href="http://arxiv.org/pdf/2601.00002v1.pdf" rel="related" type="application/pdf" />
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom" />
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.00003v1</id>
+    <updated>2026-04-10T08:15:00Z</updated>
+    <published>2026-04-10T08:15:00Z</published>
+    <title>Sample Sim2Real Benchmark for Dexterous Manipulation</title>
+    <summary>We propose a benchmark for sim-to-real transfer in dexterous manipulation with a unified evaluation protocol and reproducible setup.</summary>
+    <author><name>Frank Lin</name></author>
+    <author><name>Grace Sun</name></author>
+    <link href="http://arxiv.org/abs/2601.00003v1" rel="alternate" type="text/html" />
+    <link title="pdf" href="http://arxiv.org/pdf/2601.00003v1.pdf" rel="related" type="application/pdf" />
+    <category term="cs.RO" scheme="http://arxiv.org/schemas/atom" />
+  </entry>
+</feed>

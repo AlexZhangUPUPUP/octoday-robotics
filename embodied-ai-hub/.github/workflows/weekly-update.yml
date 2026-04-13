@@ -1,0 +1,68 @@
+name: Update Weekly Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      digest_date:
+        description: "Digest date in YYYY-MM-DD format"
+        required: false
+      days:
+        description: "How many days of papers to keep"
+        required: false
+        default: "14"
+  schedule:
+    - cron: "0 2 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch arXiv snapshot
+        run: |
+          python scripts/fetch_arxiv.py \
+            --config weekly/config/arxiv_topics.json \
+            --days "${{ github.event.inputs.days || '14' }}" \
+            --output weekly/data/latest_arxiv.json
+
+      - name: Generate weekly markdown
+        run: |
+          python scripts/update_weekly.py \
+            --papers-json weekly/data/latest_arxiv.json \
+            --date "${{ github.event.inputs.digest_date }}" \
+            --overwrite
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet -- weekly; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: automation/weekly-digest
+          delete-branch: true
+          commit-message: "chore: update embodied ai weekly digest"
+          title: "chore: update embodied ai weekly digest"
+          body: |
+            Automated weekly digest update.
+
+            - refreshed arXiv snapshot
+            - regenerated weekly markdown in `weekly/`

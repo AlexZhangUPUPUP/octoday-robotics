@@ -1,0 +1,40 @@
+name: Fetch arXiv Snapshot
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days of papers to keep"
+        required: false
+        default: "14"
+  schedule:
+    - cron: "0 1 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch arXiv snapshot
+        run: |
+          python scripts/fetch_arxiv.py \
+            --config weekly/config/arxiv_topics.json \
+            --days "${{ github.event.inputs.days || '14' }}" \
+            --output weekly/data/latest_arxiv.json
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: embodied-ai-arxiv-snapshot
+          path: weekly/data/latest_arxiv.json

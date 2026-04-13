@@ -1,0 +1,33 @@
+{
+  "summary": "本周样例周报重点关注 VLA、操作数据和仿真平台三条线，说明论文、工具和落地信号正在重新汇聚。",
+  "projects": [
+    {
+      "title": "Genesis 作为轻量仿真底座值得持续观察",
+      "detail": "它适合快速搭建物理 AI 与 embodied 原型，尤其适合和 `projects/simulators.md` 联动阅读。"
+    },
+    {
+      "title": "OpenVLA + Diffusion Policy 仍然是最容易组织成 demo 的组合",
+      "detail": "一个负责通用动作建模，一个负责 manipulation 任务落地。"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Figure、Apptronik、1X 继续代表三种不同的人形叙事",
+      "detail": "分别更靠近工业制造、工业量产与家庭服务。"
+    },
+    {
+      "title": "国内玩家更适合结合公司库一起观察",
+      "detail": "推荐联动 `companies/china.md` 看整机、平台和大脑层差异。"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "岗位关键词仍然集中在 VLA、仿真、控制、ROS2",
+      "detail": "建议和 `jobs/domestic.md`、`jobs/international.md` 一起看。"
+    }
+  ],
+  "observations": [
+    "真正值得写进周报的，不是论文数量，而是不同层级的信号是否开始互相印证。",
+    "如果一条技术线同时出现在论文、工具链、公司动作和招聘描述里，它的价值通常更高。"
+  ]
+}

@@ -1,156 +1,95 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/37c4adab-2313-442b-9d9a-a978df1895a4" width="100%" alt="Head Banner" />
-  
+  <img src="image.png" width="100%" alt="Octoday Embodied AI Hub Banner" />
+
   <div>&nbsp;</div>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=d97706&center=true&vCenter=true&width=500&lines=降低开发者的信息检索门槛;共建具身智能产业级大知识地图" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=%E6%8A%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%86%85%E5%AE%B9%E4%BB%8E%E6%95%A3%E7%82%B9%E9%95%BF%E6%96%87%E9%87%8D%E7%BB%84%E4%B8%BA%E7%BB%93%E6%9E%84%E5%8C%96%E5%AF%BC%E8%88%AA;%E8%BF%9E%E6%8E%A5%E7%9F%A5%E8%AF%86%E3%80%81%E4%BA%A7%E4%B8%9A%E3%80%81%E5%B7%A5%E5%85%B7%E3%80%81%E4%BA%BA%E6%89%8D%E4%B8%8E%E8%B6%8B%E5%8A%BF" alt="Typing SVG" />
+
   <div>&nbsp;</div>
-  
+
   <div>
-    <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English-000000?style=for-the-badge&logo=googletranslate" alt="EN"/></a>&emsp;
+    <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English-111827?style=for-the-badge&logo=googletranslate" alt="English"/></a>&emsp;
+    <a href="embodied-ai-hub/README.md"><img src="https://img.shields.io/badge/New-Structured%20Hub-f59e0b?style=for-the-badge" alt="Structured Hub"/></a>&emsp;
     <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers"><img src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&color=eab308" alt="Stars"/></a>&emsp;
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-22c55e?style=for-the-badge" alt="PRs"/></a>
   </div>
-  
+
   <div>&nbsp;</div>
 </div>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> 我们的愿景 (Vision)</h2>
-<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" />
+## 项目定位
 
-<p><b>星期八 (Octoday)</b> 意味着额外的一天——我们希望具身智能技术的普及能极大解放生产力，用最高效的技术让你的生活真正“多出一天”。</p>
+`Octoday Robotics` 现在不再只是 5 篇长文的资源堆叠，而是开始向一套更适合 GitHub 浏览与持续扩展的 `Embodied AI Hub` 结构演进。
 
-<p>这里不仅是一份持续更新的结构化资源库（涵盖公司、招聘、论文、代码库、数据集），更是一个连接<b>产业</b>、<b>人才</b>与<b>知识</b>的信息枢纽。我们汇聚了一群有开源信仰的探索者，无论你是渴望入局的小白、资深算法工程师，还是产业投资人，都能在这里找到属于你的这块拼图。</p>
+这次重构的目标不是推倒重来，而是把你已经沉淀下来的高价值内容，映射到更清晰的目录化信息架构里。
 
-<br/>
+## 这次重构后的阅读方式
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> 核心航向标 (Guide)</h2>
+| 你现在想解决什么问题 | 推荐入口 | 说明 |
+| --- | --- | --- |
+| 我刚接触具身智能，不知道从哪里开始 | [Learning 学习中心](embodied-ai-hub/learning/README.md) | 书单、课程、术语、学习路径 |
+| 我想按角色或任务快速找到资料 | [Navigation 导航中心](embodied-ai-hub/navigation/README.md) | 按新人、研究者、求职者、开发者拆路由 |
+| 我想看代表公司和产业格局 | [Companies 公司库](embodied-ai-hub/companies/README.md) | 国内外重点公司、观察维度、行业标签 |
+| 我想找岗位和能力要求 | [Jobs 岗位中心](embodied-ai-hub/jobs/README.md) | 岗位类型、技能关键词、投递建议 |
+| 我想追论文、项目和模型路线 | [Papers 论文索引](embodied-ai-hub/papers/README.md) | Foundation Models、VLA、Agent、Manipulation、Navigation |
+| 我想找可复现的代码与工具链 | [Projects 项目与工具](embodied-ai-hub/projects/README.md) | 仿真平台、训练框架、开发工具、开源基座 |
+| 我想找数据集、基准和评测集 | [Datasets 数据与基准](embodied-ai-hub/datasets/README.md) | 数据集地图、Benchmark、评测建议 |
+| 我想跟进行业趋势与重点方向 | [Trends 趋势雷达](embodied-ai-hub/trends/README.md) | 顶会、实验室、赛道、观察框架 |
+| 我想做周更/资讯整理 | [Weekly 周报模板](embodied-ai-hub/weekly/README.md) | 可直接扩展成每周更新机制 |
 
-<p align="center">拒绝杂乱的文章堆砌，采用<b>问题导向</b>的高效导航。遇到什么路障，就点什么板块 👇</p>
+## 新的 Hub 结构
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="55%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
-      <b>想从零开始打捞知识底座？</b>
-    </td>
-    <td align="center" width="45%">
-      <p>前往 <a target="_blank" href="00-basics.md"><b>📖《基础知识与入门库》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30" height="30" />
-      <b>需要追踪国际顶会与最热代码？</b>
-    </td>
-    <td align="center">
-      <p>前往 <a target="_blank" href="03-papers-code.md"><b>📄《前沿论文与开源代码》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" />
-      <b>寻找好用的机器人仿真开发工具？</b>
-    </td>
-    <td align="center">
-      <p>前往 <a target="_blank" href="04-tools.md"><b>🔧《工具与仿真平台》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" height="30" />
-      <b>想洞察全行业正在落地的明星公司？</b>
-    </td>
-    <td align="center">
-      <p>前往 <a target="_blank" href="01-companies.md"><b>🏢《具身智能全球图谱》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" height="30" />
-      <b>准备看机会、求职投递简历？</b>
-    </td>
-    <td align="center">
-      <p>前往 <a target="_blank" href="02-jobs.md"><b>💼《最新HC与招聘内推》</b></a></p>
-    </td>
-  </tr>
-</table>
+| 模块 | 作用 | 主入口 | 对应旧内容来源 |
+| --- | --- | --- | --- |
+| `navigation` | 按角色和问题快速导航 | [进入](embodied-ai-hub/navigation/README.md) | 融合全仓库 |
+| `learning` | 基础知识与学习路径 | [进入](embodied-ai-hub/learning/README.md) | [`00-basics.md`](00-basics.md) |
+| `companies` | 公司、产品与产业图谱 | [进入](embodied-ai-hub/companies/README.md) | [`01-companies.md`](01-companies.md) |
+| `jobs` | 招聘、技能画像、投递建议 | [进入](embodied-ai-hub/jobs/README.md) | [`02-jobs.md`](02-jobs.md) |
+| `papers` | 论文主索引与专题子页 | [进入](embodied-ai-hub/papers/README.md) | [`03-papers-code.md`](03-papers-code.md) |
+| `projects` | 开源项目、平台、仿真与工具链 | [进入](embodied-ai-hub/projects/README.md) | [`03-papers-code.md`](03-papers-code.md), [`04-tools.md`](04-tools.md) |
+| `datasets` | 数据集、基准、评测 | [进入](embodied-ai-hub/datasets/README.md) | [`03-papers-code.md`](03-papers-code.md) |
+| `trends` | 趋势追踪与研究观察框架 | [进入](embodied-ai-hub/trends/README.md) | 融合论文/公司/岗位/会议 |
+| `weekly` | 周报化沉淀与自动化更新入口 | [进入](embodied-ai-hub/weekly/README.md) | `embodied-ai-hub/scripts/` |
 
-<br/>
+## 融合策略
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> 进阶演练舱 (From Zero to Hero)</h2>
+> 这次不是把旧内容直接删掉，而是做了一个双层结构：
+>
+> 1. 根目录保留原有长文，作为全量信息源。
+> 2. `embodied-ai-hub/` 提供更适合 GitHub 展示的目录式导航与专题入口。
+> 3. 后续如果你要继续重构，可以再把旧长文逐步拆成更细的专题页，而不会破坏当前链接体系。
 
-<p align="center">我们为您设计了顺着主轴层层深入的学习图谱：</p>
+## 旧内容归档
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brick.png" width="25" /> 1. 筑基 (Foundation)</h3>
-  <p>📖 <b>阅读首选书籍课程</b> &emsp;|&emsp; 🧠 <b>掌握具身核心术语</b> &emsp;|&emsp; ⚙️ <b>熟悉底层物理逻辑</b></p>
-</blockquote>
+如果你仍然习惯一次性阅读完整长文，这些旧入口仍然保留：
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> 2. 瞭望 (Exploration)</h3>
-  <p>📄 <b>追踪最热前沿论文</b> &emsp;|&emsp; 💻 <b>运行经典开源代码</b> &emsp;|&emsp; 📈 <b>把控前沿演进趋势</b></p>
-</blockquote>
+| Legacy 文档 | 内容 |
+| --- | --- |
+| [`00-basics.md`](00-basics.md) | 基础知识、书单、课程、术语、学习路径 |
+| [`01-companies.md`](01-companies.md) | 国内外具身智能公司全量长表 |
+| [`02-jobs.md`](02-jobs.md) | 招聘信息、岗位亮点、求职建议 |
+| [`03-papers-code.md`](03-papers-code.md) | 论文、代码、数据集、基准、综述 |
+| [`04-tools.md`](04-tools.md) | 仿真平台、开发框架、SDK、硬件平台 |
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Puzzle%20Piece.png" width="25" /> 3. 连接 (Connection)</h3>
-  <p>🏢 <b>翻阅全球企业清单</b> &emsp;|&emsp; 🔍 <b>研究真实落地场景</b> &emsp;|&emsp; 💼 <b>反推市场求职技能</b></p>
-</blockquote>
+## 参与共建
 
-<blockquote>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" /> 4. 融入 (Immersion)</h3>
-  <p>🗣️ <b>关注大佬架构洞见</b> &emsp;|&emsp; 💬 <b>参与最燃技术讨论</b> &emsp;|&emsp; 🏆 <b>点亮属于你的开源荣誉</b></p>
-</blockquote>
+如果你想继续把这个仓库打造成长期可维护的具身智能信息枢纽，最值得持续做的是：
 
-<br/>
+- 把 `weekly/` 变成真实周报，固定每周沉淀一版行业脉络。
+- 把 `papers/`、`datasets/`、`projects/` 按专题继续拆页，减少单页过长。
+- 给 `companies/` 增加更细的标签维度，比如 `人形`、`灵巧操作`、`工业物流`、`家庭服务`、`核心部件`。
+- 把 `jobs/` 做成“能力画像”驱动，而不仅仅是岗位列表。
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> 参与共建 (How to Contribute)</h2>
+提交方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="55%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" height="30" />
-      <b>想提交你的公司、论文或新工具？</b>
-    </td>
-    <td align="center" width="45%">
-      <p>请参考：<a target="_blank" href="CONTRIBUTING.md"><b>🤝《开源贡献指南 PR Flow》</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="30" height="30" />
-      <b>发现死链、错误，提出前沿建议？</b>
-    </td>
-    <td align="center">
-      <p>一键开启：<a target="_blank" href="https://github.com/AlexZhangUPUPUP/octoday-robotics/issues/new/choose"><b>🐛 提交 Issues</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20Showing%20Asia-Australia.png" width="35" height="35" /> 加入社区 (Community)</h2>
-
-<p align="center">项目完全开源，扫描下方图片二维码加入组织，获取最新动态与资源更新，获取属于你的第八天：</p>
+## 社区与致谢
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d7c00f6-3c91-478e-8d17-d08394954720" width="100%" alt="Tail Banner" />
-</div>
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="35" height="35" /> 星光贡献榜 (Contributors)</h2>
-
-<div align="center">
-  <p>致谢所有在这片智能土地上开荒撒网的技术先锋：</p>
   <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" />
+    <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" alt="contributors" />
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <small>开源的魅力在于不受拘束，本项目采用极度宽松的 <a href="LICENSE">MIT License</a>。</small>
+  <small>本项目采用 <a href="LICENSE">MIT License</a>，欢迎围绕具身智能知识、产业、工具与人才生态继续共建。</small>
 </div>
