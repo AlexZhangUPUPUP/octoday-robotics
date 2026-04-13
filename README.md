@@ -20,6 +20,13 @@
 > 🚀 一个连接「论文 × 项目 × 公司 × 人才」的具身智能信息枢纽
 > Built for developers, researchers, and builders in Embodied AI
 
+这里是一份持续更新的具身智能（Embodied AI）结构化资源索引，
+涵盖学习路径、论文、代码库、公司、招聘、数据集与每周动态。
+
+“星期八”意味着额外的一天。
+我们希望通过更清晰的信息组织，降低中文开发者的信息检索门槛，
+让你更快建立知识框架、看懂前沿方向、连接产业动态，并找到适合自己的成长路径。
+
 ---
 
 ## 🔥 本周精选（Weekly Picks）
@@ -79,48 +86,40 @@
 
 ---
 
-## 🗺️ 一图看懂（Visual Map）
+## 🪜 学习路径图 – 从入门到精通
 
-```mermaid
-flowchart TD
-    Hub["Embodied AI Hub"] --> Learn["🧠 学习路径"]
-    Hub --> Papers["📄 论文索引"]
-    Hub --> Projects["🤖 项目 / 代码库"]
-    Hub --> Industry["🏢 公司 / 实验室"]
-    Hub --> Jobs["💼 招聘信息"]
-    Hub --> Data["🧪 数据集 / Benchmark"]
-    Hub --> Weekly["🔥 Weekly"]
+> 如果你是初学者，建议按下面这条路径逐步深入。它不是“看完所有内容”的路线，而是“先建立方向感，再逐步做深”的路线。
 
-    Learn --> L1["Beginner"]
-    Learn --> L2["Intermediate"]
-    Learn --> L3["Advanced"]
+### 🪜 2.1 筑基：构建知识框架
 
-    Papers --> P1["Foundation Models"]
-    Papers --> P2["VLA"]
-    Papers --> P3["Manipulation / Perception"]
-    Papers --> P4["Survey / Sim2Real"]
+从 [学习中心](embodied-ai-hub/learning/README.md) 开始：
 
-    Projects --> R1["Simulators"]
-    Projects --> R2["Frameworks"]
-    Projects --> R3["Hardware"]
+- 阅读 [推荐书籍](embodied-ai-hub/learning/books.md) 与 [课程地图](embodied-ai-hub/learning/courses.md)，先建立机器人学、强化学习、计算机视觉的底层逻辑。
+- 掌握 [核心术语](embodied-ai-hub/learning/glossary.md)，比如 `Sim2Real`、`VLA`、`Imitation Learning`，为后续读论文打基础。
+- 如果你完全是新手，优先看 [学习路线图](embodied-ai-hub/learning/roadmap.md)，不要一上来就跳到最前沿论文。
 
-    Industry --> I1["Robotics Companies"]
-    Industry --> I2["AI Labs / Global Players"]
-```
+### 🔭 2.2 瞭望：追踪科研前沿
 
----
+进入 [论文索引](embodied-ai-hub/papers/README.md)：
 
-## 🧠 学习路径（Learning Path）
+- 按分类浏览具身智能主线，比如 [Foundation Models](embodied-ai-hub/papers/foundation-models.md)、[VLA](embodied-ai-hub/papers/vla.md)、[Manipulation](embodied-ai-hub/papers/manipulation.md)、[Perception](embodied-ai-hub/papers/perception.md)、[Sim2Real](embodied-ai-hub/papers/sim2real.md)。
+- 阅读论文时，尽量结合 [项目 / 代码库](embodied-ai-hub/projects/README.md) 一起看，理解“方法”怎样落到“工程”。
+- 如果你不想一篇篇试错，先从 [Surveys](embodied-ai-hub/papers/surveys.md) 开始，用综述快速建立全局图谱。
 
-> 从入门到研究
+### 🔗 2.3 连接：洞察产业动态
 
-| Stage | 重点 | 推荐入口 |
-| --- | --- | --- |
-| 🌱 Beginner | 什么是具身智能、基础任务、术语、知识底座 | [glossary.md](embodied-ai-hub/learning/glossary.md), [README.md](embodied-ai-hub/learning/README.md) |
-| 🚀 Intermediate | Manipulation / Navigation / Simulation | [manipulation.md](embodied-ai-hub/papers/manipulation.md), [simulators.md](embodied-ai-hub/projects/simulators.md) |
-| 🧬 Advanced | Foundation Models / World Models / VLA / Agentic Reasoning | [foundation-models.md](embodied-ai-hub/papers/foundation-models.md), [vla.md](embodied-ai-hub/papers/vla.md) |
+翻阅 [公司列表](embodied-ai-hub/companies/README.md) 与 [招聘信息](embodied-ai-hub/jobs/README.md)：
 
-补充入口： [推荐书单](embodied-ai-hub/learning/books.md) · [课程地图](embodied-ai-hub/learning/courses.md) · [学习路线图](embodied-ai-hub/learning/roadmap.md)
+- 看看 [国内公司](embodied-ai-hub/companies/china.md) 和 [海外路线](embodied-ai-hub/companies/global.md) 分别在做什么，核心产品和落地场景是什么。
+- 通过 [岗位需求](embodied-ai-hub/jobs/domestic.md) 和 [海外机会](embodied-ai-hub/jobs/international.md) 反推当前工业界最需要哪些技能，再决定你该补 `控制`、`仿真`、`VLA` 还是 `系统工程`。
+
+### 🌐 2.4 融入：加入社区生态
+
+把自己放进这套生态里，而不只是做旁观者：
+
+- 通过 [Issues](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) 参与讨论，持续看 [Weekly](embodied-ai-hub/weekly/README.md) 的更新节奏。
+- 关注 [趋势雷达](embodied-ai-hub/trends/README.md) 和 [全球玩家 / 实验室视角](embodied-ai-hub/companies/global.md)，建立对社区与研究生态的持续感知。
+- 尝试参与开源项目、做复现、提 PR，或者参加竞赛，把“读资料”转成“做项目”。
 
 ---
 
@@ -206,21 +205,6 @@ flowchart TD
     <img src="https://contrib.rocks/image?repo=AlexZhangUPUPUP/octoday-robotics" alt="contributors" />
   </a>
 </div>
-
----
-
-## 🌟 我们的愿景（Vision）
-
-一份持续更新的具身智能（Embodied AI）领域结构化资源索引，
-涵盖公司、招聘、论文、代码库、数据集、学习路径等。
-
-降低中文开发者的信息检索门槛，构建行业知识地图。
-
-“星期八”意味着额外的一天。
-我们希望在这个领域，为你提供**超越常规的资源和视角**。
-
-这里不是又一个论文列表，
-而是一个连接产业、人才与知识的信息枢纽。
 
 ---
 
