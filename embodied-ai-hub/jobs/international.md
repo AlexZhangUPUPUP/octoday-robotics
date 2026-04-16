@@ -5,7 +5,7 @@
 ## 代表性岗位
 
 | 公司 | 角色 | 侧重能力 |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | AIM Intelligent Machines | Controls / Perception / SLAM | 控制与感知结合 |
 | Apptronik | Motion Control / Planning / Autonomy | 人形系统软件与规控 |
 | Boston Dynamics | Controls Engineer | 控制和动力学 |

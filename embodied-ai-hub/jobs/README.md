@@ -7,7 +7,7 @@
 ## 子页导航
 
 | 子页 | 内容 |
-| --- | --- |
+| :--- | :--- |
 | [domestic.md](domestic.md) | 国内岗位快照与技能线索 |
 | [international.md](international.md) | 海外岗位快照与角色类型 |
 | [programs.md](programs.md) | 顶尖人才计划与专项项目 |
@@ -15,7 +15,7 @@
 ## 岗位类型地图
 
 | 类型 | 常见关键词 |
-| --- | --- |
+| :--- | :--- |
 | 算法岗 | VLA、Diffusion Policy、模仿学习、世界模型、强化学习 |
 | 感知岗 | 3D 视觉、点云、SLAM、语义理解、多模态感知 |
 | 控制/规控岗 | 运动控制、MPC、轨迹规划、动力学、力控 |
@@ -26,7 +26,7 @@
 ## 高频技能关键词
 
 | 能力 | 为什么频繁出现 |
-| --- | --- |
+| :--- | :--- |
 | ROS / ROS2 | 机器人软件工程基本盘 |
 | Isaac Sim / MuJoCo | 训练、验证和仿真部署入口 |
 | Reinforcement Learning | 控制和策略学习核心方法 |
@@ -39,7 +39,7 @@
 ## 代表性用人方
 
 | 国内 | 海外 |
-| --- | --- |
+| :--- | :--- |
 | 华为、腾讯 Robotics X、宇树、智元、银河通用、云深处、思灵、普渡 | Apptronik、Boston Dynamics、Tesla、Meta、Google DeepMind、HTX、Figure 生态岗位 |
 
 ## 投递前建议
