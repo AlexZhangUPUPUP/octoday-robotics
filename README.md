@@ -17,14 +17,16 @@
 
 # 🤖 星期八 · 具身智能开源社区 (Embodied AI Hub)
 
-> 🚀 一个连接「论文 × 项目 × 公司 × 人才」的具身智能信息枢纽
+> 🚀 一个连接「论文 × 项目 × 公司 × 人才」的具身智能开源社区首页
 > Built for developers, researchers, and builders in Embodied AI
 
-这里是一份持续更新的具身智能（Embodied AI）结构化资源索引，
+这里是星期八开源社区的首页，也是一份持续更新的具身智能（Embodied AI）结构化资源索引，
 涵盖学习路径、论文、代码库、公司、招聘、数据集与每周动态。
 
+你可以把它理解为一个面向中文开发者的具身智能导航入口与共建社区。
+
 “星期八”意味着额外的一天。
-我们希望通过更清晰的信息组织，降低中文开发者的信息检索门槛，
+我们希望通过社区共建与更清晰的信息组织，降低中文开发者的信息检索门槛，
 让你更快建立知识框架、看懂前沿方向、连接产业动态，并找到适合自己的成长路径。
 
 ---
@@ -34,9 +36,9 @@
 > 每周更新，帮你节省信息筛选时间
 
 | 模块 | 本周焦点 | 入口 |
-| --- | --- | --- |
-| 🧠 Papers | ⭐ Must Read: [Robot Foundation Models](embodied-ai-hub/papers/foundation-models.md)<br>🔥 Trending: [VLA (Vision-Language-Action)](embodied-ai-hub/papers/vla.md) | [论文总索引](embodied-ai-hub/papers/README.md) |
-| 🤖 Projects | 🔥 [Open-source Robot Stack](embodied-ai-hub/projects/frameworks.md)<br>🧠 [Simulation → Real Transfer Toolchains](embodied-ai-hub/papers/sim2real.md) | [项目入口](embodied-ai-hub/projects/README.md) |
+| :---: | :---: | :---: |
+| 🧠 Papers | [Robot Foundation Models](embodied-ai-hub/papers/foundation-models.md)<br>[VLA (Vision-Language-Action)](embodied-ai-hub/papers/vla.md) | [论文总索引](embodied-ai-hub/papers/README.md) |
+| 🤖 Projects | [Open-source Robot Stack](embodied-ai-hub/projects/frameworks.md)<br>[Simulation → Real Transfer Toolchains](embodied-ai-hub/papers/sim2real.md) | [项目入口](embodied-ai-hub/projects/README.md) |
 | 📈 Trends | [VLA 正在成为统一范式](embodied-ai-hub/trends/README.md)<br>[仿真到现实的迁移加速](embodied-ai-hub/papers/sim2real.md) | [趋势雷达](embodied-ai-hub/trends/README.md) |
 
 👉 [点击进入 Weekly 全列表](embodied-ai-hub/weekly/README.md)
@@ -95,7 +97,7 @@
 
 ## 👥 社区（Community）
 
-> 这是一个可以一起建设的项目
+> 这是一个持续更新、欢迎共建的开源社区
 
 | 方式 | 入口 |
 | --- | --- |
@@ -126,7 +128,7 @@
 
 ## 👥 关于星期八团队
 
-**星期八 Robotics（Octoday-Robotics）** 是一个由具身智能爱好者、开发者和行业观察者组成的开放社区。我们希望通过系统化的资源整理，降低中文开发者进入具身智能领域的门槛，加速知识传播与产业融合。
+**星期八 Robotics（Octoday-Robotics）** 是一个由具身智能爱好者、开发者和行业观察者组成的开放开源社区。我们希望通过系统化的资源整理，降低中文开发者进入具身智能领域的门槛，加速知识传播与产业融合。
 
 项目完全开源，欢迎任何形式的贡献、建议与合作。如果你有任何问题、想法或资源推荐，欢迎通过以下方式联系我们：
 
