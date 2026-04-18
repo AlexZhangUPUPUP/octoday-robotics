@@ -1,10 +1,10 @@
-![Head Banner](image.png)
 
 
-English Version: [README_EN.md](README_EN.md)
-
+![image-20260418190426486](/Users/alex/Library/Application Support/typora-user-images/image-20260418190426486.png)
 
 # 🤖 星期八 · 具身智能开源社区
+
+<div align="right"><sub><a href="README_EN.md">English</a></sub></div>
 
 > 🚀 一个连接「产业 × 资本 × 学生 × 人才」的具身智能开源社区首页
 > An open community for learners, researchers, builders, and practitioners across Embodied AI
@@ -49,7 +49,7 @@ English Version: [README_EN.md](README_EN.md)
 
 - **邮箱**：octoday@yeah.net
 - **GitHub Issues**：直接在本仓库提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
-- **联系方式**：扫描下方二维码，联系我们
+- **联系方式**：扫描下方二维码，联系我
 
 ![星期八 Robotics 微信公众号二维码](assets/wechat-qrcode.png)
 

@@ -1,8 +1,8 @@
 ![Head Banner](image.png)
 
-Chinese Version: [README.md](README.md)
-
 # 🤖 Octoday · Embodied AI Open Community
+
+<div align="right"><sub><a href="README.md">中文</a></sub></div>
 
 > 🚀 A community homepage connecting industry, capital, students, and talent across Embodied AI
 > An open community for learners, researchers, builders, and practitioners across Embodied AI
