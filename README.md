@@ -1,6 +1,6 @@
 
 
-![image-20260418190426486](/Users/alex/Library/Application Support/typora-user-images/image-20260418190426486.png)
+![Head Banner](Head Banner2.png)
 
 # 🤖 星期八 · 具身智能开源社区
 
