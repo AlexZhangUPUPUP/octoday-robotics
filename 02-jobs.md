@@ -42,7 +42,7 @@
 
 | 机构 | 岗位 | 地点 | 类型与链接 |
 |:---|:---|:---|:---|
-| <a id="jobs-domestic"></a>**国内机会** |  | *** |  |
+| <a id="jobs-domestic"></a>**国内机会** |  |  |  |
 | 优必选科技 | 强化学习算法工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | 资深硬件工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | Rust开发工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
@@ -234,7 +234,7 @@
 |  | AGI全栈工程师（AI Agent / AI App） | 上海 | [社招](https://api.minimax.chat/careers) |
 |  | AGI服务端工程师（AI Agent / AI App） | 北京/上海 | [社招](https://api.minimax.chat/careers) |
 |  | 大模型算法工程师-AIGC应用研究 | 北京 | [社招](https://api.minimax.chat/careers) |
-| <a id="jobs-overseas"></a>**🌍 海外机会** | **** | **** |  |
+| <a id="jobs-overseas"></a>**🌍 海外机会** |  |  |  |
 | 1X Technologies | Manufacturing Engineer | Hayward, CA | [社招](https://www.1x.tech/open-positions/manufacturing-engineer-us) |
 |  | AI Research Engineer - Scaling | San Carlos, CA | [社招](https://www.1x.tech/careers) |
 |  | AI Research Engineer - World Models | San Carlos, CA | [社招](https://www.1x.tech/careers) |
