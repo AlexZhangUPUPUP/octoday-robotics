@@ -26,11 +26,19 @@ Start with [Fundamentals](00-basics.md):
 
 ### 1.2 Explore papers, code, and datasets
 
-Enter the [Papers and Code Index](03-papers-code.md):
+Enter the [Papers and Code Index](03-papers-code.md) and browse the areas you care about most to quickly understand the main research directions in embodied AI:
 
-- You can go directly to [Foundation Models](03-papers-code.md#embodied-foundation-models), [VLA](03-papers-code.md#vision-language-action-vla), [Embodied Agents](03-papers-code.md#embodied-agents-reasoning), [Manipulation](03-papers-code.md#manipulation), and [Simulation & Sim2Real](03-papers-code.md#simulation-sim2real) to get a fast sense of the main research directions in embodied AI.
-- If you want the bigger picture first, start from [Survey](03-papers-code.md#survey), [Datasets](03-papers-code.md#datasets), and [Benchmarks & Evaluation](03-papers-code.md#benchmarks-evaluation).
-- When reading papers, it also helps to look at [Tools and Platforms](04-tools.md) alongside them so the connection between research ideas and engineering practice becomes clearer.
+- [Embodied Foundation Models](03-papers-code.md#embodied-foundation-models)
+- [Vision-Language-Action (VLA)](03-papers-code.md#vision-language-action-vla)
+- [Embodied Agents & Reasoning](03-papers-code.md#embodied-agents-reasoning)
+- [Manipulation](03-papers-code.md#manipulation)
+- [Navigation & Spatial Intelligence](03-papers-code.md#navigation-spatial-intelligence)
+- [Simulation & Sim2Real](03-papers-code.md#simulation-sim2real)
+- [Datasets](03-papers-code.md#datasets)
+- [Benchmarks & Evaluation](03-papers-code.md#benchmarks-evaluation)
+- [Survey](03-papers-code.md#survey)
+
+It also helps to read this alongside [Tools and Platforms](04-tools.md) so the connection between research ideas and engineering practice becomes clearer.
 
 ### 1.3 Understand the industry and opportunities
 
