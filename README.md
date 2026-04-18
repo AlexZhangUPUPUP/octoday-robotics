@@ -37,7 +37,8 @@
 
 进入 [论文与代码索引](03-papers-code.md)：
 
-- 可以直接浏览 [论文与代码总表](03-papers-code.md)、[数据集](03-papers-code.md#datasets)、[评测](03-papers-code.md#benchmarks-evaluation) 和 [综述](03-papers-code.md#survey)，快速了解当前研究主线。
+- 可以直接浏览 [Foundation Models](03-papers-code.md#embodied-foundation-models)、[VLA](03-papers-code.md#vision-language-action-vla)、[Embodied Agents](03-papers-code.md#embodied-agents-reasoning)、[Manipulation](03-papers-code.md#manipulation) 和 [Simulation & Sim2Real](03-papers-code.md#simulation-sim2real)，快速了解具身智能的主要研究方向。
+- 如果你想先看全局，也可以从 [综述](03-papers-code.md#survey)、[数据集](03-papers-code.md#datasets) 和 [评测](03-papers-code.md#benchmarks-evaluation) 开始。
 - 阅读论文时，也可以结合 [工具与平台](04-tools.md) 一起看，更容易把研究方向和工程实践对应起来。
 
 ### 1.3 了解产业与机会
