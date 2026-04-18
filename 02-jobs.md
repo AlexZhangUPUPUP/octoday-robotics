@@ -42,7 +42,7 @@
 
 | 机构 | 岗位 | 地点 | 类型与链接 |
 |:---|:---|:---|:---|
-| <a id="jobs-domestic"></a>**国内机会** |  |  |  |
+| <a id="jobs-domestic"></a>**🏢国内机会** |  |  |  |
 | 优必选科技 | 强化学习算法工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | 资深硬件工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | Rust开发工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |

@@ -1,9 +1,13 @@
 # 基础知识 · 入门指南
 
+- [📚 推荐书籍](#recommended-books)
+- [🎓 在线课程](#online-courses)
+
 欢迎来到具身智能的世界！无论你是学生、研究员，还是工程师，这个板块旨在为你提供清晰的学习路径和核心概念参考。
 
 ---
 
+<a id="recommended-books" name="recommended-books"></a>
 ## 📚 推荐书籍
 
 从经典理论到前沿实践，以下书籍是构建知识体系的基石：
@@ -31,6 +35,7 @@
 
 ---
 
+<a id="online-courses" name="online-courses"></a>
 ## 🎓 在线课程
 
 顶尖大学的公开课和在线平台是快速入门的最佳途径：

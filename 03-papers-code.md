@@ -18,6 +18,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 
 ---
 
+<a id="embodied-foundation-models" name="embodied-foundation-models"></a>
 # Embodied Foundation Models
 
 - **[arXiv 2026年4月]** Visually-grounded Humanoid Agents. 视觉接地的人形智能体双层次框架，通过世界层重建语义丰富的3D高斯场景，在真实3D环境中实现主动的具身规划和迭代推理. [论文](https://arxiv.org/abs/2604.08509)
@@ -55,6 +56,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[CoRL 2021年]** BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning. 零样本任务泛化的模仿学习方法，通过语言指令条件化，使机器人能在测试时执行训练中未见过的任务. [论文](https://arxiv.org/abs/2202.02005)
 - **[CoRL 2021年]** CLIPort: What and Where Pathways for Robotic Manipulation. 结合CLIP视觉理解与端到端模仿学习的机器人操纵方法，实现开放词汇的物体操纵和泛化. [论文](https://arxiv.org/abs/2109.12098)
 
+<a id="vision-language-action-vla" name="vision-language-action-vla"></a>
 # Vision-Language-Action (VLA)
 
 - **[arXiv 2026年3月]** XL-VLA: Cross-Hand Latent Representation for Vision-Language-Action Models. 跨手隐式表示的VLA框架，在不同灵巧手之间共享统一的隐式动作空间，实现跨本体的灵巧操纵训练. [论文](https://arxiv.org/abs/2603.10158)
@@ -91,6 +93,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[NeurIPS 2022年]** Flamingo: a Visual Language Model for Few-Shot Learning. 少样本视觉语言模型，VLA架构的重要基础. [论文](https://arxiv.org/abs/2204.14198)
 - **[ICML 2022年]** VLMO: Unified Vision-Language Pre-training with Mixture-of-Modality-Experts. 统一视觉-语言预训练框架，为VLA提供理论基础. [论文](https://arxiv.org/abs/2111.02358)
 
+<a id="embodied-agents-reasoning" name="embodied-agents-reasoning"></a>
 # Embodied Agents & Reasoning
 
 - **[ICLR 2026年]** OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning. 提出任务自适应的3D接地机制和具身感知推理框架，通过门控路由器根据上下文需求显式选择性调节3D融合，实现上下文感知的3D接地和具身约束感知的规划决策. [论文](https://arxiv.org/abs/2509.09332)
@@ -107,6 +110,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[CoRL 2022年]** Code as Policies: Language Model Programs for Embodied Control. 将语言模型生成的代码作为机器人控制策略. [论文](https://arxiv.org/abs/2209.07753)
 - **[NeurIPS 2022年]** VIMA: General Robot Manipulation with Multimodal Prompts. 多模态提示的通用机器人操纵模型. [论文](https://arxiv.org/abs/2210.03094)
 
+<a id="manipulation" name="manipulation"></a>
 # Manipulation
 
 - **[ICRA 2026年]** DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy. 利用预训练的通用扩散策略对通过运动学重定向获得的轨迹进行修正，确保其既遵循人体运动又保持在合理机器人动作分布内，实现单次人类演示的机器人操作模仿. [论文](https://arxiv.org/abs/2506.20668)
@@ -126,6 +130,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[ICRA 2021年]** Form2Fit: Learning Shape Priors for Generalizable Manipulation. 学习形状先验的通用操作. [论文](https://arxiv.org/abs/2103.02245)
 - **[ICRA 2020年]** GraspNet: A Large-Scale Cluttered Scene Dataset for Robotic Grasping. 大规模杂乱场景抓取数据集. [论文](https://arxiv.org/abs/2003.06789)
 
+<a id="navigation-spatial-intelligence" name="navigation-spatial-intelligence"></a>
 # Navigation & Spatial Intelligence
 
 - **[arXiv 2026年4月]** UrbanNav Benchmark: How Far Are Large Multimodal Models from Human-Level Spatial Action? 首个针对城市场景目标导向导航的具身空间动作基准，包含5037个高质量样本，强调3D垂直行动和丰富城市场景语义信息. [论文](https://arxiv.org/abs/2604.07973)
@@ -152,6 +157,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[ICCV 2019年]** Habitat: A Platform for Embodied AI Research. 具身AI研究平台，包含仿真器和数据集. [论文](https://arxiv.org/abs/1904.01201)
 - **[NeurIPS 2018年]** PointNav: Learning to Navigate in Cities Without a Map. 无地图的城市导航学习. [论文](https://arxiv.org/abs/1804.00168)
 
+<a id="simulation-sim2real" name="simulation-sim2real"></a>
 # Simulation & Sim2Real
 
 - **[arXiv 2026年3月]** RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning. 残差加速度场学习框架，用可迁移的单元级校正动力学场增强基础模拟器，基于共享局部特征运行，与全局网格拓扑和离散化无关. [论文](https://arxiv.org/abs/2603.12345)
@@ -175,6 +181,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[CVPR 2017年]** AI2-THOR: An Interactive 3D Environment for Visual AI. 交互式3D环境，经典仿真平台. [论文](https://arxiv.org/abs/1712.05474)
 - **[IROS 2012年]** MuJoCo: A Physics Engine for Model-Based Control. 模型控制物理引擎，经典工作. [论文](https://homes.cs.washington.edu/~todorov/papers/TodorovIROS12.pdf)
 
+<a id="datasets" name="datasets"></a>
 # Datasets
 
 - **[arXiv 2026年1月]** RoVid-X: Rethinking Video Generation Model for the Embodied World. 四阶段数据流水线生成的最大开源机器人视频生成数据集，包含400万带标注的视频片段，覆盖数千种任务，附有丰富的物理属性标注. [论文](https://arxiv.org/abs/2601.15282)
@@ -198,6 +205,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[ECCV 2014年]** COCO: Microsoft COCO: Common Objects in Context. 通用物体检测数据集. [论文](https://arxiv.org/abs/1405.0312)
 - **[TPAMI 2014年]** Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing. 大型人体3D姿态数据集. [论文](https://arxiv.org/abs/1705.09155)
 
+<a id="benchmarks-evaluation" name="benchmarks-evaluation"></a>
 # Benchmarks & Evaluation
 
 - **[AAAI 2026年]** IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks. 首个多模态交互安全基准，包含161个挑战性场景和388个独特安全风险，采用新颖的过程导向评估验证风险缓解步骤是否在特定风险步骤前后正确执行. [论文](https://ojs.aaai.org/index.php/AAAI/article/view/40880)
@@ -216,6 +224,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 - **[CoRL 2020年]** RoboSuite Benchmark: A Modular Simulation Framework and Benchmark. 模块化仿真基准. [论文](https://arxiv.org/abs/2009.09081)
 - **[CVPR 2019年]** Habitat Challenge: Embodied AI in 3D Scenes. 具身AI挑战赛. [论文](https://arxiv.org/abs/1904.01201)
 
+<a id="survey" name="survey"></a>
 # Survey
 
 - **[TechRxiv 2026年1月]** World Models for VLA Agents: Towards Generalist Embodied AI: A Survey on World Models for VLA Agents. 首个专门针对VLA智能体的世界模型综述，提出统一分类法，将现有方法组织为世界规划器、世界行动模型、世界合成器和世界模拟器四个范式. [论文](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176948355.54623875/v1)
