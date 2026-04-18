@@ -2,9 +2,9 @@
 
 > 实时追踪具身智能领域的全职/实习/校招岗位。本列表持续更新，旨在连接人才与产业机会。
 
-- [国内机会](#jobs-domestic)
-- [海外机会](#jobs-overseas)
-- [专项人才与顶尖计划](#jobs-special)
+- [🏢 国内机会](#jobs-domestic)
+- [🌍 海外机会](#jobs-overseas)
+- [🌟 专项人才与顶尖计划](#jobs-special)
 
 ## 🎯 HR / 招聘方专属通道
 
@@ -40,9 +40,9 @@
 
 
 
-| 机构 | 岗位 | 地点 | 类型 |
+| 机构 | 岗位 | 地点 | 类型与链接 |
 |:---|:---|:---|:---|
-| <a id="jobs-domestic"></a>**🏢 国内机会** | **岗位** | **地点** | **类型** |
+| <a id="jobs-domestic"></a>**国内机会** | **岗位** | **地点** | **类型与链接** |
 | 优必选科技 | 强化学习算法工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | 资深硬件工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
 |  | Rust开发工程师 | 深圳 | [社招](https://ubtrobot.zhiye.com/social) |
@@ -234,7 +234,7 @@
 |  | AGI全栈工程师（AI Agent / AI App） | 上海 | [社招](https://api.minimax.chat/careers) |
 |  | AGI服务端工程师（AI Agent / AI App） | 北京/上海 | [社招](https://api.minimax.chat/careers) |
 |  | 大模型算法工程师-AIGC应用研究 | 北京 | [社招](https://api.minimax.chat/careers) |
-| <a id="jobs-overseas"></a>**🌍 海外机会** | **岗位** | **地点** | **类型** |
+| <a id="jobs-overseas"></a>**🌍 海外机会** | **岗位** | **地点** | **类型与链接** |
 | 1X Technologies | Manufacturing Engineer | Hayward, CA | [社招](https://www.1x.tech/open-positions/manufacturing-engineer-us) |
 |  | AI Research Engineer - Scaling | San Carlos, CA | [社招](https://www.1x.tech/careers) |
 |  | AI Research Engineer - World Models | San Carlos, CA | [社招](https://www.1x.tech/careers) |
@@ -337,7 +337,7 @@
 |  | Senior Applied Scientist | London, UK | [社招](https://simplify.jobs) |
 |  | Data Scientist | London, UK | [社招](https://www.tealhq.com) |
 |  | Research Scientist Intern | London, UK | [实习](https://simplify.jobs) |
-| <a id="jobs-special"></a>**🌟 专项计划 / 天才少年** | **岗位 / 计划** | **地点** | **类型 / 面向人群** |
+| <a id="jobs-special"></a>**🌟 专项计划 / 天才少年** | **岗位 / 计划** | **地点** | **类型与链接** |
 | 阿里巴巴 | 阿里星人才计划 | 北京/上海/杭州 | [顶尖博士应届生](https://campus-talent.alibaba.com/activity/ali-star?lang=zh) |
 |  | 阿里星计划 - 计算机视觉/AI | 北京/杭州 | [顶尖人才](https://career.alibaba.com/) |
 |  | 阿里星计划 - 机器人方向 | 北京/杭州 | [顶尖人才](https://career.alibaba.com/) |
