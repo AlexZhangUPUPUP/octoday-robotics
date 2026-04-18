@@ -1,6 +1,6 @@
 
 
-![Head Banner](Head Banner2.png)
+![Head Banner](head-banner2.png)
 
 # 🤖 星期八 · 具身智能开源社区
 

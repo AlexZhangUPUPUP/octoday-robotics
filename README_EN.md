@@ -1,4 +1,4 @@
-![Head Banner](Head Banner2.png)
+![Head Banner](head-banner2.png)
 
 # 🤖 Octoday · Embodied AI Open Community
 
