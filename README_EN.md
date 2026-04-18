@@ -47,7 +47,7 @@ If you want to contribute, submit resources, or recommend updates, feel free to 
 - **GitHub Issues**: open an [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues) in this repository
 - **Contact**: scan the QR code below to reach us
 
-![Octoday Robotics WeChat QR Code](assets/wechat-qrcode.png)
+![tail-banner2](tail-banner2.png)
 
 ---
 

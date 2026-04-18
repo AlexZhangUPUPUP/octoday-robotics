@@ -51,9 +51,7 @@
 - **GitHub Issues**：直接在本仓库提交 [Issue](https://github.com/AlexZhangUPUPUP/octoday-robotics/issues)
 - **联系方式**：扫描下方二维码，联系我
 
-![星期八 Robotics 微信公众号二维码](assets/wechat-qrcode.png)
-
-
+![tail-banner2](tail-banner2.png)
 
 
 ---
