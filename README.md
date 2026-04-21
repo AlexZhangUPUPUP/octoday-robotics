@@ -13,30 +13,24 @@
 
 这里不是又一个论文列表，而是一个**连接产业、人才与知识**的信息枢纽。无论你是刚踏入具身智能领域的学生，还是寻找落地场景的工程师，或是关注行业动态的投资人，都能在这里找到自己需要的那块拼图。
 
-<table>
-  <tr>
-    <td>
-      <a href="README_EN.md">
-        <img alt="中文 / English" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%20%2F%20English-README__EN-567FAF?style=for-the-badge&labelColor=1F3442" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&label=GitHub%20Stars&labelColor=4A4A4A&color=8B4A2F" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics">
-        <img alt="更新状态" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%8C%81%E7%BB%AD%E7%BB%B4%E6%8A%A4-6C8F76?style=for-the-badge&labelColor=4A4A4A" />
-      </a>
-    </td>
-    <td>
-      <a href="CONTRIBUTING.md">
-        <img alt="贡献指南" src="https://img.shields.io/badge/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97-CONTRIBUTING-1F3442?style=for-the-badge&labelColor=4A4A4A" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&duration=3200&pause=900&color=D8AE60&center=true&vCenter=true&width=760&height=44&lines=Welcome+to+Octoday-Robotics." alt="Welcome to Octoday-Robotics." />
+</div>
+
+<p align="center">
+  <a href="README_EN.md">
+    <img alt="中文 / English" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%20%2F%20English-README__EN-7BB2FF?style=flat-square&labelColor=2F63C6" />
+  </a>
+  <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=flat-square&label=GitHub%20Stars&labelColor=2B2B2B&color=7FA7DC" />
+  </a>
+  <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics">
+    <img alt="更新状态" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%8C%81%E7%BB%AD%E7%BB%B4%E6%8A%A4-8CB67D?style=flat-square&labelColor=2B2B2B" />
+  </a>
+  <a href="CONTRIBUTING.md">
+    <img alt="贡献指南" src="https://img.shields.io/badge/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97-CONTRIBUTING-D48A59?style=flat-square&labelColor=2B2B2B" />
+  </a>
+</p>
 
 
 ## 📖 资源目录
