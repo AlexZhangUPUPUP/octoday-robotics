@@ -4,25 +4,39 @@
 
 # 🤖 星期八 · 具身智能开源社区
 
-<div align="right"><sub><a href="README_EN.md">English</a></sub></div>
-
-> 🚀 一个连接「产业 × 资本 × 学生 × 人才」的具身智能开源社区首页
-> An open community for learners, researchers, builders, and practitioners across Embodied AI
-
 ## 🌟 我们的愿景
 
-
-
-> 一份持续更新的具身智能（Embodied AI）领域结构化资源索引，涵盖公司、招聘、论文、代码库、数据集、学习路径等。旨在降低中文开发者的信息检索门槛，共建行业知识地图。
+> 🚀 一个连接「产业 × 资本 × 学生 × 人才」的具身智能开源社区首页
+> An open community for learners, researchers, builders, and practitioners across Embodied AI。
 
 **“星期八”意味着额外的一天——我们希望在这个领域，为你提供超越常规的资源和视角。**
 
 这里不是又一个论文列表，而是一个**连接产业、人才与知识**的信息枢纽。无论你是刚踏入具身智能领域的学生，还是寻找落地场景的工程师，或是关注行业动态的投资人，都能在这里找到自己需要的那块拼图。
 
-🌐 [English Version](README_EN.md)
-
-[![GitHub stars](https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=social)](https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers) [![更新状态](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E9%A2%91%E7%8E%87-%E6%8C%81%E7%BB%AD%E7%BB%B4%E6%8A%A4-blue)](https://github.com/AlexZhangUPUPUP/octoday-robotics) [![贡献指南](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
-
+<table>
+  <tr>
+    <td>
+      <a href="README_EN.md">
+        <img alt="中文 / English" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%20%2F%20English-README__EN-567FAF?style=for-the-badge&labelColor=1F3442" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics/stargazers">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/AlexZhangUPUPUP/octoday-robotics?style=for-the-badge&label=GitHub%20Stars&labelColor=4A4A4A&color=8B4A2F" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AlexZhangUPUPUP/octoday-robotics">
+        <img alt="更新状态" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%8C%81%E7%BB%AD%E7%BB%B4%E6%8A%A4-6C8F76?style=for-the-badge&labelColor=4A4A4A" />
+      </a>
+    </td>
+    <td>
+      <a href="CONTRIBUTING.md">
+        <img alt="贡献指南" src="https://img.shields.io/badge/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97-CONTRIBUTING-1F3442?style=for-the-badge&labelColor=4A4A4A" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📖 资源目录
