@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>具身智能招聘信息 · HTML Preview</title>
+  <meta name="description" content="由 02-jobs.md 生成的固定表格布局 HTML 预览页。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@400;500;600&family=Noto+Serif+SC:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f4efe8;
+      --bg-soft: rgba(255, 252, 247, 0.82);
+      --panel: rgba(255, 250, 243, 0.88);
+      --panel-strong: rgba(255, 248, 239, 0.96);
+      --line: rgba(73, 50, 33, 0.14);
+      --line-strong: rgba(73, 50, 33, 0.24);
+      --ink: #23160f;
+      --muted: #6a5140;
+      --accent: #ba4f2b;
+      --accent-strong: #8b2b0a;
+      --accent-soft: rgba(186, 79, 43, 0.12);
+      --navy: #1f3442;
+      --navy-soft: rgba(31, 52, 66, 0.1);
+      --shadow: 0 24px 60px rgba(44, 24, 8, 0.12);
+      --radius-xl: 28px;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+      --content-width: 1480px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: "IBM Plex Sans", "Noto Sans SC", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(186, 79, 43, 0.16), transparent 24%),
+        radial-gradient(circle at top right, rgba(31, 52, 66, 0.16), transparent 22%),
+        linear-gradient(180deg, #f7f2eb 0%, #efe7dc 100%);
+      min-height: 100vh;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(35, 22, 15, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(35, 22, 15, 0.025) 1px, transparent 1px);
+      background-size: 24px 24px;
+      pointer-events: none;
+      opacity: 0.45;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .shell {
+      width: min(var(--content-width), calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 24px 0 64px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(135deg, rgba(255, 246, 235, 0.95), rgba(252, 248, 242, 0.9)),
+        linear-gradient(120deg, rgba(186, 79, 43, 0.08), rgba(31, 52, 66, 0.08));
+      border: 1px solid rgba(73, 50, 33, 0.12);
+      box-shadow: var(--shadow);
+      border-radius: 36px;
+      padding: 34px 34px 30px;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -40px;
+      top: -40px;
+      width: 220px;
+      height: 220px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(186, 79, 43, 0.18), transparent 70%);
+      pointer-events: none;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(35, 22, 15, 0.05);
+      border: 1px solid rgba(35, 22, 15, 0.08);
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    h1 {
+      margin: 18px 0 12px;
+      font-family: "Noto Serif SC", serif;
+      font-size: clamp(32px, 6vw, 62px);
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+      max-width: 11ch;
+    }
+
+    .hero p {
+      margin: 0;
+      max-width: 72ch;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr;
+      gap: 22px;
+      margin-top: 26px;
+      align-items: end;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .metric {
+      border-radius: var(--radius-lg);
+      background: rgba(255, 253, 249, 0.78);
+      border: 1px solid rgba(73, 50, 33, 0.1);
+      padding: 16px 16px 14px;
+      min-height: 106px;
+    }
+
+    .metric strong {
+      display: block;
+      font-family: "Azeret Mono", monospace;
+      font-size: 26px;
+      color: var(--navy);
+      margin-bottom: 10px;
+    }
+
+    .metric span {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    .hero-note {
+      border-radius: var(--radius-lg);
+      background: linear-gradient(135deg, rgba(31, 52, 66, 0.96), rgba(19, 34, 45, 0.96));
+      color: #f7f2eb;
+      padding: 18px 20px;
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .hero-note h2 {
+      margin: 0;
+      font-size: 16px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(247, 242, 235, 0.72);
+    }
+
+    .hero-note p {
+      color: rgba(247, 242, 235, 0.84);
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    .hero-note code {
+      font-family: "Azeret Mono", monospace;
+      font-size: 12px;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 2px 6px;
+      border-radius: 6px;
+    }
+
+    .hero-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: 1px solid rgba(73, 50, 33, 0.12);
+      background: rgba(255, 252, 247, 0.88);
+      color: var(--ink);
+      font-size: 13px;
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+    }
+
+    .pill:hover {
+      transform: translateY(-1px);
+      border-color: rgba(186, 79, 43, 0.32);
+      background: #fffaf4;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      gap: 22px;
+      margin-top: 22px;
+      align-items: start;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 18px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .panel {
+      border-radius: var(--radius-xl);
+      background: var(--panel);
+      border: 1px solid rgba(73, 50, 33, 0.1);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .sidebar-card {
+      padding: 18px;
+    }
+
+    .sidebar-card h3 {
+      margin: 0 0 12px;
+      font-size: 13px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .jump-list,
+    .legend-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .jump-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      text-decoration: none;
+      border-radius: 14px;
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(73, 50, 33, 0.08);
+      color: var(--ink);
+    }
+
+    .jump-link:hover {
+      border-color: rgba(186, 79, 43, 0.32);
+      background: rgba(255, 250, 243, 0.96);
+    }
+
+    .jump-link strong {
+      display: block;
+      font-size: 14px;
+    }
+
+    .jump-link span {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .jump-link em {
+      font-style: normal;
+      font-family: "Azeret Mono", monospace;
+      font-size: 11px;
+      color: var(--accent-strong);
+    }
+
+    .search-box {
+      display: grid;
+      gap: 10px;
+    }
+
+    .search-box label {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .search-box input {
+      width: 100%;
+      border: 1px solid rgba(73, 50, 33, 0.14);
+      border-radius: 14px;
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.9);
+      color: var(--ink);
+      font: inherit;
+      outline: none;
+    }
+
+    .search-box input:focus {
+      border-color: rgba(186, 79, 43, 0.4);
+      box-shadow: 0 0 0 4px rgba(186, 79, 43, 0.08);
+    }
+
+    .legend-list div {
+      display: grid;
+      gap: 4px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.68);
+      border: 1px solid rgba(73, 50, 33, 0.07);
+    }
+
+    .legend-list strong {
+      font-size: 13px;
+    }
+
+    .legend-list span {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .content {
+      display: grid;
+      gap: 22px;
+    }
+
+    .section {
+      padding: 22px;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section-head h2 {
+      margin: 0;
+      font-family: "Noto Serif SC", serif;
+      font-size: clamp(24px, 4vw, 38px);
+    }
+
+    .section-head p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      max-width: 70ch;
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    .section-stat {
+      min-width: 168px;
+      padding: 14px 16px;
+      border-radius: 18px;
+      background: rgba(31, 52, 66, 0.06);
+      border: 1px solid rgba(31, 52, 66, 0.1);
+      text-align: right;
+    }
+
+    .section-stat strong {
+      display: block;
+      font-family: "Azeret Mono", monospace;
+      font-size: 22px;
+      color: var(--navy);
+    }
+
+    .section-stat span {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .company-card {
+      display: grid;
+      grid-template-rows: auto 1fr;
+      min-height: 320px;
+      background: var(--panel-strong);
+      border: 1px solid rgba(73, 50, 33, 0.1);
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 18px 36px rgba(44, 24, 8, 0.08);
+    }
+
+    .company-head {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 18px 18px 12px;
+      border-bottom: 1px solid rgba(73, 50, 33, 0.08);
+      background:
+        linear-gradient(135deg, rgba(186, 79, 43, 0.12), rgba(186, 79, 43, 0.02)),
+        rgba(255, 255, 255, 0.32);
+    }
+
+    .company-head h3 {
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.2;
+    }
+
+    .company-head p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .count-badge {
+      white-space: nowrap;
+      border-radius: 999px;
+      padding: 8px 12px;
+      background: rgba(35, 22, 15, 0.06);
+      border: 1px solid rgba(35, 22, 15, 0.08);
+      font-family: "Azeret Mono", monospace;
+      font-size: 11px;
+      color: var(--navy);
+    }
+
+    .table-wrap {
+      padding: 10px 14px 14px;
+      overflow: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      min-width: 0;
+    }
+
+    col.col-no {
+      width: 56px;
+    }
+
+    col.col-title {
+      width: 47%;
+    }
+
+    col.col-location {
+      width: 20%;
+    }
+
+    col.col-kind {
+      width: 13%;
+    }
+
+    col.col-link {
+      width: 94px;
+    }
+
+    thead th {
+      text-align: left;
+      padding: 11px 10px;
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      border-bottom: 1px solid var(--line-strong);
+    }
+
+    tbody td {
+      padding: 10px 10px;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    .num {
+      font-family: "Azeret Mono", monospace;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .clamp-two,
+    .clamp-one {
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      word-break: break-word;
+    }
+
+    .clamp-two {
+      -webkit-line-clamp: 2;
+      min-height: calc(1.4em * 2);
+      max-height: calc(1.4em * 2);
+    }
+
+    .clamp-one {
+      -webkit-line-clamp: 1;
+      min-height: 1.4em;
+      max-height: 1.4em;
+    }
+
+    .job-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      width: 100%;
+      min-height: 34px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-weight: 600;
+      border: 1px solid rgba(186, 79, 43, 0.12);
+      transition: transform 160ms ease, background 160ms ease;
+    }
+
+    .job-link:hover {
+      transform: translateY(-1px);
+      background: rgba(186, 79, 43, 0.18);
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .meta-card {
+      padding: 20px;
+    }
+
+    .meta-card h3 {
+      margin: 0 0 12px;
+      font-size: 15px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .meta-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .meta-item {
+      padding: 14px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.7);
+      border: 1px solid rgba(73, 50, 33, 0.08);
+    }
+
+    .meta-item strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+
+    .meta-item span {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.65;
+    }
+
+    .footer-note {
+      margin-top: 22px;
+      padding: 16px 18px;
+      border-radius: 18px;
+      background: rgba(31, 52, 66, 0.08);
+      border: 1px solid rgba(31, 52, 66, 0.1);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    @media (max-width: 1180px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+
+    @media (max-width: 980px) {
+      .hero-grid,
+      .meta-grid,
+      .cards {
+        grid-template-columns: 1fr;
+      }
+
+      .metrics {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .section-head {
+        flex-direction: column;
+        align-items: start;
+      }
+
+      .section-stat {
+        text-align: left;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .shell {
+        width: min(calc(100vw - 18px), var(--content-width));
+        padding-top: 10px;
+      }
+
+      .hero,
+      .section,
+      .meta-card {
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+
+      .metrics {
+        grid-template-columns: 1fr;
+      }
+
+      .company-head {
+        flex-direction: column;
+      }
+
+      table {
+        min-width: 560px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <div class="eyebrow">HTML Preview · Fixed Table Layout Demo</div>
+      <h1>具身智能招聘信息的 HTML 版实验页面</h1>
+      <p>这个页面直接从 <code>02-jobs.md</code> 生成，重点测试独立公司卡片、固定列宽、受控行高和统一表格布局在 HTML 里的实际观感。相较于 GitHub Markdown 版，这里可以稳定控制每列宽度与卡片尺寸。</p>
+      <div class="hero-grid">
+        <div class="metrics" id="metrics"></div>
+        <div class="hero-note">
+          <div>
+            <h2>Design Note</h2>
+            <p>这个版本采用偏编辑化、工业资料册的排版方向。表格开启 <code>table-layout: fixed</code>，每列宽度固定；文本单元格做了行数截断，用来验证“统一尺寸”是否比 Markdown 版更适合你。</p>
+          </div>
+          <div class="hero-links" id="hero-links"></div>
+        </div>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <section class="panel sidebar-card">
+          <h3>快速跳转</h3>
+          <div class="jump-list" id="jump-list"></div>
+        </section>
+        <section class="panel sidebar-card">
+          <div class="search-box">
+            <h3>筛选</h3>
+            <label for="search">按公司名或岗位关键词过滤</label>
+            <input id="search" type="search" placeholder="例如：智元 / SLAM / PhD / 强化学习">
+          </div>
+        </section>
+        <section class="panel sidebar-card">
+          <h3>布局说明</h3>
+          <div class="legend-list">
+            <div>
+              <strong>统一卡片宽度</strong>
+              <span>所有公司卡片使用相同栅格宽度，桌面端两列展示。</span>
+            </div>
+            <div>
+              <strong>固定列宽</strong>
+              <span>通过 <code>colgroup</code> 和 <code>table-layout: fixed</code> 限制每列比例。</span>
+            </div>
+            <div>
+              <strong>受控行高</strong>
+              <span>岗位名、地点、类别分别做单行或双行截断，避免表格跳动。</span>
+            </div>
+          </div>
+        </section>
+      </aside>
+
+      <main class="content">
+        <div id="sections"></div>
+        <section class="meta-grid">
+          <article class="panel meta-card">
+            <h3>特别提醒</h3>
+            <div class="meta-list" id="alerts"></div>
+          </article>
+          <article class="panel meta-card">
+            <h3>新增亮点岗位</h3>
+            <div class="meta-list" id="featured"></div>
+          </article>
+          <article class="panel meta-card">
+            <h3>求职小贴士</h3>
+            <div class="meta-list" id="tips"></div>
+          </article>
+        </section>
+        <div class="footer-note">
+          当前文件生成时间：2026-04-22 01:28。数据源来自仓库内的 <code>02-jobs.md</code>，生成脚本为 <code>scripts/generate_jobs_html.py</code>。如果你认可这种视觉方向，下一步可以继续决定是否把它升级成 GitHub Pages 页面。
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+    const JOBS_DATA = {"categories": [{"id": "jobs-domestic", "label": "国内机会", "icon": "🏢", "description": "国内机器人公司、平台团队、研究机构与产业链岗位。", "items": [{"id": "jobs-domestic-01", "name": "优必选科技", "count": 3, "rows": [{"no": 1, "title": "强化学习算法工程师", "location": "深圳", "kind": "社招", "url": "https://ubtrobot.zhiye.com/social"}, {"no": 2, "title": "资深硬件工程师", "location": "深圳", "kind": "社招", "url": "https://ubtrobot.zhiye.com/social"}, {"no": 3, "title": "Rust开发工程师", "location": "深圳", "kind": "社招", "url": "https://ubtrobot.zhiye.com/social"}]}, {"id": "jobs-domestic-02", "name": "智元机器人", "count": 17, "rows": [{"no": 1, "title": "具身智能大模型算法专家", "location": "上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620730986292398379"}, {"no": 2, "title": "训练框架算法工程师", "location": "北京/上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620007621906696499"}, {"no": 3, "title": "具身智能技术项目经理", "location": "上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7618115261161769262"}, {"no": 4, "title": "具身智能软件工程师", "location": "上海", "kind": "社招", "url": "https://m.liepin.com/job/1979770607.shtml"}, {"no": 5, "title": "具身算法实习生", "location": "上海", "kind": "实习", "url": "https://www.nowcoder.com/jobs/hr/108266"}, {"no": 6, "title": "训练框架研发实习生", "location": "上海", "kind": "实习", "url": "https://www.nowcoder.com/jobs/hr/108266"}, {"no": 7, "title": "Loco-Manipulation算法实习生", "location": "上海", "kind": "实习", "url": "https://www.nowcoder.com/jobs/hr/108266"}, {"no": 8, "title": "SDK开发实习生-灵犀", "location": "上海", "kind": "实习", "url": "https://www.nowcoder.com/jobs/hr/108266"}, {"no": 9, "title": "感知融合算法工程师", "location": "上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 10, "title": "空间智能算法工程师", "location": "上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 11, "title": "具身智能基础模型研发工程师/专家", "location": "上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 12, "title": "多模态生成动作大模型研究员", "location": "上海/深圳", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 13, "title": "灵巧手控制算法工程师", "location": "北京/上海", "kind": "社招", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 14, "title": "视觉SLAM实习生", "location": "上海", "kind": "实习", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 15, "title": "机器人数据驱动算法实习生", "location": "深圳", "kind": "实习", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 16, "title": "域控制器实习生", "location": "上海", "kind": "实习", "url": "https://agirobot.jobs.feishu.cn/"}, {"no": 17, "title": "算法/软件/硬件等研发岗位（2026春招）", "location": "北京/上海/深圳", "kind": "校招", "url": "https://agirobot.jobs.feishu.cn/"}]}, {"id": "jobs-domestic-03", "name": "宇树科技", "count": 12, "rows": [{"no": 1, "title": "具身智能算法工程师", "location": "杭州", "kind": "社招", "url": "https://www.unitree.com/cn/position"}, {"no": 2, "title": "深度强化学习算法工程师", "location": "杭州", "kind": "社招", "url": "https://www.unitree.com/cn/position"}, {"no": 3, "title": "AI算法工程师（具身智能/AGI）", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 4, "title": "运动控制算法工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 5, "title": "SLAM算法工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 6, "title": "嵌入式软件开发工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 7, "title": "嵌入式硬件开发工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 8, "title": "C++开发工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 9, "title": "机械工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 10, "title": "解决方案工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 11, "title": "技术支持工程师", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}, {"no": 12, "title": "海外销售专员/经理", "location": "杭州", "kind": "校招/社招", "url": "https://www.unitree.com/cn/position"}]}, {"id": "jobs-domestic-04", "name": "傅利叶智能", "count": 6, "rows": [{"no": 1, "title": "具身智能算法研究员(AGI)", "location": "上海浦东", "kind": "校招/社招", "url": "https://app.mokahr.com/campus-recruitment/fftai/147078"}, {"no": 2, "title": "KA销售经理（具身智能）", "location": "上海", "kind": "社招", "url": "https://m.zhipin.com/job_detail/f63d190d31042b8003F-3tm8EFZR.html"}, {"no": 3, "title": "规控算法工程师", "location": "上海浦东", "kind": "社招", "url": "https://app.mokahr.com/campus-recruitment/fftai/147078"}, {"no": 4, "title": "机器人算法工程师（多模态）", "location": "上海", "kind": "校招", "url": "https://app.mokahr.com/campus-recruitment/fftai/147078"}, {"no": 5, "title": "感知算法工程师", "location": "上海", "kind": "校招", "url": "https://app.mokahr.com/campus-recruitment/fftai/147078"}, {"no": 6, "title": "机器人机械研发工程师", "location": "上海", "kind": "校招", "url": "https://app.mokahr.com/campus-recruitment/fftai/147078"}]}, {"id": "jobs-domestic-05", "name": "逐际动力", "count": 7, "rows": [{"no": 1, "title": "具身大模型算法工程师", "location": "北京", "kind": "社招", "url": "https://career.limxdynamics.com/"}, {"no": 2, "title": "人形机器人智能体算法工程师", "location": "深圳", "kind": "社招", "url": "https://career.limxdynamics.com/"}, {"no": 3, "title": "机器人运动控制算法工程师", "location": "深圳", "kind": "社招", "url": "https://career.limxdynamics.com/"}, {"no": 4, "title": "具身智能-VLA强化学习算法实习生", "location": "北京", "kind": "实习", "url": "https://career.limxdynamics.com/"}, {"no": 5, "title": "人形机器人模仿学习算法实习生", "location": "深圳", "kind": "实习", "url": "https://career.limxdynamics.com/"}, {"no": 6, "title": "具身智能前沿算法实习生", "location": "北京", "kind": "实习", "url": "https://career.limxdynamics.com/"}, {"no": 7, "title": "机器人仿真实习生", "location": "深圳", "kind": "实习", "url": "https://career.limxdynamics.com/"}]}, {"id": "jobs-domestic-06", "name": "星动纪元", "count": 11, "rows": [{"no": 1, "title": "具身智能大模型算法工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 2, "title": "具身大模型算法工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 3, "title": "VLA大模型算法-人形机器人", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 4, "title": "运动控制算法工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 5, "title": "大模型算法", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 6, "title": "机器人强化学习-灵巧手方向", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 7, "title": "MPC算法工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 8, "title": "大模型部署和加速工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 9, "title": "高级云服务开发工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 10, "title": "机器人规控算法工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}, {"no": 11, "title": "遥操作系统工程师", "location": "北京", "kind": "社招", "url": "https://k0fqxcszc9.jobs.feishu.cn/"}]}, {"id": "jobs-domestic-07", "name": "银河通用机器人", "count": 10, "rows": [{"no": 1, "title": "机器人应用开发工程师（26届）", "location": "北京", "kind": "校招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537233425539795243/detail"}, {"no": 2, "title": "机械工程师（26届）", "location": "北京", "kind": "校招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537236229081237787/detail"}, {"no": 3, "title": "嵌入式软件开发", "location": "深圳", "kind": "校招", "url": "https://www.quanzhi.com/job/69af78a83e67084e25d80a76"}, {"no": 4, "title": "具身大模型算法工程师", "location": "北京", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 5, "title": "灵巧手操作算法工程师", "location": "北京", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 6, "title": "机器人全身规划算法工程师", "location": "深圳", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 7, "title": "机器人全身控制算法工程师（多模态）", "location": "北京", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 8, "title": "机械臂算法工程师-力控方向", "location": "深圳", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 9, "title": "机器人规控软件工程师", "location": "深圳", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}, {"no": 10, "title": "具身算法生态工程师", "location": "深圳", "kind": "社招", "url": "https://owm6ymi5v9b.jobs.feishu.cn/"}]}, {"id": "jobs-domestic-08", "name": "千寻智能", "count": 11, "rows": [{"no": 1, "title": "具身模型算法工程师（预训练）", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 2, "title": "具身模型算法工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 3, "title": "具身模型推理&部署工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 4, "title": "具身模型训练加速工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 5, "title": "机器学习平台全栈工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 6, "title": "数据算法工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 7, "title": "遥操作系统工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 8, "title": "运控算法工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 9, "title": "导航算法工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 10, "title": "具身算法系统集成工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}, {"no": 11, "title": "高级力控算法工程师", "location": "北京", "kind": "社招", "url": "https://www.spirit-ai.com/career"}]}, {"id": "jobs-domestic-09", "name": "它石智航", "count": 7, "rows": [{"no": 1, "title": "2026校招-具身VLA算法工程师", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 2, "title": "2026校招-具身智能算法专家", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 3, "title": "机器人算法工程师-强化学习", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 4, "title": "机器人算法工程师-规划控制", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 5, "title": "机器人算法工程师-运动控制", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 6, "title": "机器人多模态感知算法工程师", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}, {"no": 7, "title": "机器人SLAM算法工程师", "location": "上海", "kind": "校招", "url": "https://tarsrobot.jobs.feishu.cn/021343/"}]}, {"id": "jobs-domestic-10", "name": "小米机器人实验室", "count": 5, "rows": [{"no": 1, "title": "顶尖应届-具身大模型算法研究员", "location": "北京", "kind": "校招", "url": "https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/"}, {"no": 2, "title": "顶尖应届-具身大模型训练推理工程师", "location": "北京", "kind": "校招", "url": "https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/"}, {"no": 3, "title": "顶尖应届-具身大模型数据工程师", "location": "北京", "kind": "校招", "url": "https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/"}, {"no": 4, "title": "机器人具身智能算法实习生", "location": "北京", "kind": "实习", "url": "https://www.xzfxrcw.com/job/337224076.html"}, {"no": 5, "title": "机器人可靠性仿真工程师", "location": "北京通州", "kind": "社招", "url": "https://xiaomi.jobs.f.mioffice.cn/index"}]}, {"id": "jobs-domestic-11", "name": "腾讯Robotics X", "count": 7, "rows": [{"no": 1, "title": "机器人具身智能研究员-大模型方向", "location": "深圳", "kind": "社招", "url": "https://www.mianshima.com/job/1/1968241074312990720"}, {"no": 2, "title": "机器人具身智能研究员-操作方向", "location": "深圳", "kind": "社招", "url": "https://www.mianshima.com/job/1/1968241074312990720"}, {"no": 3, "title": "具身智能平台研发工程师（机器人本体软件）", "location": "深圳", "kind": "社招", "url": "https://jobs.niuqizp.com/job-vmk5LzaN5.html"}, {"no": 4, "title": "具身智能平台研发工程师（仿真工程方向）", "location": "深圳", "kind": "社招", "url": "https://jobs.niuqizp.com/job-vmk5LzaN5.html"}, {"no": 5, "title": "机器人具身智能软件工程师-系统集成", "location": "深圳", "kind": "社招", "url": "https://jobs.niuqizp.com/job-vmk5LzaN5.html"}, {"no": 6, "title": "多模态大模型研究员-机器人方向", "location": "深圳", "kind": "社招", "url": "https://jobs.niuqizp.com/job-vmk5LzaN5.html"}, {"no": 7, "title": "技术研究-机器人方向", "location": "深圳", "kind": "校招", "url": "http://www.dtjob88.com/campus/index.php?m=job&a=job_detail&uid=cm1378258750504&id=53611913"}]}, {"id": "jobs-domestic-12", "name": "字节跳动", "count": 8, "rows": [{"no": 1, "title": "具身智能研发工程师-火山引擎", "location": "上海", "kind": "校招", "url": "https://jobs.bytedance.com/campus/position?project=7525009396952582407"}, {"no": 2, "title": "具身智能研发专家-火山引擎", "location": "北京", "kind": "社招", "url": "https://www.liepin.com"}, {"no": 3, "title": "具身多模态交互算法专家-火山引擎", "location": "北京", "kind": "社招", "url": "https://www.liepin.com"}, {"no": 4, "title": "具身智能算法研究员-Seed", "location": "北京/上海/深圳", "kind": "社招", "url": "https://www.liepin.com/job/1979963753.shtml"}, {"no": 5, "title": "角色化模型强化学习算法工程师-Seed", "location": "北京", "kind": "校招", "url": "https://careers.larksuite.com/campus/position/7538402783112775944/detail"}, {"no": 6, "title": "AIGC算法工程师-Data AML", "location": "深圳", "kind": "校招", "url": "https://jobs.bytedance.com/campus/position?project=7525009396952582407"}, {"no": 7, "title": "内容理解算法工程师-抖音", "location": "深圳", "kind": "校招", "url": "https://jobs.bytedance.com/campus/position?project=7525009396952582407"}, {"no": 8, "title": "机器人多模态大模型算法实习生-Seed", "location": "北京", "kind": "实习", "url": "https://jobs.bytedance.com/campus/position?project=7525009396952582407"}]}, {"id": "jobs-domestic-13", "name": "华为", "count": 1, "rows": [{"no": 1, "title": "具身智能相关岗位", "location": "北京/上海/深圳", "kind": "校招/社招", "url": "https://career.huawei.com/"}]}, {"id": "jobs-domestic-14", "name": "大疆", "count": 6, "rows": [{"no": 1, "title": "中/高级计算机视觉算法工程师（动态感知）", "location": "深圳", "kind": "社招", "url": "https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472"}, {"no": 2, "title": "中/高级计算机视觉算法工程师", "location": "北京/上海/深圳", "kind": "社招", "url": "https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472"}, {"no": 3, "title": "中/高级决策规划算法工程师（NN方向）", "location": "深圳", "kind": "社招", "url": "https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472"}, {"no": 4, "title": "机器人算法工程师", "location": "上海/深圳", "kind": "校招", "url": "https://we.dji.com/zh-CN/campus/position"}, {"no": 5, "title": "AI实习生-决策与规划算法", "location": "上海/深圳", "kind": "实习", "url": "https://we.dji.com/zh-CN/campus/position"}, {"no": 6, "title": "AI实习生-机器学习算法", "location": "上海/深圳", "kind": "实习", "url": "https://we.dji.com/zh-CN/campus/position"}]}, {"id": "jobs-domestic-15", "name": "地平线", "count": 7, "rows": [{"no": 1, "title": "地瓜机器人-具身智能高级算法工程师", "location": "北京", "kind": "社招", "url": "https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html"}, {"no": 2, "title": "地瓜机器人-具身仿真数据工程师", "location": "北京", "kind": "社招", "url": "https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html"}, {"no": 3, "title": "地瓜机器人-全栈开发工程师（RDK）", "location": "北京", "kind": "社招", "url": "https://www.mianshima.com/job/1/1968241074312990720"}, {"no": 4, "title": "世界模型算法工程师", "location": "北京", "kind": "社招", "url": "https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html"}, {"no": 5, "title": "专项人才计划", "location": "北京/上海/深圳/杭州/南京/香港", "kind": "校招", "url": "https://horizon-campus.hotjob.cn/"}, {"no": 6, "title": "世界模型算法研究实习生-具身智能方向", "location": "北京/上海", "kind": "实习", "url": "https://jdjywpt.jlu.edu.cn/portal/recruit/details?id=1881ef4a713e4c029eb4363e6755ad60"}, {"no": 7, "title": "日常实习生（算法/软件/测试等）", "location": "多城市", "kind": "实习", "url": "https://horizon-campus.hotjob.cn/"}]}, {"id": "jobs-domestic-16", "name": "小鹏汽车", "count": 10, "rows": [{"no": 1, "title": "具身智能运控算法实习生", "location": "北京/上海/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158"}, {"no": 2, "title": "具身智能算法实习生(Manipulation)", "location": "上海/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315"}, {"no": 3, "title": "具身软件系统工程师", "location": "北京", "kind": "社招", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 4, "title": "VLA/VLM算法实习生", "location": "北京/上海/广州/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 5, "title": "世界模型算法实习生", "location": "北京/上海/广州/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 6, "title": "强化学习算法实习生", "location": "北京/上海/广州/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 7, "title": "运动控制算法实习生", "location": "北京/上海/广州/深圳", "kind": "实习", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 8, "title": "基础模型与多模态大模型算法工程师", "location": "北京/上海/广州/深圳", "kind": "校招", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 9, "title": "通信软件开发培训生（机器人方向）", "location": "北京/上海/广州/深圳", "kind": "校招", "url": "https://xiaopeng.jobs.feishu.cn/"}, {"no": 10, "title": "机器人测试培训生", "location": "北京/上海/广州/深圳", "kind": "校招", "url": "https://xiaopeng.jobs.feishu.cn/"}]}, {"id": "jobs-domestic-17", "name": "普渡科技", "count": 4, "rows": [{"no": 1, "title": "端到端模型算法工程师", "location": "深圳/成都", "kind": "校招", "url": "https://pudutech.zhiye.com/campus"}, {"no": 2, "title": "机器人感知算法工程师", "location": "深圳/成都", "kind": "校招", "url": "https://pudutech.zhiye.com/campus"}, {"no": 3, "title": "C++工程师", "location": "深圳/成都", "kind": "校招", "url": "https://pudutech.zhiye.com/campus"}, {"no": 4, "title": "系统软件工程师", "location": "深圳/成都", "kind": "校招", "url": "https://pudutech.zhiye.com/campus"}]}, {"id": "jobs-domestic-18", "name": "云深处科技", "count": 15, "rows": [{"no": 1, "title": "具身算法工程师", "location": "杭州", "kind": "社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 2, "title": "SLAM算法工程师", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 3, "title": "导航算法工程师", "location": "杭州", "kind": "社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 4, "title": "算法工程师（模仿学习）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 5, "title": "算法工程师（操作感知）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 6, "title": "算法工程师（具身导航）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 7, "title": "算法工程师（机械臂）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 8, "title": "算法工程师（运动控制）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 9, "title": "算法工程师（感控融合）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 10, "title": "算法工程师（AI识别）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 11, "title": "算法工程师（具身操作）", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 12, "title": "遥操作系统工程师", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 13, "title": "嵌入式工程师", "location": "杭州", "kind": "校招/社招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 14, "title": "算法实习生", "location": "杭州", "kind": "实习", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}, {"no": 15, "title": "管培生", "location": "杭州", "kind": "校招", "url": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/"}]}, {"id": "jobs-domestic-19", "name": "思谋科技", "count": 11, "rows": [{"no": 1, "title": "算法工程师（机器人运动控制）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 2, "title": "算法工程师（智能视觉方向）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 3, "title": "算法工程师（强化学习方向）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 4, "title": "软件工程师（机器人控制器）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 5, "title": "软件工程师（机器视觉）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 6, "title": "机器人软件工程师-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 7, "title": "嵌入式软件工程师（机器人方向）", "location": "深圳", "kind": "社招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 8, "title": "机械工程师（机械臂方向）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 9, "title": "机械结构工程师（机械臂方向）", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 10, "title": "产品经理（具身智能方向）-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}, {"no": 11, "title": "全栈工程师-26届", "location": "深圳", "kind": "校招", "url": "https://app.mokahr.com/m/campus-recruitment/smartmore/40506"}]}, {"id": "jobs-domestic-20", "name": "上海人工智能实验室", "count": 5, "rows": [{"no": 1, "title": "机器人操作算法工程师-具身智能中心", "location": "上海", "kind": "校招", "url": "https://www.shlab.org.cn/joinus"}, {"no": 2, "title": "具身智能操作算法工程师", "location": "上海", "kind": "社招", "url": "https://www.shlab.org.cn/joinus"}, {"no": 3, "title": "算法工程师-具身智能", "location": "上海", "kind": "社招", "url": "https://www.shlab.org.cn/joinus"}, {"no": 4, "title": "全栈开发实习生 — 具身智能中心", "location": "上海", "kind": "实习", "url": "https://www.shlab.org.cn/joinus"}, {"no": 5, "title": "具身大模型安全性算法实习生", "location": "上海", "kind": "实习", "url": "https://www.shlab.org.cn/joinus"}]}, {"id": "jobs-domestic-21", "name": "高通", "count": 1, "rows": [{"no": 1, "title": "具身智能算法研发工程师(实习)", "location": "北京", "kind": "实习", "url": "https://www.nowcoder.com/jobs/detail/436353"}]}, {"id": "jobs-domestic-22", "name": "第五纪智能", "count": 1, "rows": [{"no": 1, "title": "具身智能算法工程师", "location": "北京", "kind": "社招", "url": "https://www.zhipin.com/job_detail/c0865d06a950f11903R82t-6F1dZ.html"}]}, {"id": "jobs-domestic-23", "name": "商汤科技", "count": 9, "rows": [{"no": 1, "title": "具身智能算法研究员-北京/上海", "location": "北京/上海", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 2, "title": "具身智能算法工程师 (VLA/多模态方向)", "location": "北京", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 3, "title": "高级模型算法工程师（机器人）", "location": "上海", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 4, "title": "机器人运动控制算法工程师", "location": "北京", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 5, "title": "机器人3D视觉感知算法工程师", "location": "北京", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 6, "title": "机器人仿真与数据算法工程师", "location": "北京", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 7, "title": "世界模型算法研究员", "location": "深圳", "kind": "社招", "url": "https://www.sensetime.com/cn/join"}, {"no": 8, "title": "具身智能世界模型算法实习生", "location": "北京", "kind": "实习", "url": "https://www.sensetime.com/cn/join"}, {"no": 9, "title": "AI开发工程师实习生（多模态/世界模型）", "location": "上海", "kind": "实习", "url": "https://www.sensetime.com/cn/join"}]}, {"id": "jobs-domestic-24", "name": "旷视科技", "count": 4, "rows": [{"no": 1, "title": "具身智能算法系统方向研究员", "location": "北京/上海", "kind": "校招/社招", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}, {"no": 2, "title": "具身智能大模型算法研究员", "location": "北京/上海", "kind": "校招/社招", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}, {"no": 3, "title": "自动驾驶深度学习部署工程师", "location": "北京", "kind": "实习", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}, {"no": 4, "title": "具身智能算法实习生", "location": "北京/成都", "kind": "实习", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}]}, {"id": "jobs-domestic-25", "name": "云从科技", "count": 3, "rows": [{"no": 1, "title": "具身智能算法工程师", "location": "重庆", "kind": "社招", "url": "https://www.cloudwalk.com/"}, {"no": 2, "title": "算法工程师", "location": "重庆", "kind": "校招", "url": "https://www.cloudwalk.com/"}, {"no": 3, "title": "AI应用工程师", "location": "上海", "kind": "社招", "url": "https://www.cloudwalk.com/"}]}, {"id": "jobs-domestic-26", "name": "智谱AI", "count": 5, "rows": [{"no": 1, "title": "AI机器人技术研究博士后", "location": "北京", "kind": "社招", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position"}, {"no": 2, "title": "Agent算法工程师（智谱星）-26届", "location": "北京", "kind": "校招", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position"}, {"no": 3, "title": "26届校招-Agent算法工程师", "location": "北京", "kind": "校招", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position"}, {"no": 4, "title": "多模态生成算法实习生", "location": "北京", "kind": "实习", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position"}, {"no": 5, "title": "多模态强化学习算法实习生(VLM Agentic RL)", "location": "北京", "kind": "实习", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position"}]}, {"id": "jobs-domestic-27", "name": "MiniMax", "count": 5, "rows": [{"no": 1, "title": "AGI产品研发工程师-应届生(Top Talent)", "location": "北京/上海", "kind": "校招", "url": "https://api.minimax.chat/careers"}, {"no": 2, "title": "AGI产品研发工程师-实习(Top Talent)", "location": "上海", "kind": "实习", "url": "https://api.minimax.chat/careers"}, {"no": 3, "title": "AGI全栈工程师（AI Agent / AI App）", "location": "上海", "kind": "社招", "url": "https://api.minimax.chat/careers"}, {"no": 4, "title": "AGI服务端工程师（AI Agent / AI App）", "location": "北京/上海", "kind": "社招", "url": "https://api.minimax.chat/careers"}, {"no": 5, "title": "大模型算法工程师-AIGC应用研究", "location": "北京", "kind": "社招", "url": "https://api.minimax.chat/careers"}]}]}, {"id": "jobs-overseas", "label": "海外机会", "icon": "🌍", "description": "海外机器人公司、实验室、研究机构与企业岗位。", "items": [{"id": "jobs-overseas-01", "name": "1X Technologies", "count": 12, "rows": [{"no": 1, "title": "Manufacturing Engineer", "location": "Hayward, CA", "kind": "社招", "url": "https://www.1x.tech/open-positions/manufacturing-engineer-us"}, {"no": 2, "title": "AI Research Engineer - Scaling", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 3, "title": "AI Research Engineer - World Models", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 4, "title": "AI Research Engineer - Reinforcement Learning", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 5, "title": "Hardware Systems Research Engineer", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 6, "title": "Biomechanics Researcher", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 7, "title": "Mechanical Engineer - Actuators", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 8, "title": "Motor Control Engineer - Robotic Actuators", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 9, "title": "Software Engineer - Simulation", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 10, "title": "Tactile Sensing Research Engineer", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 11, "title": "Staff Autonomy Safety Engineer", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}, {"no": 12, "title": "Senior Mechanical Engineer", "location": "San Carlos, CA", "kind": "社招", "url": "https://www.1x.tech/careers"}]}, {"id": "jobs-overseas-02", "name": "AIM Intelligent Machines", "count": 2, "rows": [{"no": 1, "title": "Embodied AI Engineer - Controls", "location": "Seattle, WA, USA", "kind": "社招", "url": "https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106674-embodied-ai-engineer-controls"}, {"no": 2, "title": "Perception and SLAM ML Engineer", "location": "Seattle, WA, USA", "kind": "社招", "url": "https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106681-perception-and-slam-machine-learning-engineer"}]}, {"id": "jobs-overseas-03", "name": "Amazon Frontier AI & Robotics", "count": 2, "rows": [{"no": 1, "title": "Sr. Applied Scientist, FAR", "location": "San Francisco, CA", "kind": "社招", "url": "https://seeker.worksourcewa.com"}, {"no": 2, "title": "Applied Science Internship - PhD Student", "location": "Seattle, WA", "kind": "实习", "url": "https://www.amazon.jobs"}]}, {"id": "jobs-overseas-04", "name": "Amazon Industrial Robotics", "count": 1, "rows": [{"no": 1, "title": "Applied Scientist II Intern / Co-op 2026", "location": "USA", "kind": "实习", "url": "https://seeker.worksourcewa.com"}]}, {"id": "jobs-overseas-05", "name": "Amazon Robotics", "count": 5, "rows": [{"no": 1, "title": "Applied Scientist - ML and Robotics", "location": "North Reading, MA", "kind": "社招", "url": "https://www.amazon.jobs/en/teams/amazon-robotics"}, {"no": 2, "title": "Applied Scientist, SLAM", "location": "North Reading, MA", "kind": "社招", "url": "https://www.amazon.jobs/en/teams/amazon-robotics"}, {"no": 3, "title": "Sr. Software Engineer, Mobile Manipulation Robotics", "location": "North Reading, MA", "kind": "社招", "url": "https://www.amazon.jobs/en/teams/amazon-robotics"}, {"no": 4, "title": "2026 Robotics Systems Engineer Intern", "location": "North Reading, MA", "kind": "实习", "url": "https://www.amazon.jobs/en/teams/amazon-robotics"}, {"no": 5, "title": "Personal Robotics Group Research Intern", "location": "Sunnyvale, CA", "kind": "实习", "url": "https://www.amazon.jobs/en/search"}]}, {"id": "jobs-overseas-06", "name": "Apptronik", "count": 6, "rows": [{"no": 1, "title": "Principal Software Engineer - AI and Simulation", "location": "Sunnyvale, CA, USA", "kind": "社招", "url": "https://jobs.gritventures.com/companies/apptronik/jobs/73731703-principal-software-engineer-ai-and-simulation"}, {"no": 2, "title": "Senior Mechanical Engineer, Actuation", "location": "Austin, TX, USA", "kind": "社招", "url": "https://jobs.capitalfactory.com/companies/apptronik/jobs/63799025-senior-mechanical-engineer-actuation"}, {"no": 3, "title": "Reinforcement Learning Engineer", "location": "Austin, TX", "kind": "社招", "url": "https://app.otta.com/companies/Apptronik"}, {"no": 4, "title": "Senior Robotics Software & Integration Engineer", "location": "Austin, TX", "kind": "社招", "url": "https://app.otta.com/companies/Apptronik"}, {"no": 5, "title": "Motion Control and Planning Intern", "location": "Austin, TX, USA", "kind": "实习", "url": "https://jobs.capitalfactory.com/companies/apptronik/jobs/71302488-motion-control-and-planning-intern"}, {"no": 6, "title": "Autonomy Software Intern — Humanoid Robotics", "location": "Austin, TX", "kind": "实习", "url": "https://www.wacorecruiter.com"}]}, {"id": "jobs-overseas-07", "name": "Aurora", "count": 5, "rows": [{"no": 1, "title": "Software Engineer, Functional Architecture", "location": "Pittsburgh, PA", "kind": "社招", "url": "https://www.aurora.tech/careers"}, {"no": 2, "title": "Senior/Staff Software Engineer, Onboard Infrastructure", "location": "Mountain View, CA", "kind": "社招", "url": "https://www.aurora.tech/careers"}, {"no": 3, "title": "Machine Learning Research Scientist", "location": "Pittsburgh, CA", "kind": "社招", "url": "https://www.aurora.tech/careers"}, {"no": 4, "title": "Software Engineer, Behavior Planning", "location": "USA", "kind": "社招", "url": "https://www.postjobfree.com"}, {"no": 5, "title": "Staff Security Software Engineer", "location": "USA", "kind": "社招", "url": "https://simplify.jobs"}]}, {"id": "jobs-overseas-08", "name": "Boston Dynamics", "count": 6, "rows": [{"no": 1, "title": "Senior Robotics Engineer - Spot Manipulation", "location": "Waltham, MA", "kind": "社招", "url": "https://www.adzuna.com"}, {"no": 2, "title": "Reinforcement Learning Engineer, Spot Behavior", "location": "Waltham, MA", "kind": "社招", "url": "https://echojobs.io"}, {"no": 3, "title": "Senior Staff Robotics Engineer - Localization", "location": "Waltham, MA", "kind": "社招", "url": "https://simplify.jobs"}, {"no": 4, "title": "Research Engineer, Physics Simulation", "location": "Waltham, MA", "kind": "社招", "url": "https://echojobs.io"}, {"no": 5, "title": "Software Engineer in Test - Automation", "location": "Waltham, MA", "kind": "社招", "url": "https://www.theladders.com"}, {"no": 6, "title": "Robotics Software Engineering Development Program", "location": "Waltham, MA", "kind": "校招", "url": "https://embedded.jobs"}]}, {"id": "jobs-overseas-09", "name": "Cruise", "count": 2, "rows": [{"no": 1, "title": "VLM/VLA Research Intern (PhD)", "location": "USA", "kind": "实习", "url": "https://careerhub.sunyempire.edu"}, {"no": 2, "title": "PhD Intern, AI Research", "location": "San Francisco, CA", "kind": "实习", "url": "https://www.builtinseattle.com"}]}, {"id": "jobs-overseas-10", "name": "Diligent Robotics", "count": 1, "rows": [{"no": 1, "title": "Software Engineer - Robotic Applications", "location": "Austin, TX, USA", "kind": "社招", "url": "https://jobs.capitalfactory.com/companies/diligent-robotics/jobs/71684239-software-engineer-robotic-applications"}]}, {"id": "jobs-overseas-11", "name": "Figure AI", "count": 7, "rows": [{"no": 1, "title": "AI Engineer, Post-Training - Helix Team", "location": "San Jose, CA", "kind": "社招", "url": "https://job-boards.greenhouse.io/figureai"}, {"no": 2, "title": "AI Training Infrastructure Engineer - Helix", "location": "San Jose, CA", "kind": "社招", "url": "https://job-boards.greenhouse.io/figureai"}, {"no": 3, "title": "AI Tooling Engineer, Helix", "location": "San Jose, CA", "kind": "社招", "url": "https://www.builtinsf.com"}, {"no": 4, "title": "Embedded Actuation Engineer", "location": "San Jose, CA", "kind": "社招", "url": "https://simplify.jobs"}, {"no": 5, "title": "Firmware Intern [Summer 2026]", "location": "San Jose, CA", "kind": "实习", "url": "https://www.tealhq.com"}, {"no": 6, "title": "Manufacturing Data Engineering Intern [Fall 2026]", "location": "San Jose, CA", "kind": "实习", "url": "https://job-boards.greenhouse.io/figureai"}, {"no": 7, "title": "Quality Engineering Intern [Summer 2026]", "location": "San Jose, CA", "kind": "实习", "url": "https://job-boards.greenhouse.io/figureai"}]}, {"id": "jobs-overseas-12", "name": "Formic", "count": 1, "rows": [{"no": 1, "title": "Embodied AI / Simulation Engineer", "location": "San Francisco/Oakland, CA, USA", "kind": "社招", "url": "https://jobs.luxcapital.com/companies/formic/jobs/67900487-embodied-ai-simulation-engineer"}]}, {"id": "jobs-overseas-13", "name": "Google DeepMind", "count": 6, "rows": [{"no": 1, "title": "Research Scientist, Robotics", "location": "Mountain View, CA", "kind": "社招", "url": "https://startup.jobs"}, {"no": 2, "title": "Research Scientist, Safety and Alignment for Humanoid Robotics", "location": "New York, NY", "kind": "社招", "url": "https://startup.jobs"}, {"no": 3, "title": "Software Engineer, Model Lifecycle Engineering, Robotics", "location": "USA", "kind": "社招", "url": "https://jobs.anitab.org"}, {"no": 4, "title": "Research Engineer, Developer Experience, Gemini Robotics", "location": "Mountain View, CA", "kind": "社招", "url": "https://nflpa.nexxt.com"}, {"no": 5, "title": "Research Scientist, Multisensor Robotics & Dexterity", "location": "USA", "kind": "社招", "url": "https://www.moaijobs.com"}, {"no": 6, "title": "Staff Technical Program Manager, Gemini Robotics", "location": "USA", "kind": "社招", "url": "https://www.theladders.com"}]}, {"id": "jobs-overseas-14", "name": "Grit Ventures", "count": 1, "rows": [{"no": 1, "title": "Reinforcement Learning Intern", "location": "USA", "kind": "实习", "url": "https://jobs.gritventures.com"}]}, {"id": "jobs-overseas-15", "name": "HTX (Singapore)", "count": 1, "rows": [{"no": 1, "title": "Engineer / Lead Engineer - Embodied AI R&D", "location": "Singapore", "kind": "社招", "url": "https://www.careers.gov.sg"}]}, {"id": "jobs-overseas-16", "name": "Iconic.AI", "count": 1, "rows": [{"no": 1, "title": "AI Research Scientist (Expressive Embodiment)", "location": "London, UK", "kind": "社招", "url": "https://www.iconic.ai"}]}, {"id": "jobs-overseas-17", "name": "Meta FAIR", "count": 3, "rows": [{"no": 1, "title": "AI Research Scientist, Embodied AI / Robotics", "location": "Menlo Park, CA", "kind": "社招", "url": "https://www.metacareers.com"}, {"no": 2, "title": "Research Scientist, World Models & Embodied AI", "location": "London, UK", "kind": "社招", "url": "https://www.glassdoor.co.uk"}, {"no": 3, "title": "Research Scientist Intern, Efficient World Foundation Models (PhD)", "location": "USA", "kind": "实习", "url": "https://www.getclera.com"}]}, {"id": "jobs-overseas-18", "name": "Nuro", "count": 4, "rows": [{"no": 1, "title": "Senior ML Research Scientist, VLM/VLA", "location": "Mountain View, CA", "kind": "社招", "url": "https://ev.careers"}, {"no": 2, "title": "ML Research Scientist, Prediction & Smart Agents", "location": "Mountain View, CA", "kind": "社招", "url": "https://startup.jobs"}, {"no": 3, "title": "Machine Learning Research Scientist, Behavior Planning", "location": "Mountain View, CA", "kind": "社招", "url": "https://www.postjobfree.com"}, {"no": 4, "title": "Senior Machine Learning Research Scientist", "location": "Mountain View, CA", "kind": "社招", "url": "https://echojobs.io"}]}, {"id": "jobs-overseas-19", "name": "NVIDIA", "count": 5, "rows": [{"no": 1, "title": "Software Engineer, Robotics - Isaac Lab (New College Grad 2026)", "location": "Santa Clara, CA", "kind": "校招", "url": "https://jobs.anitab.org"}, {"no": 2, "title": "Software Engineer, Simulation - Robotics", "location": "Santa Clara, CA", "kind": "社招", "url": "https://www.tealhq.com"}, {"no": 3, "title": "Software Engineer, Robotics - Isaac Lab", "location": "Santa Clara, CA", "kind": "社招", "url": "https://builtin.com"}, {"no": 4, "title": "Senior Software Engineer - Robotics", "location": "Santa Clara, CA", "kind": "社招", "url": "https://simplify.jobs"}, {"no": 5, "title": "Software Engineer Intern - Robotics", "location": "Santa Clara, CA", "kind": "实习", "url": "https://simplify.jobs"}]}, {"id": "jobs-overseas-20", "name": "NYU Abu Dhabi (AIR Lab)", "count": 1, "rows": [{"no": 1, "title": "Research Engineer - Embodied AI & Robotics", "location": "Abu Dhabi, UAE", "kind": "社招", "url": "http://nyuad.nyu.edu/en/about/careers.html"}]}, {"id": "jobs-overseas-21", "name": "OpenAI", "count": 6, "rows": [{"no": 1, "title": "Field Engineer (Robotics)", "location": "San Francisco, CA", "kind": "社招", "url": "https://startup.jobs/field-engineer-openai-7537303"}, {"no": 2, "title": "Robotics Software Engineer", "location": "San Francisco, CA", "kind": "社招", "url": "https://www.resumeandjob.com"}, {"no": 3, "title": "Simulation Realism Engineer", "location": "San Francisco, CA", "kind": "社招", "url": "https://metroatlantajob.com"}, {"no": 4, "title": "Simulation Environments Engineer", "location": "San Francisco, CA", "kind": "社招", "url": "https://bloomingtonjob.com"}, {"no": 5, "title": "Research Engineer, SLAM & Multi-View Geometry", "location": "USA", "kind": "社招", "url": "https://goremotejob.com"}, {"no": 6, "title": "Mechanical Engineer: Soft Goods Design", "location": "San Francisco, CA", "kind": "社招", "url": "https://aijobs.app"}]}, {"id": "jobs-overseas-22", "name": "Stanford Robotics Lab", "count": 3, "rows": [{"no": 1, "title": "PhD Positions in Robotics", "location": "Stanford, CA", "kind": "博士", "url": "https://cs.stanford.edu/admissions/phd"}, {"no": 2, "title": "Postdoctoral Fellow - SAIL", "location": "Stanford, CA", "kind": "博后", "url": "https://ai.stanford.edu"}, {"no": 3, "title": "Postdoctoral Researcher - Robotics", "location": "Stanford, CA", "kind": "博后", "url": "https://swap.stanford.edu"}]}, {"id": "jobs-overseas-23", "name": "Tactus", "count": 1, "rows": [{"no": 1, "title": "Embodied AI Intern (Summer 2026)", "location": "Irvine, CA, USA", "kind": "实习", "url": "https://career.calvin.edu"}]}, {"id": "jobs-overseas-24", "name": "Tesla (Tesla Bot)", "count": 1, "rows": [{"no": 1, "title": "Software Engineer, Robotics AI", "location": "Palo Alto, CA, USA", "kind": "社招", "url": "https://www.tesla.com/careers"}]}, {"id": "jobs-overseas-25", "name": "Tesla Optimus", "count": 6, "rows": [{"no": 1, "title": "Reinforcement Learning Engineer, Whole Body Controls", "location": "Palo Alto, CA", "kind": "社招", "url": "https://media.localjobnetwork.com"}, {"no": 2, "title": "Internship, Reinforcement Learning Engineer (Summer 2026)", "location": "Palo Alto, CA", "kind": "实习", "url": "https://www.glassdoor.ca"}, {"no": 3, "title": "AI Engineer, Manipulation, Optimus", "location": "Palo Alto, CA", "kind": "社招", "url": "https://diversityjobs.com"}, {"no": 4, "title": "ML Infrastructure Simulation Engineer, Optimus", "location": "Palo Alto, CA", "kind": "社招", "url": "https://www.glassdoor.co.in"}, {"no": 5, "title": "Reinforcement Learning Engineer, Policy, Optimus", "location": "Palo Alto, CA", "kind": "社招", "url": "https://secure.localjobnetwork.com"}, {"no": 6, "title": "AI Engineer, Vision & Foundation Models, Optimus", "location": "Palo Alto, CA", "kind": "社招", "url": "https://www.postjobfree.com"}]}, {"id": "jobs-overseas-26", "name": "Toyota Research Institute", "count": 4, "rows": [{"no": 1, "title": "Robotics Intern - Mobile Manipulation, Perception", "location": "Los Altos, CA", "kind": "实习", "url": "https://jobs.lever.co/tri"}, {"no": 2, "title": "Senior Research Scientist, Large Behavior Models", "location": "Los Altos, CA", "kind": "社招", "url": "https://www.nextgenenergyjobs.com"}, {"no": 3, "title": "Robotics Intern - Mobile Manipulation, Learned Policies", "location": "Los Altos, CA", "kind": "实习", "url": "https://startup.jobs"}, {"no": 4, "title": "Research Scientist - Robotics, Learning From Videos", "location": "Los Altos, CA", "kind": "社招", "url": "https://startup.jobs"}]}, {"id": "jobs-overseas-27", "name": "Waymo", "count": 4, "rows": [{"no": 1, "title": "ML Engineer, Perception Foundation Model", "location": "Mountain View, CA", "kind": "社招", "url": "https://rhinoconsultingpartners.com"}, {"no": 2, "title": "Applied Research Scientist – New Grad", "location": "Mountain View, CA", "kind": "校招", "url": "https://simplify.jobs"}, {"no": 3, "title": "2026 Summer Intern, PhD, Research, Perception Foundation Models", "location": "Mountain View, CA", "kind": "实习", "url": "https://careers.withwaymo.com"}, {"no": 4, "title": "Software Engineer, Embedded Systems / Robotics", "location": "Mountain View, CA", "kind": "社招", "url": "https://startup.jobs"}]}, {"id": "jobs-overseas-28", "name": "Wayve", "count": 5, "rows": [{"no": 1, "title": "Applied Scientist, Controllable GAIA", "location": "London, UK", "kind": "社招", "url": "https://ev.careers"}, {"no": 2, "title": "Staff Applied Scientist", "location": "London, UK", "kind": "社招", "url": "https://simplify.jobs"}, {"no": 3, "title": "Senior Applied Scientist", "location": "London, UK", "kind": "社招", "url": "https://simplify.jobs"}, {"no": 4, "title": "Data Scientist", "location": "London, UK", "kind": "社招", "url": "https://www.tealhq.com"}, {"no": 5, "title": "Research Scientist Intern", "location": "London, UK", "kind": "实习", "url": "https://simplify.jobs"}]}]}, {"id": "jobs-special", "label": "专项计划", "icon": "🌟", "description": "博士后、顶尖人才项目、专项计划与特殊培养机会。", "items": [{"id": "jobs-special-01", "name": "阿里巴巴", "count": 3, "rows": [{"no": 1, "title": "阿里星人才计划", "location": "北京/上海/杭州", "kind": "专项", "url": "https://campus-talent.alibaba.com/activity/ali-star?lang=zh"}, {"no": 2, "title": "阿里星计划 - 计算机视觉/AI", "location": "北京/杭州", "kind": "专项", "url": "https://career.alibaba.com/"}, {"no": 3, "title": "阿里星计划 - 机器人方向", "location": "北京/杭州", "kind": "专项", "url": "https://career.alibaba.com/"}]}, {"id": "jobs-special-02", "name": "百度", "count": 3, "rows": [{"no": 1, "title": "AIDU计划", "location": "北京/上海", "kind": "专项", "url": "https://talent.baidu.com/jobs"}, {"no": 2, "title": "AIDU计划 - AI/具身智能", "location": "北京", "kind": "专项", "url": "https://career.baidu.com/"}, {"no": 3, "title": "AIDU计划 - 深度学习方向", "location": "北京", "kind": "专项", "url": "https://career.baidu.com/"}]}, {"id": "jobs-special-03", "name": "北京大学", "count": 2, "rows": [{"no": 1, "title": "博雅博士后 - 智能科学方向", "location": "北京", "kind": "专项", "url": "https://postdoctorals.pku.edu.cn/"}, {"no": 2, "title": "博雅博士后 - 计算机方向", "location": "北京", "kind": "专项", "url": "https://postdoctorals.pku.edu.cn/"}]}, {"id": "jobs-special-04", "name": "北京智源人工智能研究院", "count": 1, "rows": [{"no": 1, "title": "联合培养博士项目", "location": "北京", "kind": "专项", "url": "https://pgs.ruc.edu.cn"}]}, {"id": "jobs-special-05", "name": "大疆创新", "count": 2, "rows": [{"no": 1, "title": "机器人算法工程师（精英计划）", "location": "上海/深圳", "kind": "专项", "url": "https://we.dji.com/zh-CN/campus/position"}, {"no": 2, "title": "AI算法工程师（顶尖人才）", "location": "深圳", "kind": "专项", "url": "https://we.dji.com/zh-CN/campus/position"}]}, {"id": "jobs-special-06", "name": "滴滴出行", "count": 2, "rows": [{"no": 1, "title": "橙才计划 - 算法工程师", "location": "北京", "kind": "专项", "url": "https://career.didiglobal.com/"}, {"no": 2, "title": "橙才计划 - 自动驾驶方向", "location": "北京", "kind": "专项", "url": "https://career.didiglobal.com/"}]}, {"id": "jobs-special-07", "name": "地平线", "count": 3, "rows": [{"no": 1, "title": "专项人才计划", "location": "北京/上海/深圳/杭州/南京/香港", "kind": "专项", "url": "https://horizon.hire-soft.com/"}, {"no": 2, "title": "专项人才计划 - 具身智能高级算法工程师", "location": "北京", "kind": "专项", "url": "https://horizon-campus.hotjob.cn/"}, {"no": 3, "title": "专项人才计划 - 世界模型算法工程师", "location": "北京", "kind": "专项", "url": "https://horizon-campus.hotjob.cn/"}]}, {"id": "jobs-special-08", "name": "华为", "count": 3, "rows": [{"no": 1, "title": "天才少年计划", "location": "北京/上海/深圳/全球", "kind": "专项", "url": "https://career.huawei.com/reccampportal/portal5/topminds.html"}, {"no": 2, "title": "天才少年计划 - 计算机/AI方向", "location": "北京/上海/深圳", "kind": "专项", "url": "https://career.huawei.com/"}, {"no": 3, "title": "天才少年计划 - 机器人/具身智能", "location": "北京/深圳", "kind": "专项", "url": "https://career.huawei.com/"}]}, {"id": "jobs-special-09", "name": "京东", "count": 2, "rows": [{"no": 1, "title": "星计划 - AI/机器人方向", "location": "北京", "kind": "专项", "url": "https://career.jd.com/"}, {"no": 2, "title": "星计划 - 智能供应链", "location": "北京/上海", "kind": "专项", "url": "https://career.jd.com/"}]}, {"id": "jobs-special-10", "name": "快手", "count": 2, "rows": [{"no": 1, "title": "快Star - 算法/AI方向", "location": "北京", "kind": "专项", "url": "https://career.kuaishou.com/"}, {"no": 2, "title": "快Star - 计算机视觉", "location": "北京", "kind": "专项", "url": "https://career.kuaishou.com/"}]}, {"id": "jobs-special-11", "name": "旷视科技", "count": 2, "rows": [{"no": 1, "title": "MegEagle创视者计划 - 具身智能算法系统方向研究员", "location": "北京/上海", "kind": "专项", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}, {"no": 2, "title": "MegEagle创视者计划 - 具身智能大模型算法研究员", "location": "北京/上海", "kind": "专项", "url": "https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs"}]}, {"id": "jobs-special-12", "name": "美团", "count": 2, "rows": [{"no": 1, "title": "北斗计划 - 算法工程师", "location": "北京/上海", "kind": "专项", "url": "https://careers.meituan.com/"}, {"no": 2, "title": "北斗计划 - AI/机器人方向", "location": "北京", "kind": "专项", "url": "https://careers.meituan.com/"}]}, {"id": "jobs-special-13", "name": "清华大学", "count": 2, "rows": [{"no": 1, "title": "水木学者 - 计算机系/自动化系", "location": "北京", "kind": "专项", "url": "https://postdoctorals.tsinghua.edu.cn/"}, {"no": 2, "title": "水木学者 - AI/机器人方向", "location": "北京", "kind": "专项", "url": "https://postdoctorals.tsinghua.edu.cn/"}]}, {"id": "jobs-special-14", "name": "荣耀", "count": 1, "rows": [{"no": 1, "title": "全球百万雄鹰计划", "location": "北京/上海/深圳/南京/西安/海外", "kind": "专项", "url": "https://actyco.wintalent.cn/actyco/home/receiver/poster/redirect?id=2ce781cb95dcf40301961d9c706c6bd4"}]}, {"id": "jobs-special-15", "name": "上海交通大学", "count": 2, "rows": [{"no": 1, "title": "致远博士后 - AI/机器人方向", "location": "上海", "kind": "专项", "url": "https://postdoctorate.sjtu.edu.cn/"}, {"no": 2, "title": "致远博士后 - 计算机方向", "location": "上海", "kind": "专项", "url": "https://postdoctorate.sjtu.edu.cn/"}]}, {"id": "jobs-special-16", "name": "商汤科技", "count": 2, "rows": [{"no": 1, "title": "商汤奖学金 - AI研究方向", "location": "北京/上海/深圳", "kind": "专项", "url": "https://www.sensetime.com/"}, {"no": 2, "title": "具身智能算法研究员", "location": "北京/上海", "kind": "专项", "url": "https://m.bosszhipin.com/zhaopin/deba958c1fd41f0933d93tW1/"}]}, {"id": "jobs-special-17", "name": "腾讯", "count": 4, "rows": [{"no": 1, "title": "青云计划", "location": "北京/上海/深圳", "kind": "专项", "url": "https://join.qq.com/"}, {"no": 2, "title": "腾讯技术大咖", "location": "北京/上海/深圳", "kind": "专项", "url": "https://careers.tencent.com/search.html"}, {"no": 3, "title": "青云计划 - 机器人方向", "location": "深圳", "kind": "专项", "url": "https://careers.qq.com/"}, {"no": 4, "title": "青云计划 - AI研究方向", "location": "深圳", "kind": "专项", "url": "https://careers.qq.com/"}]}, {"id": "jobs-special-18", "name": "西湖大学", "count": 2, "rows": [{"no": 1, "title": "博士后 - 人工智能方向", "location": "杭州", "kind": "专项", "url": "https://www.westlake.edu.cn/careers/"}, {"no": 2, "title": "博士后 - 机器人方向", "location": "杭州", "kind": "专项", "url": "https://www.westlake.edu.cn/careers/"}]}, {"id": "jobs-special-19", "name": "小米", "count": 3, "rows": [{"no": 1, "title": "未来星 / AI人才专项计划", "location": "北京/上海/南京", "kind": "专项", "url": "https://hr.xiaomi.com/"}, {"no": 2, "title": "未来星 - 机器人/AI方向", "location": "北京", "kind": "专项", "url": "https://xiaomi.jobs.f.mioffice.cn/"}, {"no": 3, "title": "未来星 - 具身智能方向", "location": "北京", "kind": "专项", "url": "https://xiaomi.jobs.f.mioffice.cn/"}]}, {"id": "jobs-special-20", "name": "小鹏汽车", "count": 3, "rows": [{"no": 1, "title": "物理AI人才专项（实习生专场）", "location": "北京/上海/广州/深圳", "kind": "专项", "url": "https://scc.pku.edu.cn"}, {"no": 2, "title": "物理AI人才专项 - 具身智能运控算法实习生", "location": "北京/上海/深圳", "kind": "专项", "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158"}, {"no": 3, "title": "物理AI人才专项 - 具身智能算法实习生(Manipulation)", "location": "上海/深圳", "kind": "专项", "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315"}]}, {"id": "jobs-special-21", "name": "优必选科技", "count": 1, "rows": [{"no": 1, "title": "具身智能首席科学家", "location": "深圳", "kind": "专项", "url": "https://ubtrobot.zhiye.com/social"}]}, {"id": "jobs-special-22", "name": "浙江大学", "count": 2, "rows": [{"no": 1, "title": "求是博士后 - 控制/计算机方向", "location": "杭州", "kind": "专项", "url": "https://hr.zju.edu.cn/postdoctor/"}, {"no": 2, "title": "求是博士后 - AI方向", "location": "杭州", "kind": "专项", "url": "https://hr.zju.edu.cn/postdoctor/"}]}, {"id": "jobs-special-23", "name": "智谱AI", "count": 2, "rows": [{"no": 1, "title": "AI机器人技术研究博士后", "location": "北京", "kind": "专项", "url": "https://m.zhipin.com/job_detail/18150270fb9dbf1203F909m4FFRX.html"}, {"no": 2, "title": "Agent算法工程师（智谱星）", "location": "北京", "kind": "专项", "url": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position/detail/7530590286038075686"}]}, {"id": "jobs-special-24", "name": "中科院", "count": 3, "rows": [{"no": 1, "title": "百人计划 - 计算机/机器人方向", "location": "北京/全国", "kind": "专项", "url": "https://www.cas.cn/rcjy/"}, {"no": 2, "title": "百人计划 - 人工智能方向", "location": "全国", "kind": "专项", "url": "https://www.baitcc.cn/"}, {"no": 3, "title": "海外优青项目", "location": "北京", "kind": "专项", "url": "https://cnic.cas.cn"}]}, {"id": "jobs-special-25", "name": "字节跳动", "count": 4, "rows": [{"no": 1, "title": "Top Seed人才计划", "location": "北京/上海/深圳/杭州/成都等", "kind": "专项", "url": "https://jobs.bytedance.com/campus"}, {"no": 2, "title": "筋斗云人才计划", "location": "北京/上海/深圳/杭州/成都等", "kind": "专项", "url": "https://jobs.bytedance.com/campus"}, {"no": 3, "title": "Top Seed - 研究型工程师", "location": "北京/上海", "kind": "专项", "url": "https://jobs.bytedance.com/"}, {"no": 4, "title": "Top Seed - AI/机器人方向", "location": "北京", "kind": "专项", "url": "https://jobs.bytedance.com/"}]}, {"id": "jobs-special-26", "name": "Amazon", "count": 2, "rows": [{"no": 1, "title": "Amazon Research Awards", "location": "全球", "kind": "专项", "url": "https://www.amazon.science/research-awards"}, {"no": 2, "title": "Amazon Robotics - PhD Internship", "location": "北美", "kind": "专项", "url": "https://www.amazon.jobs/en/teams/amazon-robotics"}]}, {"id": "jobs-special-27", "name": "Apple", "count": 2, "rows": [{"no": 1, "title": "Apple PhD Fellowship - ML/AI", "location": "Cupertino, CA", "kind": "专项", "url": "https://machinelearning.apple.com/"}, {"no": 2, "title": "Apple Scholar - PhD", "location": "全球", "kind": "专项", "url": "https://machinelearning.apple.com/"}]}, {"id": "jobs-special-28", "name": "Google", "count": 2, "rows": [{"no": 1, "title": "Google PhD Fellowship - Machine Learning", "location": "全球", "kind": "专项", "url": "https://research.google/research-outreach/?category=phd-fellowship"}, {"no": 2, "title": "Google PhD Fellowship - Robotics/Embodied AI", "location": "美国/全球", "kind": "专项", "url": "https://research.google/research-outreach/?category=phd-fellowship"}]}, {"id": "jobs-special-29", "name": "Meta", "count": 2, "rows": [{"no": 1, "title": "Meta Research Fellowship - AI/ML", "location": "美国", "kind": "专项", "url": "https://research.facebook.com/fellowship/"}, {"no": 2, "title": "Meta Fellowship - Embodied AI", "location": "美国", "kind": "专项", "url": "https://research.facebook.com/fellowship/"}]}, {"id": "jobs-special-30", "name": "Microsoft", "count": 2, "rows": [{"no": 1, "title": "Microsoft Research PhD Fellowship", "location": "美国/全球", "kind": "专项", "url": "https://www.microsoft.com/research/academic-programs/phd-fellowship/"}, {"no": 2, "title": "Microsoft Research PhD Scholarship", "location": "英国/欧洲", "kind": "专项", "url": "https://www.microsoft.com/research/academic-programs/phd-scholarship/"}]}, {"id": "jobs-special-31", "name": "MiniMax", "count": 2, "rows": [{"no": 1, "title": "AGI产品研发工程师-应届生(Top Talent)", "location": "北京/上海", "kind": "专项", "url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/m/position/detail/7546180826527893810"}, {"no": 2, "title": "AGI产品研发工程师-实习(Top Talent)", "location": "上海", "kind": "专项", "url": "https://www.nowcoder.com/jobs/detail/429548"}]}, {"id": "jobs-special-32", "name": "NVIDIA", "count": 2, "rows": [{"no": 1, "title": "NVIDIA Graduate Fellowship - AI/Robotics", "location": "美国/全球", "kind": "专项", "url": "https://research.nvidia.com/graduate-fellowship"}, {"no": 2, "title": "NVIDIA PhD Fellowship", "location": "美国/全球", "kind": "专项", "url": "https://research.nvidia.com/graduate-fellowship"}]}, {"id": "jobs-special-33", "name": "启元实验室", "count": 1, "rows": [{"no": 1, "title": "博士联合培养项目", "location": "北京", "kind": "专项", "url": "https://yzb.hit.edu.cn"}]}]}], "alerts": [{"title": "北京航空航天大学具身智能研究院", "detail": "2026年4月3日截止"}, {"title": "新加坡理工大学 (SIT)", "detail": "2026年4月4日截止"}, {"title": "智元机器人", "detail": "2026年4月16日截止"}, {"title": "纽约大学阿布扎比分校", "detail": "2026年4月15日截止"}, {"title": "厦门福龙马", "detail": "2026年4月24日截止"}], "featured": [{"title": "盟立自动化（台湾新竹）", "detail": "月薪60,000新台币以上，使用NVIDIA Isaac Sim/Isaac Lab开发机器人仿真训练环境，强化学习+Sim-to-Real迁移"}, {"title": "中建材凯盛机器人（上海）", "detail": "优秀应届生月薪最高3万元，算法/控制/视觉岗位紧缺"}, {"title": "荣耀机器人软件系统开发工程师（北京）", "detail": "负责机器人实时OS、大模型部署、ROS2开发"}, {"title": "建信信托股权投资助理（北京）", "detail": "AI/具身智能方向投资实习，150元/天"}, {"title": "香港中文大学-智元联合平台", "detail": "产学研合作，学生可进入智元实习参与真机工程实践"}], "tips": [{"title": "技能关键词", "detail": "VLA模型、扩散策略（Diffusion Policy）、模仿学习、Sim2Real、ROS/ROS2、Isaac Sim/MuJoCo、大模型微调、强化学习。"}, {"title": "简历建议", "detail": "突出项目实践经历，尤其是仿真环境搭建、算法复现、真机部署经验。GitHub 主页或技术博客是加分项。"}, {"title": "面试准备", "detail": "常见问题包括 RL 算法推导（PPO、SAC）、VLA 架构理解、Sim2Real 挑战、手撕代码（Python/C++）、机器人学基础（运动学、动力学）。"}, {"title": "招聘渠道", "detail": "除了本列表，建议关注企业官网、牛客网、LinkedIn 以及行业社群内推信息。"}]};
+
+    const sectionIntro = {
+      "jobs-domestic": "偏向国内具身智能公司、机器人平台、研究团队与应用机构的岗位分布。",
+      "jobs-overseas": "偏向海外机器人公司、研究实验室与跨国产业团队的岗位分布。",
+      "jobs-special": "偏向人才计划、博士后、专项项目与 Top Talent 通道。"
+    };
+
+    const metricsRoot = document.getElementById("metrics");
+    const heroLinksRoot = document.getElementById("hero-links");
+    const jumpListRoot = document.getElementById("jump-list");
+    const sectionsRoot = document.getElementById("sections");
+    const searchInput = document.getElementById("search");
+    const alertsRoot = document.getElementById("alerts");
+    const featuredRoot = document.getElementById("featured");
+    const tipsRoot = document.getElementById("tips");
+
+    function metricCard(value, label) {
+      const div = document.createElement("div");
+      div.className = "metric";
+      div.innerHTML = `<strong>${value}</strong><span>${label}</span>`;
+      return div;
+    }
+
+    function renderMetrics() {
+      const sectionCount = JOBS_DATA.categories.length;
+      const companyCount = JOBS_DATA.categories.reduce((sum, category) => sum + category.items.length, 0);
+      const jobCount = JOBS_DATA.categories.reduce((sum, category) => sum + category.items.reduce((inner, item) => inner + item.rows.length, 0), 0);
+      const featuredCount = JOBS_DATA.featured.length;
+
+      metricsRoot.append(
+        metricCard(sectionCount, "大类分区"),
+        metricCard(companyCount, "机构 / 公司卡片"),
+        metricCard(jobCount, "岗位 / 项目条目"),
+        metricCard(featuredCount, "亮点岗位补充")
+      );
+    }
+
+    function renderHeroLinks() {
+      JOBS_DATA.categories.forEach((category) => {
+        const link = document.createElement("a");
+        link.className = "pill";
+        link.href = `#${category.id}`;
+        link.textContent = `${category.icon} ${category.label}`;
+        heroLinksRoot.appendChild(link);
+      });
+    }
+
+    function renderJumpLinks() {
+      JOBS_DATA.categories.forEach((category) => {
+        const totalJobs = category.items.reduce((sum, item) => sum + item.rows.length, 0);
+        const link = document.createElement("a");
+        link.className = "jump-link";
+        link.href = `#${category.id}`;
+        link.innerHTML = `
+          <div>
+            <strong>${category.icon} ${category.label}</strong>
+            <span>${category.items.length} 家机构 · ${totalJobs} 条记录</span>
+          </div>
+          <em>jump</em>
+        `;
+        jumpListRoot.appendChild(link);
+      });
+    }
+
+    function createCell(text, className) {
+      return `<div class="${className}">${text}</div>`;
+    }
+
+    function renderTableRows(rows) {
+      return rows.map((row) => `
+        <tr>
+          <td class="num">${row.no}</td>
+          <td>${createCell(row.title, "clamp-two")}</td>
+          <td>${createCell(row.location, "clamp-two")}</td>
+          <td>${createCell(row.kind, "clamp-one")}</td>
+          <td><a class="job-link" href="${row.url}" target="_blank" rel="noreferrer">查看</a></td>
+        </tr>
+      `).join("");
+    }
+
+    function renderSections(query = "") {
+      sectionsRoot.innerHTML = "";
+      const normalized = query.trim().toLowerCase();
+
+      JOBS_DATA.categories.forEach((category) => {
+        const filteredItems = category.items.filter((item) => {
+          if (!normalized) {
+            return true;
+          }
+          const text = [
+            item.name,
+            ...item.rows.map((row) => `${row.title} ${row.location} ${row.kind}`)
+          ].join(" ").toLowerCase();
+          return text.includes(normalized);
+        });
+
+        if (!filteredItems.length) {
+          return;
+        }
+
+        const section = document.createElement("section");
+        section.className = "panel section";
+        section.id = category.id;
+
+        const totalJobs = filteredItems.reduce((sum, item) => sum + item.rows.length, 0);
+        const cards = filteredItems.map((item) => `
+          <article class="company-card" id="${item.id}">
+            <div class="company-head">
+              <div>
+                <h3>${item.name}</h3>
+                <p>${category.label} / 固定布局表格</p>
+              </div>
+              <div class="count-badge">${item.rows.length} 条记录</div>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <colgroup>
+                  <col class="col-no">
+                  <col class="col-title">
+                  <col class="col-location">
+                  <col class="col-kind">
+                  <col class="col-link">
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th>No.</th>
+                    <th>岗位 / 项目</th>
+                    <th>地点</th>
+                    <th>类别</th>
+                    <th>链接</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${renderTableRows(item.rows)}
+                </tbody>
+              </table>
+            </div>
+          </article>
+        `).join("");
+
+        section.innerHTML = `
+          <div class="section-head">
+            <div>
+              <h2>${category.icon} ${category.label}</h2>
+              <p>${category.description} ${sectionIntro[category.id] || ""}</p>
+            </div>
+            <div class="section-stat">
+              <strong>${filteredItems.length}</strong>
+              <span>机构 · ${totalJobs} 条结果</span>
+            </div>
+          </div>
+          <div class="cards">${cards}</div>
+        `;
+
+        sectionsRoot.appendChild(section);
+      });
+
+      if (!sectionsRoot.children.length) {
+        const empty = document.createElement("section");
+        empty.className = "panel section";
+        empty.innerHTML = `
+          <div class="section-head">
+            <div>
+              <h2>没有匹配结果</h2>
+              <p>当前关键词没有命中公司名或岗位信息，换个关键词试试。</p>
+            </div>
+          </div>
+        `;
+        sectionsRoot.appendChild(empty);
+      }
+    }
+
+    function renderMetaList(root, items) {
+      root.innerHTML = items.map((item) => `
+        <div class="meta-item">
+          <strong>${item.title}</strong>
+          <span>${item.detail}</span>
+        </div>
+      `).join("");
+    }
+
+    renderMetrics();
+    renderHeroLinks();
+    renderJumpLinks();
+    renderSections();
+    renderMetaList(alertsRoot, JOBS_DATA.alerts);
+    renderMetaList(featuredRoot, JOBS_DATA.featured);
+    renderMetaList(tipsRoot, JOBS_DATA.tips);
+
+    searchInput.addEventListener("input", (event) => {
+      renderSections(event.target.value);
+    });
+  </script>
+</body>
+</html>
