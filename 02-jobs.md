@@ -35,8 +35,6 @@
 
 ## 📌 岗位与计划总览
 
-> 已改为按机构分组的折叠列表，点击机构名称即可展开岗位详情；相比横向表格，GitHub 和移动端阅读会更友好。
-
 ### 🔎 快速导航
 
 #### 1. 按分类进入
@@ -161,353 +159,407 @@
 <details id="jobs-domestic-01">
 <summary><strong>优必选科技</strong> · 3 个岗位</summary>
 
-- 强化学习算法工程师 · `深圳` · [社招](https://ubtrobot.zhiye.com/social)
-- 资深硬件工程师 · `深圳` · [社招](https://ubtrobot.zhiye.com/social)
-- Rust开发工程师 · `深圳` · [社招](https://ubtrobot.zhiye.com/social)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 强化学习算法工程师 | 深圳 | 社招 | [查看](https://ubtrobot.zhiye.com/social) |
+| 2 | 资深硬件工程师 | 深圳 | 社招 | [查看](https://ubtrobot.zhiye.com/social) |
+| 3 | Rust开发工程师 | 深圳 | 社招 | [查看](https://ubtrobot.zhiye.com/social) |
 
 </details>
 
 <details id="jobs-domestic-02">
 <summary><strong>智元机器人</strong> · 17 个岗位</summary>
 
-- 具身智能大模型算法专家 · `上海` · [社招](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620730986292398379)
-- 训练框架算法工程师 · `北京/上海` · [社招](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620007621906696499)
-- 具身智能技术项目经理 · `上海` · [社招](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7618115261161769262)
-- 具身智能软件工程师 · `上海` · [社招](https://m.liepin.com/job/1979770607.shtml)
-- 具身算法实习生 · `上海` · [实习](https://www.nowcoder.com/jobs/hr/108266)
-- 训练框架研发实习生 · `上海` · [实习](https://www.nowcoder.com/jobs/hr/108266)
-- Loco-Manipulation算法实习生 · `上海` · [实习](https://www.nowcoder.com/jobs/hr/108266)
-- SDK开发实习生-灵犀 · `上海` · [实习](https://www.nowcoder.com/jobs/hr/108266)
-- 感知融合算法工程师 · `上海` · [社招](https://agirobot.jobs.feishu.cn/)
-- 空间智能算法工程师 · `上海` · [社招](https://agirobot.jobs.feishu.cn/)
-- 具身智能基础模型研发工程师/专家 · `上海` · [社招](https://agirobot.jobs.feishu.cn/)
-- 多模态生成动作大模型研究员 · `上海/深圳` · [社招](https://agirobot.jobs.feishu.cn/)
-- 灵巧手控制算法工程师 · `北京/上海` · [社招](https://agirobot.jobs.feishu.cn/)
-- 视觉SLAM实习生 · `上海` · [实习](https://agirobot.jobs.feishu.cn/)
-- 机器人数据驱动算法实习生 · `深圳` · [实习](https://agirobot.jobs.feishu.cn/)
-- 域控制器实习生 · `上海` · [实习](https://agirobot.jobs.feishu.cn/)
-- 算法/软件/硬件等研发岗位（2026春招） · `北京/上海/深圳` · [校招](https://agirobot.jobs.feishu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能大模型算法专家 | 上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620730986292398379) |
+| 2 | 训练框架算法工程师 | 北京/上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7620007621906696499) |
+| 3 | 具身智能技术项目经理 | 上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/socialrecruitment/m/position/detail/7618115261161769262) |
+| 4 | 具身智能软件工程师 | 上海 | 社招 | [查看](https://m.liepin.com/job/1979770607.shtml) |
+| 5 | 具身算法实习生 | 上海 | 实习 | [查看](https://www.nowcoder.com/jobs/hr/108266) |
+| 6 | 训练框架研发实习生 | 上海 | 实习 | [查看](https://www.nowcoder.com/jobs/hr/108266) |
+| 7 | Loco-Manipulation算法实习生 | 上海 | 实习 | [查看](https://www.nowcoder.com/jobs/hr/108266) |
+| 8 | SDK开发实习生-灵犀 | 上海 | 实习 | [查看](https://www.nowcoder.com/jobs/hr/108266) |
+| 9 | 感知融合算法工程师 | 上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 10 | 空间智能算法工程师 | 上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 11 | 具身智能基础模型研发工程师/专家 | 上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 12 | 多模态生成动作大模型研究员 | 上海/深圳 | 社招 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 13 | 灵巧手控制算法工程师 | 北京/上海 | 社招 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 14 | 视觉SLAM实习生 | 上海 | 实习 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 15 | 机器人数据驱动算法实习生 | 深圳 | 实习 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 16 | 域控制器实习生 | 上海 | 实习 | [查看](https://agirobot.jobs.feishu.cn/) |
+| 17 | 算法/软件/硬件等研发岗位（2026春招） | 北京/上海/深圳 | 校招 | [查看](https://agirobot.jobs.feishu.cn/) |
 
 </details>
 
 <details id="jobs-domestic-03">
 <summary><strong>宇树科技</strong> · 12 个岗位</summary>
 
-- 具身智能算法工程师 · `杭州` · [社招](https://www.unitree.com/cn/position)
-- 深度强化学习算法工程师 · `杭州` · [社招](https://www.unitree.com/cn/position)
-- AI算法工程师（具身智能/AGI） · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 运动控制算法工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- SLAM算法工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 嵌入式软件开发工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 嵌入式硬件开发工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- C++开发工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 机械工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 解决方案工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 技术支持工程师 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
-- 海外销售专员/经理 · `杭州` · [校招/社招](https://www.unitree.com/cn/position)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法工程师 | 杭州 | 社招 | [查看](https://www.unitree.com/cn/position) |
+| 2 | 深度强化学习算法工程师 | 杭州 | 社招 | [查看](https://www.unitree.com/cn/position) |
+| 3 | AI算法工程师（具身智能/AGI） | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 4 | 运动控制算法工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 5 | SLAM算法工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 6 | 嵌入式软件开发工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 7 | 嵌入式硬件开发工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 8 | C++开发工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 9 | 机械工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 10 | 解决方案工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 11 | 技术支持工程师 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
+| 12 | 海外销售专员/经理 | 杭州 | 校招/社招 | [查看](https://www.unitree.com/cn/position) |
 
 </details>
 
 <details id="jobs-domestic-04">
 <summary><strong>傅利叶智能</strong> · 6 个岗位</summary>
 
-- 具身智能算法研究员(AGI) · `上海浦东` · [校招/社招](https://app.mokahr.com/campus-recruitment/fftai/147078)
-- KA销售经理（具身智能） · `上海` · [社招](https://m.zhipin.com/job_detail/f63d190d31042b8003F-3tm8EFZR.html)
-- 规控算法工程师 · `上海浦东` · [社招](https://app.mokahr.com/campus-recruitment/fftai/147078)
-- 机器人算法工程师（多模态） · `上海` · [校招](https://app.mokahr.com/campus-recruitment/fftai/147078)
-- 感知算法工程师 · `上海` · [校招](https://app.mokahr.com/campus-recruitment/fftai/147078)
-- 机器人机械研发工程师 · `上海` · [校招](https://app.mokahr.com/campus-recruitment/fftai/147078)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法研究员(AGI) | 上海浦东 | 校招/社招 | [查看](https://app.mokahr.com/campus-recruitment/fftai/147078) |
+| 2 | KA销售经理（具身智能） | 上海 | 社招 | [查看](https://m.zhipin.com/job_detail/f63d190d31042b8003F-3tm8EFZR.html) |
+| 3 | 规控算法工程师 | 上海浦东 | 社招 | [查看](https://app.mokahr.com/campus-recruitment/fftai/147078) |
+| 4 | 机器人算法工程师（多模态） | 上海 | 校招 | [查看](https://app.mokahr.com/campus-recruitment/fftai/147078) |
+| 5 | 感知算法工程师 | 上海 | 校招 | [查看](https://app.mokahr.com/campus-recruitment/fftai/147078) |
+| 6 | 机器人机械研发工程师 | 上海 | 校招 | [查看](https://app.mokahr.com/campus-recruitment/fftai/147078) |
 
 </details>
 
 <details id="jobs-domestic-05">
 <summary><strong>逐际动力</strong> · 7 个岗位</summary>
 
-- 具身大模型算法工程师 · `北京` · [社招](https://career.limxdynamics.com/)
-- 人形机器人智能体算法工程师 · `深圳` · [社招](https://career.limxdynamics.com/)
-- 机器人运动控制算法工程师 · `深圳` · [社招](https://career.limxdynamics.com/)
-- 具身智能-VLA强化学习算法实习生 · `北京` · [实习](https://career.limxdynamics.com/)
-- 人形机器人模仿学习算法实习生 · `深圳` · [实习](https://career.limxdynamics.com/)
-- 具身智能前沿算法实习生 · `北京` · [实习](https://career.limxdynamics.com/)
-- 机器人仿真实习生 · `深圳` · [实习](https://career.limxdynamics.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身大模型算法工程师 | 北京 | 社招 | [查看](https://career.limxdynamics.com/) |
+| 2 | 人形机器人智能体算法工程师 | 深圳 | 社招 | [查看](https://career.limxdynamics.com/) |
+| 3 | 机器人运动控制算法工程师 | 深圳 | 社招 | [查看](https://career.limxdynamics.com/) |
+| 4 | 具身智能-VLA强化学习算法实习生 | 北京 | 实习 | [查看](https://career.limxdynamics.com/) |
+| 5 | 人形机器人模仿学习算法实习生 | 深圳 | 实习 | [查看](https://career.limxdynamics.com/) |
+| 6 | 具身智能前沿算法实习生 | 北京 | 实习 | [查看](https://career.limxdynamics.com/) |
+| 7 | 机器人仿真实习生 | 深圳 | 实习 | [查看](https://career.limxdynamics.com/) |
 
 </details>
 
 <details id="jobs-domestic-06">
 <summary><strong>星动纪元</strong> · 11 个岗位</summary>
 
-- 具身智能大模型算法工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 具身大模型算法工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- VLA大模型算法-人形机器人 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 运动控制算法工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 大模型算法 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 机器人强化学习-灵巧手方向 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- MPC算法工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 大模型部署和加速工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 高级云服务开发工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 机器人规控算法工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
-- 遥操作系统工程师 · `北京` · [社招](https://k0fqxcszc9.jobs.feishu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能大模型算法工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 2 | 具身大模型算法工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 3 | VLA大模型算法-人形机器人 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 4 | 运动控制算法工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 5 | 大模型算法 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 6 | 机器人强化学习-灵巧手方向 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 7 | MPC算法工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 8 | 大模型部署和加速工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 9 | 高级云服务开发工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 10 | 机器人规控算法工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
+| 11 | 遥操作系统工程师 | 北京 | 社招 | [查看](https://k0fqxcszc9.jobs.feishu.cn/) |
 
 </details>
 
 <details id="jobs-domestic-07">
 <summary><strong>银河通用机器人</strong> · 10 个岗位</summary>
 
-- 机器人应用开发工程师（26届） · `北京` · [校招](https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537233425539795243/detail)
-- 机械工程师（26届） · `北京` · [校招](https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537236229081237787/detail)
-- 嵌入式软件开发 · `深圳` · [校招](https://www.quanzhi.com/job/69af78a83e67084e25d80a76)
-- 具身大模型算法工程师 · `北京` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 灵巧手操作算法工程师 · `北京` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 机器人全身规划算法工程师 · `深圳` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 机器人全身控制算法工程师（多模态） · `北京` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 机械臂算法工程师-力控方向 · `深圳` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 机器人规控软件工程师 · `深圳` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
-- 具身算法生态工程师 · `深圳` · [社招](https://owm6ymi5v9b.jobs.feishu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 机器人应用开发工程师（26届） | 北京 | 校招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537233425539795243/detail) |
+| 2 | 机械工程师（26届） | 北京 | 校招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/584984/position/7537236229081237787/detail) |
+| 3 | 嵌入式软件开发 | 深圳 | 校招 | [查看](https://www.quanzhi.com/job/69af78a83e67084e25d80a76) |
+| 4 | 具身大模型算法工程师 | 北京 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 5 | 灵巧手操作算法工程师 | 北京 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 6 | 机器人全身规划算法工程师 | 深圳 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 7 | 机器人全身控制算法工程师（多模态） | 北京 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 8 | 机械臂算法工程师-力控方向 | 深圳 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 9 | 机器人规控软件工程师 | 深圳 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
+| 10 | 具身算法生态工程师 | 深圳 | 社招 | [查看](https://owm6ymi5v9b.jobs.feishu.cn/) |
 
 </details>
 
 <details id="jobs-domestic-08">
 <summary><strong>千寻智能</strong> · 11 个岗位</summary>
 
-- 具身模型算法工程师（预训练） · `北京` · [社招](https://www.spirit-ai.com/career)
-- 具身模型算法工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 具身模型推理&部署工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 具身模型训练加速工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 机器学习平台全栈工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 数据算法工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 遥操作系统工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 运控算法工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 导航算法工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 具身算法系统集成工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
-- 高级力控算法工程师 · `北京` · [社招](https://www.spirit-ai.com/career)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身模型算法工程师（预训练） | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 2 | 具身模型算法工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 3 | 具身模型推理&部署工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 4 | 具身模型训练加速工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 5 | 机器学习平台全栈工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 6 | 数据算法工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 7 | 遥操作系统工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 8 | 运控算法工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 9 | 导航算法工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 10 | 具身算法系统集成工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
+| 11 | 高级力控算法工程师 | 北京 | 社招 | [查看](https://www.spirit-ai.com/career) |
 
 </details>
 
 <details id="jobs-domestic-09">
 <summary><strong>它石智航</strong> · 7 个岗位</summary>
 
-- 2026校招-具身VLA算法工程师 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 2026校招-具身智能算法专家 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 机器人算法工程师-强化学习 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 机器人算法工程师-规划控制 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 机器人算法工程师-运动控制 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 机器人多模态感知算法工程师 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
-- 机器人SLAM算法工程师 · `上海` · [校招](https://tarsrobot.jobs.feishu.cn/021343/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 2026校招-具身VLA算法工程师 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 2 | 2026校招-具身智能算法专家 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 3 | 机器人算法工程师-强化学习 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 4 | 机器人算法工程师-规划控制 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 5 | 机器人算法工程师-运动控制 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 6 | 机器人多模态感知算法工程师 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
+| 7 | 机器人SLAM算法工程师 | 上海 | 校招 | [查看](https://tarsrobot.jobs.feishu.cn/021343/) |
 
 </details>
 
 <details id="jobs-domestic-10">
 <summary><strong>小米机器人实验室</strong> · 5 个岗位</summary>
 
-- 顶尖应届-具身大模型算法研究员 · `北京` · [校招](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/)
-- 顶尖应届-具身大模型训练推理工程师 · `北京` · [校招](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/)
-- 顶尖应届-具身大模型数据工程师 · `北京` · [校招](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/)
-- 机器人具身智能算法实习生 · `北京` · [实习](https://www.xzfxrcw.com/job/337224076.html)
-- 机器人可靠性仿真工程师 · `北京通州` · [社招](https://xiaomi.jobs.f.mioffice.cn/index)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 顶尖应届-具身大模型算法研究员 | 北京 | 校招 | [查看](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/) |
+| 2 | 顶尖应届-具身大模型训练推理工程师 | 北京 | 校招 | [查看](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/) |
+| 3 | 顶尖应届-具身大模型数据工程师 | 北京 | 校招 | [查看](https://xiaomi.jobs.f.mioffice.cn/referral/campus/position/) |
+| 4 | 机器人具身智能算法实习生 | 北京 | 实习 | [查看](https://www.xzfxrcw.com/job/337224076.html) |
+| 5 | 机器人可靠性仿真工程师 | 北京通州 | 社招 | [查看](https://xiaomi.jobs.f.mioffice.cn/index) |
 
 </details>
 
 <details id="jobs-domestic-11">
 <summary><strong>腾讯Robotics X</strong> · 7 个岗位</summary>
 
-- 机器人具身智能研究员-大模型方向 · `深圳` · [社招](https://www.mianshima.com/job/1/1968241074312990720)
-- 机器人具身智能研究员-操作方向 · `深圳` · [社招](https://www.mianshima.com/job/1/1968241074312990720)
-- 具身智能平台研发工程师（机器人本体软件） · `深圳` · [社招](https://jobs.niuqizp.com/job-vmk5LzaN5.html)
-- 具身智能平台研发工程师（仿真工程方向） · `深圳` · [社招](https://jobs.niuqizp.com/job-vmk5LzaN5.html)
-- 机器人具身智能软件工程师-系统集成 · `深圳` · [社招](https://jobs.niuqizp.com/job-vmk5LzaN5.html)
-- 多模态大模型研究员-机器人方向 · `深圳` · [社招](https://jobs.niuqizp.com/job-vmk5LzaN5.html)
-- 技术研究-机器人方向 · `深圳` · [校招](http://www.dtjob88.com/campus/index.php?m=job&a=job_detail&uid=cm1378258750504&id=53611913)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 机器人具身智能研究员-大模型方向 | 深圳 | 社招 | [查看](https://www.mianshima.com/job/1/1968241074312990720) |
+| 2 | 机器人具身智能研究员-操作方向 | 深圳 | 社招 | [查看](https://www.mianshima.com/job/1/1968241074312990720) |
+| 3 | 具身智能平台研发工程师（机器人本体软件） | 深圳 | 社招 | [查看](https://jobs.niuqizp.com/job-vmk5LzaN5.html) |
+| 4 | 具身智能平台研发工程师（仿真工程方向） | 深圳 | 社招 | [查看](https://jobs.niuqizp.com/job-vmk5LzaN5.html) |
+| 5 | 机器人具身智能软件工程师-系统集成 | 深圳 | 社招 | [查看](https://jobs.niuqizp.com/job-vmk5LzaN5.html) |
+| 6 | 多模态大模型研究员-机器人方向 | 深圳 | 社招 | [查看](https://jobs.niuqizp.com/job-vmk5LzaN5.html) |
+| 7 | 技术研究-机器人方向 | 深圳 | 校招 | [查看](http://www.dtjob88.com/campus/index.php?m=job&a=job_detail&uid=cm1378258750504&id=53611913) |
 
 </details>
 
 <details id="jobs-domestic-12">
 <summary><strong>字节跳动</strong> · 8 个岗位</summary>
 
-- 具身智能研发工程师-火山引擎 · `上海` · [校招](https://jobs.bytedance.com/campus/position?project=7525009396952582407)
-- 具身智能研发专家-火山引擎 · `北京` · [社招](https://www.liepin.com)
-- 具身多模态交互算法专家-火山引擎 · `北京` · [社招](https://www.liepin.com)
-- 具身智能算法研究员-Seed · `北京/上海/深圳` · [社招](https://www.liepin.com/job/1979963753.shtml)
-- 角色化模型强化学习算法工程师-Seed · `北京` · [校招](https://careers.larksuite.com/campus/position/7538402783112775944/detail)
-- AIGC算法工程师-Data AML · `深圳` · [校招](https://jobs.bytedance.com/campus/position?project=7525009396952582407)
-- 内容理解算法工程师-抖音 · `深圳` · [校招](https://jobs.bytedance.com/campus/position?project=7525009396952582407)
-- 机器人多模态大模型算法实习生-Seed · `北京` · [实习](https://jobs.bytedance.com/campus/position?project=7525009396952582407)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能研发工程师-火山引擎 | 上海 | 校招 | [查看](https://jobs.bytedance.com/campus/position?project=7525009396952582407) |
+| 2 | 具身智能研发专家-火山引擎 | 北京 | 社招 | [查看](https://www.liepin.com) |
+| 3 | 具身多模态交互算法专家-火山引擎 | 北京 | 社招 | [查看](https://www.liepin.com) |
+| 4 | 具身智能算法研究员-Seed | 北京/上海/深圳 | 社招 | [查看](https://www.liepin.com/job/1979963753.shtml) |
+| 5 | 角色化模型强化学习算法工程师-Seed | 北京 | 校招 | [查看](https://careers.larksuite.com/campus/position/7538402783112775944/detail) |
+| 6 | AIGC算法工程师-Data AML | 深圳 | 校招 | [查看](https://jobs.bytedance.com/campus/position?project=7525009396952582407) |
+| 7 | 内容理解算法工程师-抖音 | 深圳 | 校招 | [查看](https://jobs.bytedance.com/campus/position?project=7525009396952582407) |
+| 8 | 机器人多模态大模型算法实习生-Seed | 北京 | 实习 | [查看](https://jobs.bytedance.com/campus/position?project=7525009396952582407) |
 
 </details>
 
 <details id="jobs-domestic-13">
 <summary><strong>华为</strong> · 1 个岗位</summary>
 
-- 具身智能相关岗位 · `北京/上海/深圳` · [校招/社招](https://career.huawei.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能相关岗位 | 北京/上海/深圳 | 校招/社招 | [查看](https://career.huawei.com/) |
 
 </details>
 
 <details id="jobs-domestic-14">
 <summary><strong>大疆</strong> · 6 个岗位</summary>
 
-- 中/高级计算机视觉算法工程师（动态感知） · `深圳` · [社招](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472)
-- 中/高级计算机视觉算法工程师 · `北京/上海/深圳` · [社招](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472)
-- 中/高级决策规划算法工程师（NN方向） · `深圳` · [社招](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472)
-- 机器人算法工程师 · `上海/深圳` · [校招](https://we.dji.com/zh-CN/campus/position)
-- AI实习生-决策与规划算法 · `上海/深圳` · [实习](https://we.dji.com/zh-CN/campus/position)
-- AI实习生-机器学习算法 · `上海/深圳` · [实习](https://we.dji.com/zh-CN/campus/position)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 中/高级计算机视觉算法工程师（动态感知） | 深圳 | 社招 | [查看](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472) |
+| 2 | 中/高级计算机视觉算法工程师 | 北京/上海/深圳 | 社招 | [查看](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472) |
+| 3 | 中/高级决策规划算法工程师（NN方向） | 深圳 | 社招 | [查看](https://we.dji.com/zh-CN/position/detail?positionId=1888185889855721472) |
+| 4 | 机器人算法工程师 | 上海/深圳 | 校招 | [查看](https://we.dji.com/zh-CN/campus/position) |
+| 5 | AI实习生-决策与规划算法 | 上海/深圳 | 实习 | [查看](https://we.dji.com/zh-CN/campus/position) |
+| 6 | AI实习生-机器学习算法 | 上海/深圳 | 实习 | [查看](https://we.dji.com/zh-CN/campus/position) |
 
 </details>
 
 <details id="jobs-domestic-15">
 <summary><strong>地平线</strong> · 7 个岗位</summary>
 
-- 地瓜机器人-具身智能高级算法工程师 · `北京` · [社招](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html)
-- 地瓜机器人-具身仿真数据工程师 · `北京` · [社招](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html)
-- 地瓜机器人-全栈开发工程师（RDK） · `北京` · [社招](https://www.mianshima.com/job/1/1968241074312990720)
-- 世界模型算法工程师 · `北京` · [社招](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html)
-- 专项人才计划 · `北京/上海/深圳/杭州/南京/香港` · [校招](https://horizon-campus.hotjob.cn/)
-- 世界模型算法研究实习生-具身智能方向 · `北京/上海` · [实习](https://jdjywpt.jlu.edu.cn/portal/recruit/details?id=1881ef4a713e4c029eb4363e6755ad60)
-- 日常实习生（算法/软件/测试等） · `多城市` · [实习](https://horizon-campus.hotjob.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 地瓜机器人-具身智能高级算法工程师 | 北京 | 社招 | [查看](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html) |
+| 2 | 地瓜机器人-具身仿真数据工程师 | 北京 | 社招 | [查看](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html) |
+| 3 | 地瓜机器人-全栈开发工程师（RDK） | 北京 | 社招 | [查看](https://www.mianshima.com/job/1/1968241074312990720) |
+| 4 | 世界模型算法工程师 | 北京 | 社招 | [查看](https://m.zhipin.com/job_detail/93e74464ae773e5903150t6-E1JQ.html) |
+| 5 | 专项人才计划 | 北京/上海/深圳/杭州/南京/香港 | 校招 | [查看](https://horizon-campus.hotjob.cn/) |
+| 6 | 世界模型算法研究实习生-具身智能方向 | 北京/上海 | 实习 | [查看](https://jdjywpt.jlu.edu.cn/portal/recruit/details?id=1881ef4a713e4c029eb4363e6755ad60) |
+| 7 | 日常实习生（算法/软件/测试等） | 多城市 | 实习 | [查看](https://horizon-campus.hotjob.cn/) |
 
 </details>
 
 <details id="jobs-domestic-16">
 <summary><strong>小鹏汽车</strong> · 10 个岗位</summary>
 
-- 具身智能运控算法实习生 · `北京/上海/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158)
-- 具身智能算法实习生(Manipulation) · `上海/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315)
-- 具身软件系统工程师 · `北京` · [社招](https://xiaopeng.jobs.feishu.cn/)
-- VLA/VLM算法实习生 · `北京/上海/广州/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/)
-- 世界模型算法实习生 · `北京/上海/广州/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/)
-- 强化学习算法实习生 · `北京/上海/广州/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/)
-- 运动控制算法实习生 · `北京/上海/广州/深圳` · [实习](https://xiaopeng.jobs.feishu.cn/)
-- 基础模型与多模态大模型算法工程师 · `北京/上海/广州/深圳` · [校招](https://xiaopeng.jobs.feishu.cn/)
-- 通信软件开发培训生（机器人方向） · `北京/上海/广州/深圳` · [校招](https://xiaopeng.jobs.feishu.cn/)
-- 机器人测试培训生 · `北京/上海/广州/深圳` · [校招](https://xiaopeng.jobs.feishu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能运控算法实习生 | 北京/上海/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158) |
+| 2 | 具身智能算法实习生(Manipulation) | 上海/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315) |
+| 3 | 具身软件系统工程师 | 北京 | 社招 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 4 | VLA/VLM算法实习生 | 北京/上海/广州/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 5 | 世界模型算法实习生 | 北京/上海/广州/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 6 | 强化学习算法实习生 | 北京/上海/广州/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 7 | 运动控制算法实习生 | 北京/上海/广州/深圳 | 实习 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 8 | 基础模型与多模态大模型算法工程师 | 北京/上海/广州/深圳 | 校招 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 9 | 通信软件开发培训生（机器人方向） | 北京/上海/广州/深圳 | 校招 | [查看](https://xiaopeng.jobs.feishu.cn/) |
+| 10 | 机器人测试培训生 | 北京/上海/广州/深圳 | 校招 | [查看](https://xiaopeng.jobs.feishu.cn/) |
 
 </details>
 
 <details id="jobs-domestic-17">
 <summary><strong>普渡科技</strong> · 4 个岗位</summary>
 
-- 端到端模型算法工程师 · `深圳/成都` · [校招](https://pudutech.zhiye.com/campus)
-- 机器人感知算法工程师 · `深圳/成都` · [校招](https://pudutech.zhiye.com/campus)
-- C++工程师 · `深圳/成都` · [校招](https://pudutech.zhiye.com/campus)
-- 系统软件工程师 · `深圳/成都` · [校招](https://pudutech.zhiye.com/campus)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 端到端模型算法工程师 | 深圳/成都 | 校招 | [查看](https://pudutech.zhiye.com/campus) |
+| 2 | 机器人感知算法工程师 | 深圳/成都 | 校招 | [查看](https://pudutech.zhiye.com/campus) |
+| 3 | C++工程师 | 深圳/成都 | 校招 | [查看](https://pudutech.zhiye.com/campus) |
+| 4 | 系统软件工程师 | 深圳/成都 | 校招 | [查看](https://pudutech.zhiye.com/campus) |
 
 </details>
 
 <details id="jobs-domestic-18">
 <summary><strong>云深处科技</strong> · 15 个岗位</summary>
 
-- 具身算法工程师 · `杭州` · [社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- SLAM算法工程师 · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 导航算法工程师 · `杭州` · [社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（模仿学习） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（操作感知） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（具身导航） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（机械臂） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（运动控制） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（感控融合） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（AI识别） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法工程师（具身操作） · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 遥操作系统工程师 · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 嵌入式工程师 · `杭州` · [校招/社招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 算法实习生 · `杭州` · [实习](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
-- 管培生 · `杭州` · [校招](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身算法工程师 | 杭州 | 社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 2 | SLAM算法工程师 | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 3 | 导航算法工程师 | 杭州 | 社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 4 | 算法工程师（模仿学习） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 5 | 算法工程师（操作感知） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 6 | 算法工程师（具身导航） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 7 | 算法工程师（机械臂） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 8 | 算法工程师（运动控制） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 9 | 算法工程师（感控融合） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 10 | 算法工程师（AI识别） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 11 | 算法工程师（具身操作） | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 12 | 遥操作系统工程师 | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 13 | 嵌入式工程师 | 杭州 | 校招/社招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 14 | 算法实习生 | 杭州 | 实习 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
+| 15 | 管培生 | 杭州 | 校招 | [查看](https://app135149.eapps.dingtalkcloud.com/campus-recruitment/yunshenchu/) |
 
 </details>
 
 <details id="jobs-domestic-19">
 <summary><strong>思谋科技</strong> · 11 个岗位</summary>
 
-- 算法工程师（机器人运动控制）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 算法工程师（智能视觉方向）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 算法工程师（强化学习方向）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 软件工程师（机器人控制器）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 软件工程师（机器视觉）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 机器人软件工程师-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 嵌入式软件工程师（机器人方向） · `深圳` · [社招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 机械工程师（机械臂方向）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 机械结构工程师（机械臂方向） · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 产品经理（具身智能方向）-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
-- 全栈工程师-26届 · `深圳` · [校招](https://app.mokahr.com/m/campus-recruitment/smartmore/40506)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 算法工程师（机器人运动控制）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 2 | 算法工程师（智能视觉方向）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 3 | 算法工程师（强化学习方向）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 4 | 软件工程师（机器人控制器）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 5 | 软件工程师（机器视觉）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 6 | 机器人软件工程师-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 7 | 嵌入式软件工程师（机器人方向） | 深圳 | 社招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 8 | 机械工程师（机械臂方向）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 9 | 机械结构工程师（机械臂方向） | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 10 | 产品经理（具身智能方向）-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
+| 11 | 全栈工程师-26届 | 深圳 | 校招 | [查看](https://app.mokahr.com/m/campus-recruitment/smartmore/40506) |
 
 </details>
 
 <details id="jobs-domestic-20">
 <summary><strong>上海人工智能实验室</strong> · 5 个岗位</summary>
 
-- 机器人操作算法工程师-具身智能中心 · `上海` · [校招](https://www.shlab.org.cn/joinus)
-- 具身智能操作算法工程师 · `上海` · [社招](https://www.shlab.org.cn/joinus)
-- 算法工程师-具身智能 · `上海` · [社招](https://www.shlab.org.cn/joinus)
-- 全栈开发实习生 — 具身智能中心 · `上海` · [实习](https://www.shlab.org.cn/joinus)
-- 具身大模型安全性算法实习生 · `上海` · [实习](https://www.shlab.org.cn/joinus)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 机器人操作算法工程师-具身智能中心 | 上海 | 校招 | [查看](https://www.shlab.org.cn/joinus) |
+| 2 | 具身智能操作算法工程师 | 上海 | 社招 | [查看](https://www.shlab.org.cn/joinus) |
+| 3 | 算法工程师-具身智能 | 上海 | 社招 | [查看](https://www.shlab.org.cn/joinus) |
+| 4 | 全栈开发实习生 — 具身智能中心 | 上海 | 实习 | [查看](https://www.shlab.org.cn/joinus) |
+| 5 | 具身大模型安全性算法实习生 | 上海 | 实习 | [查看](https://www.shlab.org.cn/joinus) |
 
 </details>
 
 <details id="jobs-domestic-21">
 <summary><strong>高通</strong> · 1 个岗位</summary>
 
-- 具身智能算法研发工程师(实习) · `北京` · [实习](https://www.nowcoder.com/jobs/detail/436353)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法研发工程师(实习) | 北京 | 实习 | [查看](https://www.nowcoder.com/jobs/detail/436353) |
 
 </details>
 
 <details id="jobs-domestic-22">
 <summary><strong>第五纪智能</strong> · 1 个岗位</summary>
 
-- 具身智能算法工程师 · `北京` · [社招](https://www.zhipin.com/job_detail/c0865d06a950f11903R82t-6F1dZ.html)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法工程师 | 北京 | 社招 | [查看](https://www.zhipin.com/job_detail/c0865d06a950f11903R82t-6F1dZ.html) |
 
 </details>
 
 <details id="jobs-domestic-23">
 <summary><strong>商汤科技</strong> · 9 个岗位</summary>
 
-- 具身智能算法研究员-北京/上海 · `北京/上海` · [社招](https://www.sensetime.com/cn/join)
-- 具身智能算法工程师 (VLA/多模态方向) · `北京` · [社招](https://www.sensetime.com/cn/join)
-- 高级模型算法工程师（机器人） · `上海` · [社招](https://www.sensetime.com/cn/join)
-- 机器人运动控制算法工程师 · `北京` · [社招](https://www.sensetime.com/cn/join)
-- 机器人3D视觉感知算法工程师 · `北京` · [社招](https://www.sensetime.com/cn/join)
-- 机器人仿真与数据算法工程师 · `北京` · [社招](https://www.sensetime.com/cn/join)
-- 世界模型算法研究员 · `深圳` · [社招](https://www.sensetime.com/cn/join)
-- 具身智能世界模型算法实习生 · `北京` · [实习](https://www.sensetime.com/cn/join)
-- AI开发工程师实习生（多模态/世界模型） · `上海` · [实习](https://www.sensetime.com/cn/join)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法研究员-北京/上海 | 北京/上海 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 2 | 具身智能算法工程师 (VLA/多模态方向) | 北京 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 3 | 高级模型算法工程师（机器人） | 上海 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 4 | 机器人运动控制算法工程师 | 北京 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 5 | 机器人3D视觉感知算法工程师 | 北京 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 6 | 机器人仿真与数据算法工程师 | 北京 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 7 | 世界模型算法研究员 | 深圳 | 社招 | [查看](https://www.sensetime.com/cn/join) |
+| 8 | 具身智能世界模型算法实习生 | 北京 | 实习 | [查看](https://www.sensetime.com/cn/join) |
+| 9 | AI开发工程师实习生（多模态/世界模型） | 上海 | 实习 | [查看](https://www.sensetime.com/cn/join) |
 
 </details>
 
 <details id="jobs-domestic-24">
 <summary><strong>旷视科技</strong> · 4 个岗位</summary>
 
-- 具身智能算法系统方向研究员 · `北京/上海` · [校招/社招](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
-- 具身智能大模型算法研究员 · `北京/上海` · [校招/社招](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
-- 自动驾驶深度学习部署工程师 · `北京` · [实习](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
-- 具身智能算法实习生 · `北京/成都` · [实习](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法系统方向研究员 | 北京/上海 | 校招/社招 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
+| 2 | 具身智能大模型算法研究员 | 北京/上海 | 校招/社招 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
+| 3 | 自动驾驶深度学习部署工程师 | 北京 | 实习 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
+| 4 | 具身智能算法实习生 | 北京/成都 | 实习 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
 
 </details>
 
 <details id="jobs-domestic-25">
 <summary><strong>云从科技</strong> · 3 个岗位</summary>
 
-- 具身智能算法工程师 · `重庆` · [社招](https://www.cloudwalk.com/)
-- 算法工程师 · `重庆` · [校招](https://www.cloudwalk.com/)
-- AI应用工程师 · `上海` · [社招](https://www.cloudwalk.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能算法工程师 | 重庆 | 社招 | [查看](https://www.cloudwalk.com/) |
+| 2 | 算法工程师 | 重庆 | 校招 | [查看](https://www.cloudwalk.com/) |
+| 3 | AI应用工程师 | 上海 | 社招 | [查看](https://www.cloudwalk.com/) |
 
 </details>
 
 <details id="jobs-domestic-26">
 <summary><strong>智谱AI</strong> · 5 个岗位</summary>
 
-- AI机器人技术研究博士后 · `北京` · [社招](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position)
-- Agent算法工程师（智谱星）-26届 · `北京` · [校招](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position)
-- 26届校招-Agent算法工程师 · `北京` · [校招](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position)
-- 多模态生成算法实习生 · `北京` · [实习](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position)
-- 多模态强化学习算法实习生(VLM Agentic RL) · `北京` · [实习](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AI机器人技术研究博士后 | 北京 | 社招 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position) |
+| 2 | Agent算法工程师（智谱星）-26届 | 北京 | 校招 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position) |
+| 3 | 26届校招-Agent算法工程师 | 北京 | 校招 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position) |
+| 4 | 多模态生成算法实习生 | 北京 | 实习 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position) |
+| 5 | 多模态强化学习算法实习生(VLM Agentic RL) | 北京 | 实习 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position) |
 
 </details>
 
 <details id="jobs-domestic-27">
 <summary><strong>MiniMax</strong> · 5 个岗位</summary>
 
-- AGI产品研发工程师-应届生(Top Talent) · `北京/上海` · [校招](https://api.minimax.chat/careers)
-- AGI产品研发工程师-实习(Top Talent) · `上海` · [实习](https://api.minimax.chat/careers)
-- AGI全栈工程师（AI Agent / AI App） · `上海` · [社招](https://api.minimax.chat/careers)
-- AGI服务端工程师（AI Agent / AI App） · `北京/上海` · [社招](https://api.minimax.chat/careers)
-- 大模型算法工程师-AIGC应用研究 · `北京` · [社招](https://api.minimax.chat/careers)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AGI产品研发工程师-应届生(Top Talent) | 北京/上海 | 校招 | [查看](https://api.minimax.chat/careers) |
+| 2 | AGI产品研发工程师-实习(Top Talent) | 上海 | 实习 | [查看](https://api.minimax.chat/careers) |
+| 3 | AGI全栈工程师（AI Agent / AI App） | 上海 | 社招 | [查看](https://api.minimax.chat/careers) |
+| 4 | AGI服务端工程师（AI Agent / AI App） | 北京/上海 | 社招 | [查看](https://api.minimax.chat/careers) |
+| 5 | 大模型算法工程师-AIGC应用研究 | 北京 | 社招 | [查看](https://api.minimax.chat/careers) |
 
 </details>
 
@@ -518,270 +570,326 @@
 <details id="jobs-overseas-01">
 <summary><strong>1X Technologies</strong> · 12 个岗位</summary>
 
-- Manufacturing Engineer · `Hayward, CA` · [社招](https://www.1x.tech/open-positions/manufacturing-engineer-us)
-- AI Research Engineer - Scaling · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- AI Research Engineer - World Models · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- AI Research Engineer - Reinforcement Learning · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Hardware Systems Research Engineer · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Biomechanics Researcher · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Mechanical Engineer - Actuators · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Motor Control Engineer - Robotic Actuators · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Software Engineer - Simulation · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Tactile Sensing Research Engineer · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Staff Autonomy Safety Engineer · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
-- Senior Mechanical Engineer · `San Carlos, CA` · [社招](https://www.1x.tech/careers)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Manufacturing Engineer | Hayward, CA | 社招 | [查看](https://www.1x.tech/open-positions/manufacturing-engineer-us) |
+| 2 | AI Research Engineer - Scaling | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 3 | AI Research Engineer - World Models | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 4 | AI Research Engineer - Reinforcement Learning | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 5 | Hardware Systems Research Engineer | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 6 | Biomechanics Researcher | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 7 | Mechanical Engineer - Actuators | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 8 | Motor Control Engineer - Robotic Actuators | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 9 | Software Engineer - Simulation | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 10 | Tactile Sensing Research Engineer | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 11 | Staff Autonomy Safety Engineer | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
+| 12 | Senior Mechanical Engineer | San Carlos, CA | 社招 | [查看](https://www.1x.tech/careers) |
 
 </details>
 
 <details id="jobs-overseas-02">
 <summary><strong>AIM Intelligent Machines</strong> · 2 个岗位</summary>
 
-- Embodied AI Engineer - Controls · `Seattle, WA, USA` · [社招](https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106674-embodied-ai-engineer-controls)
-- Perception and SLAM ML Engineer · `Seattle, WA, USA` · [社招](https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106681-perception-and-slam-machine-learning-engineer)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Embodied AI Engineer - Controls | Seattle, WA, USA | 社招 | [查看](https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106674-embodied-ai-engineer-controls) |
+| 2 | Perception and SLAM ML Engineer | Seattle, WA, USA | 社招 | [查看](https://jobs.khoslaventures.com/companies/aim-intelligent-machines-2/jobs/70106681-perception-and-slam-machine-learning-engineer) |
 
 </details>
 
 <details id="jobs-overseas-03">
 <summary><strong>Amazon Frontier AI & Robotics</strong> · 2 个岗位</summary>
 
-- Sr. Applied Scientist, FAR · `San Francisco, CA` · [社招](https://seeker.worksourcewa.com)
-- Applied Science Internship - PhD Student · `Seattle, WA` · [实习](https://www.amazon.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Sr. Applied Scientist, FAR | San Francisco, CA | 社招 | [查看](https://seeker.worksourcewa.com) |
+| 2 | Applied Science Internship - PhD Student | Seattle, WA | 实习 | [查看](https://www.amazon.jobs) |
 
 </details>
 
 <details id="jobs-overseas-04">
 <summary><strong>Amazon Industrial Robotics</strong> · 1 个岗位</summary>
 
-- Applied Scientist II Intern / Co-op 2026 · `USA` · [实习](https://seeker.worksourcewa.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Applied Scientist II Intern / Co-op 2026 | USA | 实习 | [查看](https://seeker.worksourcewa.com) |
 
 </details>
 
 <details id="jobs-overseas-05">
 <summary><strong>Amazon Robotics</strong> · 5 个岗位</summary>
 
-- Applied Scientist - ML and Robotics · `North Reading, MA` · [社招](https://www.amazon.jobs/en/teams/amazon-robotics)
-- Applied Scientist, SLAM · `North Reading, MA` · [社招](https://www.amazon.jobs/en/teams/amazon-robotics)
-- Sr. Software Engineer, Mobile Manipulation Robotics · `North Reading, MA` · [社招](https://www.amazon.jobs/en/teams/amazon-robotics)
-- 2026 Robotics Systems Engineer Intern · `North Reading, MA` · [实习](https://www.amazon.jobs/en/teams/amazon-robotics)
-- Personal Robotics Group Research Intern · `Sunnyvale, CA` · [实习](https://www.amazon.jobs/en/search)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Applied Scientist - ML and Robotics | North Reading, MA | 社招 | [查看](https://www.amazon.jobs/en/teams/amazon-robotics) |
+| 2 | Applied Scientist, SLAM | North Reading, MA | 社招 | [查看](https://www.amazon.jobs/en/teams/amazon-robotics) |
+| 3 | Sr. Software Engineer, Mobile Manipulation Robotics | North Reading, MA | 社招 | [查看](https://www.amazon.jobs/en/teams/amazon-robotics) |
+| 4 | 2026 Robotics Systems Engineer Intern | North Reading, MA | 实习 | [查看](https://www.amazon.jobs/en/teams/amazon-robotics) |
+| 5 | Personal Robotics Group Research Intern | Sunnyvale, CA | 实习 | [查看](https://www.amazon.jobs/en/search) |
 
 </details>
 
 <details id="jobs-overseas-06">
 <summary><strong>Apptronik</strong> · 6 个岗位</summary>
 
-- Principal Software Engineer - AI and Simulation · `Sunnyvale, CA, USA` · [社招](https://jobs.gritventures.com/companies/apptronik/jobs/73731703-principal-software-engineer-ai-and-simulation)
-- Senior Mechanical Engineer, Actuation · `Austin, TX, USA` · [社招](https://jobs.capitalfactory.com/companies/apptronik/jobs/63799025-senior-mechanical-engineer-actuation)
-- Reinforcement Learning Engineer · `Austin, TX` · [社招](https://app.otta.com/companies/Apptronik)
-- Senior Robotics Software & Integration Engineer · `Austin, TX` · [社招](https://app.otta.com/companies/Apptronik)
-- Motion Control and Planning Intern · `Austin, TX, USA` · [实习](https://jobs.capitalfactory.com/companies/apptronik/jobs/71302488-motion-control-and-planning-intern)
-- Autonomy Software Intern — Humanoid Robotics · `Austin, TX` · [实习](https://www.wacorecruiter.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Principal Software Engineer - AI and Simulation | Sunnyvale, CA, USA | 社招 | [查看](https://jobs.gritventures.com/companies/apptronik/jobs/73731703-principal-software-engineer-ai-and-simulation) |
+| 2 | Senior Mechanical Engineer, Actuation | Austin, TX, USA | 社招 | [查看](https://jobs.capitalfactory.com/companies/apptronik/jobs/63799025-senior-mechanical-engineer-actuation) |
+| 3 | Reinforcement Learning Engineer | Austin, TX | 社招 | [查看](https://app.otta.com/companies/Apptronik) |
+| 4 | Senior Robotics Software & Integration Engineer | Austin, TX | 社招 | [查看](https://app.otta.com/companies/Apptronik) |
+| 5 | Motion Control and Planning Intern | Austin, TX, USA | 实习 | [查看](https://jobs.capitalfactory.com/companies/apptronik/jobs/71302488-motion-control-and-planning-intern) |
+| 6 | Autonomy Software Intern — Humanoid Robotics | Austin, TX | 实习 | [查看](https://www.wacorecruiter.com) |
 
 </details>
 
 <details id="jobs-overseas-07">
 <summary><strong>Aurora</strong> · 5 个岗位</summary>
 
-- Software Engineer, Functional Architecture · `Pittsburgh, PA` · [社招](https://www.aurora.tech/careers)
-- Senior/Staff Software Engineer, Onboard Infrastructure · `Mountain View, CA` · [社招](https://www.aurora.tech/careers)
-- Machine Learning Research Scientist · `Pittsburgh, CA` · [社招](https://www.aurora.tech/careers)
-- Software Engineer, Behavior Planning · `USA` · [社招](https://www.postjobfree.com)
-- Staff Security Software Engineer · `USA` · [社招](https://simplify.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Software Engineer, Functional Architecture | Pittsburgh, PA | 社招 | [查看](https://www.aurora.tech/careers) |
+| 2 | Senior/Staff Software Engineer, Onboard Infrastructure | Mountain View, CA | 社招 | [查看](https://www.aurora.tech/careers) |
+| 3 | Machine Learning Research Scientist | Pittsburgh, CA | 社招 | [查看](https://www.aurora.tech/careers) |
+| 4 | Software Engineer, Behavior Planning | USA | 社招 | [查看](https://www.postjobfree.com) |
+| 5 | Staff Security Software Engineer | USA | 社招 | [查看](https://simplify.jobs) |
 
 </details>
 
 <details id="jobs-overseas-08">
 <summary><strong>Boston Dynamics</strong> · 6 个岗位</summary>
 
-- Senior Robotics Engineer - Spot Manipulation · `Waltham, MA` · [社招](https://www.adzuna.com)
-- Reinforcement Learning Engineer, Spot Behavior · `Waltham, MA` · [社招](https://echojobs.io)
-- Senior Staff Robotics Engineer - Localization · `Waltham, MA` · [社招](https://simplify.jobs)
-- Research Engineer, Physics Simulation · `Waltham, MA` · [社招](https://echojobs.io)
-- Software Engineer in Test - Automation · `Waltham, MA` · [社招](https://www.theladders.com)
-- Robotics Software Engineering Development Program · `Waltham, MA` · [校招](https://embedded.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Senior Robotics Engineer - Spot Manipulation | Waltham, MA | 社招 | [查看](https://www.adzuna.com) |
+| 2 | Reinforcement Learning Engineer, Spot Behavior | Waltham, MA | 社招 | [查看](https://echojobs.io) |
+| 3 | Senior Staff Robotics Engineer - Localization | Waltham, MA | 社招 | [查看](https://simplify.jobs) |
+| 4 | Research Engineer, Physics Simulation | Waltham, MA | 社招 | [查看](https://echojobs.io) |
+| 5 | Software Engineer in Test - Automation | Waltham, MA | 社招 | [查看](https://www.theladders.com) |
+| 6 | Robotics Software Engineering Development Program | Waltham, MA | 校招 | [查看](https://embedded.jobs) |
 
 </details>
 
 <details id="jobs-overseas-09">
 <summary><strong>Cruise</strong> · 2 个岗位</summary>
 
-- VLM/VLA Research Intern (PhD) · `USA` · [实习](https://careerhub.sunyempire.edu)
-- PhD Intern, AI Research · `San Francisco, CA` · [实习](https://www.builtinseattle.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | VLM/VLA Research Intern (PhD) | USA | 实习 | [查看](https://careerhub.sunyempire.edu) |
+| 2 | PhD Intern, AI Research | San Francisco, CA | 实习 | [查看](https://www.builtinseattle.com) |
 
 </details>
 
 <details id="jobs-overseas-10">
 <summary><strong>Diligent Robotics</strong> · 1 个岗位</summary>
 
-- Software Engineer - Robotic Applications · `Austin, TX, USA` · [社招](https://jobs.capitalfactory.com/companies/diligent-robotics/jobs/71684239-software-engineer-robotic-applications)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Software Engineer - Robotic Applications | Austin, TX, USA | 社招 | [查看](https://jobs.capitalfactory.com/companies/diligent-robotics/jobs/71684239-software-engineer-robotic-applications) |
 
 </details>
 
 <details id="jobs-overseas-11">
 <summary><strong>Figure AI</strong> · 7 个岗位</summary>
 
-- AI Engineer, Post-Training - Helix Team · `San Jose, CA` · [社招](https://job-boards.greenhouse.io/figureai)
-- AI Training Infrastructure Engineer - Helix · `San Jose, CA` · [社招](https://job-boards.greenhouse.io/figureai)
-- AI Tooling Engineer, Helix · `San Jose, CA` · [社招](https://www.builtinsf.com)
-- Embedded Actuation Engineer · `San Jose, CA` · [社招](https://simplify.jobs)
-- Firmware Intern [Summer 2026] · `San Jose, CA` · [实习](https://www.tealhq.com)
-- Manufacturing Data Engineering Intern [Fall 2026] · `San Jose, CA` · [实习](https://job-boards.greenhouse.io/figureai)
-- Quality Engineering Intern [Summer 2026] · `San Jose, CA` · [实习](https://job-boards.greenhouse.io/figureai)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AI Engineer, Post-Training - Helix Team | San Jose, CA | 社招 | [查看](https://job-boards.greenhouse.io/figureai) |
+| 2 | AI Training Infrastructure Engineer - Helix | San Jose, CA | 社招 | [查看](https://job-boards.greenhouse.io/figureai) |
+| 3 | AI Tooling Engineer, Helix | San Jose, CA | 社招 | [查看](https://www.builtinsf.com) |
+| 4 | Embedded Actuation Engineer | San Jose, CA | 社招 | [查看](https://simplify.jobs) |
+| 5 | Firmware Intern [Summer 2026] | San Jose, CA | 实习 | [查看](https://www.tealhq.com) |
+| 6 | Manufacturing Data Engineering Intern [Fall 2026] | San Jose, CA | 实习 | [查看](https://job-boards.greenhouse.io/figureai) |
+| 7 | Quality Engineering Intern [Summer 2026] | San Jose, CA | 实习 | [查看](https://job-boards.greenhouse.io/figureai) |
 
 </details>
 
 <details id="jobs-overseas-12">
 <summary><strong>Formic</strong> · 1 个岗位</summary>
 
-- Embodied AI / Simulation Engineer · `San Francisco/Oakland, CA, USA` · [社招](https://jobs.luxcapital.com/companies/formic/jobs/67900487-embodied-ai-simulation-engineer)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Embodied AI / Simulation Engineer | San Francisco/Oakland, CA, USA | 社招 | [查看](https://jobs.luxcapital.com/companies/formic/jobs/67900487-embodied-ai-simulation-engineer) |
 
 </details>
 
 <details id="jobs-overseas-13">
 <summary><strong>Google DeepMind</strong> · 6 个岗位</summary>
 
-- Research Scientist, Robotics · `Mountain View, CA` · [社招](https://startup.jobs)
-- Research Scientist, Safety and Alignment for Humanoid Robotics · `New York, NY` · [社招](https://startup.jobs)
-- Software Engineer, Model Lifecycle Engineering, Robotics · `USA` · [社招](https://jobs.anitab.org)
-- Research Engineer, Developer Experience, Gemini Robotics · `Mountain View, CA` · [社招](https://nflpa.nexxt.com)
-- Research Scientist, Multisensor Robotics & Dexterity · `USA` · [社招](https://www.moaijobs.com)
-- Staff Technical Program Manager, Gemini Robotics · `USA` · [社招](https://www.theladders.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Research Scientist, Robotics | Mountain View, CA | 社招 | [查看](https://startup.jobs) |
+| 2 | Research Scientist, Safety and Alignment for Humanoid Robotics | New York, NY | 社招 | [查看](https://startup.jobs) |
+| 3 | Software Engineer, Model Lifecycle Engineering, Robotics | USA | 社招 | [查看](https://jobs.anitab.org) |
+| 4 | Research Engineer, Developer Experience, Gemini Robotics | Mountain View, CA | 社招 | [查看](https://nflpa.nexxt.com) |
+| 5 | Research Scientist, Multisensor Robotics & Dexterity | USA | 社招 | [查看](https://www.moaijobs.com) |
+| 6 | Staff Technical Program Manager, Gemini Robotics | USA | 社招 | [查看](https://www.theladders.com) |
 
 </details>
 
 <details id="jobs-overseas-14">
 <summary><strong>Grit Ventures</strong> · 1 个岗位</summary>
 
-- Reinforcement Learning Intern · `USA` · [实习](https://jobs.gritventures.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Reinforcement Learning Intern | USA | 实习 | [查看](https://jobs.gritventures.com) |
 
 </details>
 
 <details id="jobs-overseas-15">
 <summary><strong>HTX (Singapore)</strong> · 1 个岗位</summary>
 
-- Engineer / Lead Engineer - Embodied AI R&D · `Singapore` · [社招](https://www.careers.gov.sg)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Engineer / Lead Engineer - Embodied AI R&D | Singapore | 社招 | [查看](https://www.careers.gov.sg) |
 
 </details>
 
 <details id="jobs-overseas-16">
 <summary><strong>Iconic.AI</strong> · 1 个岗位</summary>
 
-- AI Research Scientist (Expressive Embodiment) · `London, UK` · [社招](https://www.iconic.ai)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AI Research Scientist (Expressive Embodiment) | London, UK | 社招 | [查看](https://www.iconic.ai) |
 
 </details>
 
 <details id="jobs-overseas-17">
 <summary><strong>Meta FAIR</strong> · 3 个岗位</summary>
 
-- AI Research Scientist, Embodied AI / Robotics · `Menlo Park, CA` · [社招](https://www.metacareers.com)
-- Research Scientist, World Models & Embodied AI · `London, UK` · [社招](https://www.glassdoor.co.uk)
-- Research Scientist Intern, Efficient World Foundation Models (PhD) · `USA` · [实习](https://www.getclera.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AI Research Scientist, Embodied AI / Robotics | Menlo Park, CA | 社招 | [查看](https://www.metacareers.com) |
+| 2 | Research Scientist, World Models & Embodied AI | London, UK | 社招 | [查看](https://www.glassdoor.co.uk) |
+| 3 | Research Scientist Intern, Efficient World Foundation Models (PhD) | USA | 实习 | [查看](https://www.getclera.com) |
 
 </details>
 
 <details id="jobs-overseas-18">
 <summary><strong>Nuro</strong> · 4 个岗位</summary>
 
-- Senior ML Research Scientist, VLM/VLA · `Mountain View, CA` · [社招](https://ev.careers)
-- ML Research Scientist, Prediction & Smart Agents · `Mountain View, CA` · [社招](https://startup.jobs)
-- Machine Learning Research Scientist, Behavior Planning · `Mountain View, CA` · [社招](https://www.postjobfree.com)
-- Senior Machine Learning Research Scientist · `Mountain View, CA` · [社招](https://echojobs.io)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Senior ML Research Scientist, VLM/VLA | Mountain View, CA | 社招 | [查看](https://ev.careers) |
+| 2 | ML Research Scientist, Prediction & Smart Agents | Mountain View, CA | 社招 | [查看](https://startup.jobs) |
+| 3 | Machine Learning Research Scientist, Behavior Planning | Mountain View, CA | 社招 | [查看](https://www.postjobfree.com) |
+| 4 | Senior Machine Learning Research Scientist | Mountain View, CA | 社招 | [查看](https://echojobs.io) |
 
 </details>
 
 <details id="jobs-overseas-19">
 <summary><strong>NVIDIA</strong> · 5 个岗位</summary>
 
-- Software Engineer, Robotics - Isaac Lab (New College Grad 2026) · `Santa Clara, CA` · [校招](https://jobs.anitab.org)
-- Software Engineer, Simulation - Robotics · `Santa Clara, CA` · [社招](https://www.tealhq.com)
-- Software Engineer, Robotics - Isaac Lab · `Santa Clara, CA` · [社招](https://builtin.com)
-- Senior Software Engineer - Robotics · `Santa Clara, CA` · [社招](https://simplify.jobs)
-- Software Engineer Intern - Robotics · `Santa Clara, CA` · [实习](https://simplify.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Software Engineer, Robotics - Isaac Lab (New College Grad 2026) | Santa Clara, CA | 校招 | [查看](https://jobs.anitab.org) |
+| 2 | Software Engineer, Simulation - Robotics | Santa Clara, CA | 社招 | [查看](https://www.tealhq.com) |
+| 3 | Software Engineer, Robotics - Isaac Lab | Santa Clara, CA | 社招 | [查看](https://builtin.com) |
+| 4 | Senior Software Engineer - Robotics | Santa Clara, CA | 社招 | [查看](https://simplify.jobs) |
+| 5 | Software Engineer Intern - Robotics | Santa Clara, CA | 实习 | [查看](https://simplify.jobs) |
 
 </details>
 
 <details id="jobs-overseas-20">
 <summary><strong>NYU Abu Dhabi (AIR Lab)</strong> · 1 个岗位</summary>
 
-- Research Engineer - Embodied AI & Robotics · `Abu Dhabi, UAE` · [社招](http://nyuad.nyu.edu/en/about/careers.html)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Research Engineer - Embodied AI & Robotics | Abu Dhabi, UAE | 社招 | [查看](http://nyuad.nyu.edu/en/about/careers.html) |
 
 </details>
 
 <details id="jobs-overseas-21">
 <summary><strong>OpenAI</strong> · 6 个岗位</summary>
 
-- Field Engineer (Robotics) · `San Francisco, CA` · [社招](https://startup.jobs/field-engineer-openai-7537303)
-- Robotics Software Engineer · `San Francisco, CA` · [社招](https://www.resumeandjob.com)
-- Simulation Realism Engineer · `San Francisco, CA` · [社招](https://metroatlantajob.com)
-- Simulation Environments Engineer · `San Francisco, CA` · [社招](https://bloomingtonjob.com)
-- Research Engineer, SLAM & Multi-View Geometry · `USA` · [社招](https://goremotejob.com)
-- Mechanical Engineer: Soft Goods Design · `San Francisco, CA` · [社招](https://aijobs.app)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Field Engineer (Robotics) | San Francisco, CA | 社招 | [查看](https://startup.jobs/field-engineer-openai-7537303) |
+| 2 | Robotics Software Engineer | San Francisco, CA | 社招 | [查看](https://www.resumeandjob.com) |
+| 3 | Simulation Realism Engineer | San Francisco, CA | 社招 | [查看](https://metroatlantajob.com) |
+| 4 | Simulation Environments Engineer | San Francisco, CA | 社招 | [查看](https://bloomingtonjob.com) |
+| 5 | Research Engineer, SLAM & Multi-View Geometry | USA | 社招 | [查看](https://goremotejob.com) |
+| 6 | Mechanical Engineer: Soft Goods Design | San Francisco, CA | 社招 | [查看](https://aijobs.app) |
 
 </details>
 
 <details id="jobs-overseas-22">
 <summary><strong>Stanford Robotics Lab</strong> · 3 个岗位</summary>
 
-- PhD Positions in Robotics · `Stanford, CA` · [博士](https://cs.stanford.edu/admissions/phd)
-- Postdoctoral Fellow - SAIL · `Stanford, CA` · [博后](https://ai.stanford.edu)
-- Postdoctoral Researcher - Robotics · `Stanford, CA` · [博后](https://swap.stanford.edu)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | PhD Positions in Robotics | Stanford, CA | 博士 | [查看](https://cs.stanford.edu/admissions/phd) |
+| 2 | Postdoctoral Fellow - SAIL | Stanford, CA | 博后 | [查看](https://ai.stanford.edu) |
+| 3 | Postdoctoral Researcher - Robotics | Stanford, CA | 博后 | [查看](https://swap.stanford.edu) |
 
 </details>
 
 <details id="jobs-overseas-23">
 <summary><strong>Tactus</strong> · 1 个岗位</summary>
 
-- Embodied AI Intern (Summer 2026) · `Irvine, CA, USA` · [实习](https://career.calvin.edu)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Embodied AI Intern (Summer 2026) | Irvine, CA, USA | 实习 | [查看](https://career.calvin.edu) |
 
 </details>
 
 <details id="jobs-overseas-24">
 <summary><strong>Tesla (Tesla Bot)</strong> · 1 个岗位</summary>
 
-- Software Engineer, Robotics AI · `Palo Alto, CA, USA` · [社招](https://www.tesla.com/careers)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Software Engineer, Robotics AI | Palo Alto, CA, USA | 社招 | [查看](https://www.tesla.com/careers) |
 
 </details>
 
 <details id="jobs-overseas-25">
 <summary><strong>Tesla Optimus</strong> · 6 个岗位</summary>
 
-- Reinforcement Learning Engineer, Whole Body Controls · `Palo Alto, CA` · [社招](https://media.localjobnetwork.com)
-- Internship, Reinforcement Learning Engineer (Summer 2026) · `Palo Alto, CA` · [实习](https://www.glassdoor.ca)
-- AI Engineer, Manipulation, Optimus · `Palo Alto, CA` · [社招](https://diversityjobs.com)
-- ML Infrastructure Simulation Engineer, Optimus · `Palo Alto, CA` · [社招](https://www.glassdoor.co.in)
-- Reinforcement Learning Engineer, Policy, Optimus · `Palo Alto, CA` · [社招](https://secure.localjobnetwork.com)
-- AI Engineer, Vision & Foundation Models, Optimus · `Palo Alto, CA` · [社招](https://www.postjobfree.com)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Reinforcement Learning Engineer, Whole Body Controls | Palo Alto, CA | 社招 | [查看](https://media.localjobnetwork.com) |
+| 2 | Internship, Reinforcement Learning Engineer (Summer 2026) | Palo Alto, CA | 实习 | [查看](https://www.glassdoor.ca) |
+| 3 | AI Engineer, Manipulation, Optimus | Palo Alto, CA | 社招 | [查看](https://diversityjobs.com) |
+| 4 | ML Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | 社招 | [查看](https://www.glassdoor.co.in) |
+| 5 | Reinforcement Learning Engineer, Policy, Optimus | Palo Alto, CA | 社招 | [查看](https://secure.localjobnetwork.com) |
+| 6 | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA | 社招 | [查看](https://www.postjobfree.com) |
 
 </details>
 
 <details id="jobs-overseas-26">
 <summary><strong>Toyota Research Institute</strong> · 4 个岗位</summary>
 
-- Robotics Intern - Mobile Manipulation, Perception · `Los Altos, CA` · [实习](https://jobs.lever.co/tri)
-- Senior Research Scientist, Large Behavior Models · `Los Altos, CA` · [社招](https://www.nextgenenergyjobs.com)
-- Robotics Intern - Mobile Manipulation, Learned Policies · `Los Altos, CA` · [实习](https://startup.jobs)
-- Research Scientist - Robotics, Learning From Videos · `Los Altos, CA` · [社招](https://startup.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Robotics Intern - Mobile Manipulation, Perception | Los Altos, CA | 实习 | [查看](https://jobs.lever.co/tri) |
+| 2 | Senior Research Scientist, Large Behavior Models | Los Altos, CA | 社招 | [查看](https://www.nextgenenergyjobs.com) |
+| 3 | Robotics Intern - Mobile Manipulation, Learned Policies | Los Altos, CA | 实习 | [查看](https://startup.jobs) |
+| 4 | Research Scientist - Robotics, Learning From Videos | Los Altos, CA | 社招 | [查看](https://startup.jobs) |
 
 </details>
 
 <details id="jobs-overseas-27">
 <summary><strong>Waymo</strong> · 4 个岗位</summary>
 
-- ML Engineer, Perception Foundation Model · `Mountain View, CA` · [社招](https://rhinoconsultingpartners.com)
-- Applied Research Scientist – New Grad · `Mountain View, CA` · [校招](https://simplify.jobs)
-- 2026 Summer Intern, PhD, Research, Perception Foundation Models · `Mountain View, CA` · [实习](https://careers.withwaymo.com)
-- Software Engineer, Embedded Systems / Robotics · `Mountain View, CA` · [社招](https://startup.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | ML Engineer, Perception Foundation Model | Mountain View, CA | 社招 | [查看](https://rhinoconsultingpartners.com) |
+| 2 | Applied Research Scientist – New Grad | Mountain View, CA | 校招 | [查看](https://simplify.jobs) |
+| 3 | 2026 Summer Intern, PhD, Research, Perception Foundation Models | Mountain View, CA | 实习 | [查看](https://careers.withwaymo.com) |
+| 4 | Software Engineer, Embedded Systems / Robotics | Mountain View, CA | 社招 | [查看](https://startup.jobs) |
 
 </details>
 
 <details id="jobs-overseas-28">
 <summary><strong>Wayve</strong> · 5 个岗位</summary>
 
-- Applied Scientist, Controllable GAIA · `London, UK` · [社招](https://ev.careers)
-- Staff Applied Scientist · `London, UK` · [社招](https://simplify.jobs)
-- Senior Applied Scientist · `London, UK` · [社招](https://simplify.jobs)
-- Data Scientist · `London, UK` · [社招](https://www.tealhq.com)
-- Research Scientist Intern · `London, UK` · [实习](https://simplify.jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Applied Scientist, Controllable GAIA | London, UK | 社招 | [查看](https://ev.careers) |
+| 2 | Staff Applied Scientist | London, UK | 社招 | [查看](https://simplify.jobs) |
+| 3 | Senior Applied Scientist | London, UK | 社招 | [查看](https://simplify.jobs) |
+| 4 | Data Scientist | London, UK | 社招 | [查看](https://www.tealhq.com) |
+| 5 | Research Scientist Intern | London, UK | 实习 | [查看](https://simplify.jobs) |
 
 </details>
 
@@ -792,271 +900,337 @@
 <details id="jobs-special-01">
 <summary><strong>阿里巴巴</strong> · 3 个岗位</summary>
 
-- 阿里星人才计划 · `北京/上海/杭州` · [链接](https://campus-talent.alibaba.com/activity/ali-star?lang=zh)
-- 阿里星计划 - 计算机视觉/AI · `北京/杭州` · [链接](https://career.alibaba.com/)
-- 阿里星计划 - 机器人方向 · `北京/杭州` · [链接](https://career.alibaba.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 阿里星人才计划 | 北京/上海/杭州 | 专项 | [查看](https://campus-talent.alibaba.com/activity/ali-star?lang=zh) |
+| 2 | 阿里星计划 - 计算机视觉/AI | 北京/杭州 | 专项 | [查看](https://career.alibaba.com/) |
+| 3 | 阿里星计划 - 机器人方向 | 北京/杭州 | 专项 | [查看](https://career.alibaba.com/) |
 
 </details>
 
 <details id="jobs-special-02">
 <summary><strong>百度</strong> · 3 个岗位</summary>
 
-- AIDU计划 · `北京/上海` · [链接](https://talent.baidu.com/jobs)
-- AIDU计划 - AI/具身智能 · `北京` · [链接](https://career.baidu.com/)
-- AIDU计划 - 深度学习方向 · `北京` · [链接](https://career.baidu.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AIDU计划 | 北京/上海 | 专项 | [查看](https://talent.baidu.com/jobs) |
+| 2 | AIDU计划 - AI/具身智能 | 北京 | 专项 | [查看](https://career.baidu.com/) |
+| 3 | AIDU计划 - 深度学习方向 | 北京 | 专项 | [查看](https://career.baidu.com/) |
 
 </details>
 
 <details id="jobs-special-03">
 <summary><strong>北京大学</strong> · 2 个岗位</summary>
 
-- 博雅博士后 - 智能科学方向 · `北京` · [链接](https://postdoctorals.pku.edu.cn/)
-- 博雅博士后 - 计算机方向 · `北京` · [链接](https://postdoctorals.pku.edu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 博雅博士后 - 智能科学方向 | 北京 | 专项 | [查看](https://postdoctorals.pku.edu.cn/) |
+| 2 | 博雅博士后 - 计算机方向 | 北京 | 专项 | [查看](https://postdoctorals.pku.edu.cn/) |
 
 </details>
 
 <details id="jobs-special-04">
 <summary><strong>北京智源人工智能研究院</strong> · 1 个岗位</summary>
 
-- 联合培养博士项目 · `北京` · [链接](https://pgs.ruc.edu.cn)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 联合培养博士项目 | 北京 | 专项 | [查看](https://pgs.ruc.edu.cn) |
 
 </details>
 
 <details id="jobs-special-05">
 <summary><strong>大疆创新</strong> · 2 个岗位</summary>
 
-- 机器人算法工程师（精英计划） · `上海/深圳` · [链接](https://we.dji.com/zh-CN/campus/position)
-- AI算法工程师（顶尖人才） · `深圳` · [链接](https://we.dji.com/zh-CN/campus/position)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 机器人算法工程师（精英计划） | 上海/深圳 | 专项 | [查看](https://we.dji.com/zh-CN/campus/position) |
+| 2 | AI算法工程师（顶尖人才） | 深圳 | 专项 | [查看](https://we.dji.com/zh-CN/campus/position) |
 
 </details>
 
 <details id="jobs-special-06">
 <summary><strong>滴滴出行</strong> · 2 个岗位</summary>
 
-- 橙才计划 - 算法工程师 · `北京` · [链接](https://career.didiglobal.com/)
-- 橙才计划 - 自动驾驶方向 · `北京` · [链接](https://career.didiglobal.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 橙才计划 - 算法工程师 | 北京 | 专项 | [查看](https://career.didiglobal.com/) |
+| 2 | 橙才计划 - 自动驾驶方向 | 北京 | 专项 | [查看](https://career.didiglobal.com/) |
 
 </details>
 
 <details id="jobs-special-07">
 <summary><strong>地平线</strong> · 3 个岗位</summary>
 
-- 专项人才计划 · `北京/上海/深圳/杭州/南京/香港` · [链接](https://horizon.hire-soft.com/)
-- 专项人才计划 - 具身智能高级算法工程师 · `北京` · [链接](https://horizon-campus.hotjob.cn/)
-- 专项人才计划 - 世界模型算法工程师 · `北京` · [链接](https://horizon-campus.hotjob.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 专项人才计划 | 北京/上海/深圳/杭州/南京/香港 | 专项 | [查看](https://horizon.hire-soft.com/) |
+| 2 | 专项人才计划 - 具身智能高级算法工程师 | 北京 | 专项 | [查看](https://horizon-campus.hotjob.cn/) |
+| 3 | 专项人才计划 - 世界模型算法工程师 | 北京 | 专项 | [查看](https://horizon-campus.hotjob.cn/) |
 
 </details>
 
 <details id="jobs-special-08">
 <summary><strong>华为</strong> · 3 个岗位</summary>
 
-- 天才少年计划 · `北京/上海/深圳/全球` · [链接](https://career.huawei.com/reccampportal/portal5/topminds.html)
-- 天才少年计划 - 计算机/AI方向 · `北京/上海/深圳` · [链接](https://career.huawei.com/)
-- 天才少年计划 - 机器人/具身智能 · `北京/深圳` · [链接](https://career.huawei.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 天才少年计划 | 北京/上海/深圳/全球 | 专项 | [查看](https://career.huawei.com/reccampportal/portal5/topminds.html) |
+| 2 | 天才少年计划 - 计算机/AI方向 | 北京/上海/深圳 | 专项 | [查看](https://career.huawei.com/) |
+| 3 | 天才少年计划 - 机器人/具身智能 | 北京/深圳 | 专项 | [查看](https://career.huawei.com/) |
 
 </details>
 
 <details id="jobs-special-09">
 <summary><strong>京东</strong> · 2 个岗位</summary>
 
-- 星计划 - AI/机器人方向 · `北京` · [链接](https://career.jd.com/)
-- 星计划 - 智能供应链 · `北京/上海` · [链接](https://career.jd.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 星计划 - AI/机器人方向 | 北京 | 专项 | [查看](https://career.jd.com/) |
+| 2 | 星计划 - 智能供应链 | 北京/上海 | 专项 | [查看](https://career.jd.com/) |
 
 </details>
 
 <details id="jobs-special-10">
 <summary><strong>快手</strong> · 2 个岗位</summary>
 
-- 快Star - 算法/AI方向 · `北京` · [链接](https://career.kuaishou.com/)
-- 快Star - 计算机视觉 · `北京` · [链接](https://career.kuaishou.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 快Star - 算法/AI方向 | 北京 | 专项 | [查看](https://career.kuaishou.com/) |
+| 2 | 快Star - 计算机视觉 | 北京 | 专项 | [查看](https://career.kuaishou.com/) |
 
 </details>
 
 <details id="jobs-special-11">
 <summary><strong>旷视科技</strong> · 2 个岗位</summary>
 
-- MegEagle创视者计划 - 具身智能算法系统方向研究员 · `北京/上海` · [链接](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
-- MegEagle创视者计划 - 具身智能大模型算法研究员 · `北京/上海` · [链接](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | MegEagle创视者计划 - 具身智能算法系统方向研究员 | 北京/上海 | 专项 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
+| 2 | MegEagle创视者计划 - 具身智能大模型算法研究员 | 北京/上海 | 专项 | [查看](https://app.mokahr.com/m/campus_apply/megviihr/38642#/jobs) |
 
 </details>
 
 <details id="jobs-special-12">
 <summary><strong>美团</strong> · 2 个岗位</summary>
 
-- 北斗计划 - 算法工程师 · `北京/上海` · [链接](https://careers.meituan.com/)
-- 北斗计划 - AI/机器人方向 · `北京` · [链接](https://careers.meituan.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 北斗计划 - 算法工程师 | 北京/上海 | 专项 | [查看](https://careers.meituan.com/) |
+| 2 | 北斗计划 - AI/机器人方向 | 北京 | 专项 | [查看](https://careers.meituan.com/) |
 
 </details>
 
 <details id="jobs-special-13">
 <summary><strong>清华大学</strong> · 2 个岗位</summary>
 
-- 水木学者 - 计算机系/自动化系 · `北京` · [链接](https://postdoctorals.tsinghua.edu.cn/)
-- 水木学者 - AI/机器人方向 · `北京` · [链接](https://postdoctorals.tsinghua.edu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 水木学者 - 计算机系/自动化系 | 北京 | 专项 | [查看](https://postdoctorals.tsinghua.edu.cn/) |
+| 2 | 水木学者 - AI/机器人方向 | 北京 | 专项 | [查看](https://postdoctorals.tsinghua.edu.cn/) |
 
 </details>
 
 <details id="jobs-special-14">
 <summary><strong>荣耀</strong> · 1 个岗位</summary>
 
-- 全球百万雄鹰计划 · `北京/上海/深圳/南京/西安/海外` · [链接](https://actyco.wintalent.cn/actyco/home/receiver/poster/redirect?id=2ce781cb95dcf40301961d9c706c6bd4)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 全球百万雄鹰计划 | 北京/上海/深圳/南京/西安/海外 | 专项 | [查看](https://actyco.wintalent.cn/actyco/home/receiver/poster/redirect?id=2ce781cb95dcf40301961d9c706c6bd4) |
 
 </details>
 
 <details id="jobs-special-15">
 <summary><strong>上海交通大学</strong> · 2 个岗位</summary>
 
-- 致远博士后 - AI/机器人方向 · `上海` · [链接](https://postdoctorate.sjtu.edu.cn/)
-- 致远博士后 - 计算机方向 · `上海` · [链接](https://postdoctorate.sjtu.edu.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 致远博士后 - AI/机器人方向 | 上海 | 专项 | [查看](https://postdoctorate.sjtu.edu.cn/) |
+| 2 | 致远博士后 - 计算机方向 | 上海 | 专项 | [查看](https://postdoctorate.sjtu.edu.cn/) |
 
 </details>
 
 <details id="jobs-special-16">
 <summary><strong>商汤科技</strong> · 2 个岗位</summary>
 
-- 商汤奖学金 - AI研究方向 · `北京/上海/深圳` · [链接](https://www.sensetime.com/)
-- 具身智能算法研究员 · `北京/上海` · [链接](https://m.bosszhipin.com/zhaopin/deba958c1fd41f0933d93tW1/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 商汤奖学金 - AI研究方向 | 北京/上海/深圳 | 专项 | [查看](https://www.sensetime.com/) |
+| 2 | 具身智能算法研究员 | 北京/上海 | 专项 | [查看](https://m.bosszhipin.com/zhaopin/deba958c1fd41f0933d93tW1/) |
 
 </details>
 
 <details id="jobs-special-17">
 <summary><strong>腾讯</strong> · 4 个岗位</summary>
 
-- 青云计划 · `北京/上海/深圳` · [链接](https://join.qq.com/)
-- 腾讯技术大咖 · `北京/上海/深圳` · [链接](https://careers.tencent.com/search.html)
-- 青云计划 - 机器人方向 · `深圳` · [链接](https://careers.qq.com/)
-- 青云计划 - AI研究方向 · `深圳` · [链接](https://careers.qq.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 青云计划 | 北京/上海/深圳 | 专项 | [查看](https://join.qq.com/) |
+| 2 | 腾讯技术大咖 | 北京/上海/深圳 | 专项 | [查看](https://careers.tencent.com/search.html) |
+| 3 | 青云计划 - 机器人方向 | 深圳 | 专项 | [查看](https://careers.qq.com/) |
+| 4 | 青云计划 - AI研究方向 | 深圳 | 专项 | [查看](https://careers.qq.com/) |
 
 </details>
 
 <details id="jobs-special-18">
 <summary><strong>西湖大学</strong> · 2 个岗位</summary>
 
-- 博士后 - 人工智能方向 · `杭州` · [链接](https://www.westlake.edu.cn/careers/)
-- 博士后 - 机器人方向 · `杭州` · [链接](https://www.westlake.edu.cn/careers/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 博士后 - 人工智能方向 | 杭州 | 专项 | [查看](https://www.westlake.edu.cn/careers/) |
+| 2 | 博士后 - 机器人方向 | 杭州 | 专项 | [查看](https://www.westlake.edu.cn/careers/) |
 
 </details>
 
 <details id="jobs-special-19">
 <summary><strong>小米</strong> · 3 个岗位</summary>
 
-- 未来星 / AI人才专项计划 · `北京/上海/南京` · [链接](https://hr.xiaomi.com/)
-- 未来星 - 机器人/AI方向 · `北京` · [链接](https://xiaomi.jobs.f.mioffice.cn/)
-- 未来星 - 具身智能方向 · `北京` · [链接](https://xiaomi.jobs.f.mioffice.cn/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 未来星 / AI人才专项计划 | 北京/上海/南京 | 专项 | [查看](https://hr.xiaomi.com/) |
+| 2 | 未来星 - 机器人/AI方向 | 北京 | 专项 | [查看](https://xiaomi.jobs.f.mioffice.cn/) |
+| 3 | 未来星 - 具身智能方向 | 北京 | 专项 | [查看](https://xiaomi.jobs.f.mioffice.cn/) |
 
 </details>
 
 <details id="jobs-special-20">
 <summary><strong>小鹏汽车</strong> · 3 个岗位</summary>
 
-- 物理AI人才专项（实习生专场） · `北京/上海/广州/深圳` · [链接](https://scc.pku.edu.cn)
-- 物理AI人才专项 - 具身智能运控算法实习生 · `北京/上海/深圳` · [链接](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158)
-- 物理AI人才专项 - 具身智能算法实习生(Manipulation) · `上海/深圳` · [链接](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 物理AI人才专项（实习生专场） | 北京/上海/广州/深圳 | 专项 | [查看](https://scc.pku.edu.cn) |
+| 2 | 物理AI人才专项 - 具身智能运控算法实习生 | 北京/上海/深圳 | 专项 | [查看](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7619138376453114158) |
+| 3 | 物理AI人才专项 - 具身智能算法实习生(Manipulation) | 上海/深圳 | 专项 | [查看](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7606269238881323315) |
 
 </details>
 
 <details id="jobs-special-21">
 <summary><strong>优必选科技</strong> · 1 个岗位</summary>
 
-- 具身智能首席科学家 · `深圳` · [链接](https://ubtrobot.zhiye.com/social)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 具身智能首席科学家 | 深圳 | 专项 | [查看](https://ubtrobot.zhiye.com/social) |
 
 </details>
 
 <details id="jobs-special-22">
 <summary><strong>浙江大学</strong> · 2 个岗位</summary>
 
-- 求是博士后 - 控制/计算机方向 · `杭州` · [链接](https://hr.zju.edu.cn/postdoctor/)
-- 求是博士后 - AI方向 · `杭州` · [链接](https://hr.zju.edu.cn/postdoctor/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 求是博士后 - 控制/计算机方向 | 杭州 | 专项 | [查看](https://hr.zju.edu.cn/postdoctor/) |
+| 2 | 求是博士后 - AI方向 | 杭州 | 专项 | [查看](https://hr.zju.edu.cn/postdoctor/) |
 
 </details>
 
 <details id="jobs-special-23">
 <summary><strong>智谱AI</strong> · 2 个岗位</summary>
 
-- AI机器人技术研究博士后 · `北京` · [链接](https://m.zhipin.com/job_detail/18150270fb9dbf1203F909m4FFRX.html)
-- Agent算法工程师（智谱星） · `北京` · [链接](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position/detail/7530590286038075686)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AI机器人技术研究博士后 | 北京 | 专项 | [查看](https://m.zhipin.com/job_detail/18150270fb9dbf1203F909m4FFRX.html) |
+| 2 | Agent算法工程师（智谱星） | 北京 | 专项 | [查看](https://zhipu-ai.jobs.feishu.cn/zhipucampus/m/position/detail/7530590286038075686) |
 
 </details>
 
 <details id="jobs-special-24">
 <summary><strong>中科院</strong> · 3 个岗位</summary>
 
-- 百人计划 - 计算机/机器人方向 · `北京/全国` · [链接](https://www.cas.cn/rcjy/)
-- 百人计划 - 人工智能方向 · `全国` · [链接](https://www.baitcc.cn/)
-- 海外优青项目 · `北京` · [链接](https://cnic.cas.cn)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 百人计划 - 计算机/机器人方向 | 北京/全国 | 专项 | [查看](https://www.cas.cn/rcjy/) |
+| 2 | 百人计划 - 人工智能方向 | 全国 | 专项 | [查看](https://www.baitcc.cn/) |
+| 3 | 海外优青项目 | 北京 | 专项 | [查看](https://cnic.cas.cn) |
 
 </details>
 
 <details id="jobs-special-25">
 <summary><strong>字节跳动</strong> · 4 个岗位</summary>
 
-- Top Seed人才计划 · `北京/上海/深圳/杭州/成都等` · [链接](https://jobs.bytedance.com/campus)
-- 筋斗云人才计划 · `北京/上海/深圳/杭州/成都等` · [链接](https://jobs.bytedance.com/campus)
-- Top Seed - 研究型工程师 · `北京/上海` · [链接](https://jobs.bytedance.com/)
-- Top Seed - AI/机器人方向 · `北京` · [链接](https://jobs.bytedance.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Top Seed人才计划 | 北京/上海/深圳/杭州/成都等 | 专项 | [查看](https://jobs.bytedance.com/campus) |
+| 2 | 筋斗云人才计划 | 北京/上海/深圳/杭州/成都等 | 专项 | [查看](https://jobs.bytedance.com/campus) |
+| 3 | Top Seed - 研究型工程师 | 北京/上海 | 专项 | [查看](https://jobs.bytedance.com/) |
+| 4 | Top Seed - AI/机器人方向 | 北京 | 专项 | [查看](https://jobs.bytedance.com/) |
 
 </details>
 
 <details id="jobs-special-26">
 <summary><strong>Amazon</strong> · 2 个岗位</summary>
 
-- Amazon Research Awards · `全球` · [链接](https://www.amazon.science/research-awards)
-- Amazon Robotics - PhD Internship · `北美` · [链接](https://www.amazon.jobs/en/teams/amazon-robotics)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Amazon Research Awards | 全球 | 专项 | [查看](https://www.amazon.science/research-awards) |
+| 2 | Amazon Robotics - PhD Internship | 北美 | 专项 | [查看](https://www.amazon.jobs/en/teams/amazon-robotics) |
 
 </details>
 
 <details id="jobs-special-27">
 <summary><strong>Apple</strong> · 2 个岗位</summary>
 
-- Apple PhD Fellowship - ML/AI · `Cupertino, CA` · [链接](https://machinelearning.apple.com/)
-- Apple Scholar - PhD · `全球` · [链接](https://machinelearning.apple.com/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Apple PhD Fellowship - ML/AI | Cupertino, CA | 专项 | [查看](https://machinelearning.apple.com/) |
+| 2 | Apple Scholar - PhD | 全球 | 专项 | [查看](https://machinelearning.apple.com/) |
 
 </details>
 
 <details id="jobs-special-28">
 <summary><strong>Google</strong> · 2 个岗位</summary>
 
-- Google PhD Fellowship - Machine Learning · `全球` · [链接](https://research.google/research-outreach/?category=phd-fellowship)
-- Google PhD Fellowship - Robotics/Embodied AI · `美国/全球` · [链接](https://research.google/research-outreach/?category=phd-fellowship)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Google PhD Fellowship - Machine Learning | 全球 | 专项 | [查看](https://research.google/research-outreach/?category=phd-fellowship) |
+| 2 | Google PhD Fellowship - Robotics/Embodied AI | 美国/全球 | 专项 | [查看](https://research.google/research-outreach/?category=phd-fellowship) |
 
 </details>
 
 <details id="jobs-special-29">
 <summary><strong>Meta</strong> · 2 个岗位</summary>
 
-- Meta Research Fellowship - AI/ML · `美国` · [链接](https://research.facebook.com/fellowship/)
-- Meta Fellowship - Embodied AI · `美国` · [链接](https://research.facebook.com/fellowship/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Meta Research Fellowship - AI/ML | 美国 | 专项 | [查看](https://research.facebook.com/fellowship/) |
+| 2 | Meta Fellowship - Embodied AI | 美国 | 专项 | [查看](https://research.facebook.com/fellowship/) |
 
 </details>
 
 <details id="jobs-special-30">
 <summary><strong>Microsoft</strong> · 2 个岗位</summary>
 
-- Microsoft Research PhD Fellowship · `美国/全球` · [链接](https://www.microsoft.com/research/academic-programs/phd-fellowship/)
-- Microsoft Research PhD Scholarship · `英国/欧洲` · [链接](https://www.microsoft.com/research/academic-programs/phd-scholarship/)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | Microsoft Research PhD Fellowship | 美国/全球 | 专项 | [查看](https://www.microsoft.com/research/academic-programs/phd-fellowship/) |
+| 2 | Microsoft Research PhD Scholarship | 英国/欧洲 | 专项 | [查看](https://www.microsoft.com/research/academic-programs/phd-scholarship/) |
 
 </details>
 
 <details id="jobs-special-31">
 <summary><strong>MiniMax</strong> · 2 个岗位</summary>
 
-- AGI产品研发工程师-应届生(Top Talent) · `北京/上海` · [链接](https://vrfi1sk8a0.jobs.feishu.cn/379481/m/position/detail/7546180826527893810)
-- AGI产品研发工程师-实习(Top Talent) · `上海` · [链接](https://www.nowcoder.com/jobs/detail/429548)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | AGI产品研发工程师-应届生(Top Talent) | 北京/上海 | 专项 | [查看](https://vrfi1sk8a0.jobs.feishu.cn/379481/m/position/detail/7546180826527893810) |
+| 2 | AGI产品研发工程师-实习(Top Talent) | 上海 | 专项 | [查看](https://www.nowcoder.com/jobs/detail/429548) |
 
 </details>
 
 <details id="jobs-special-32">
 <summary><strong>NVIDIA</strong> · 2 个岗位</summary>
 
-- NVIDIA Graduate Fellowship - AI/Robotics · `美国/全球` · [链接](https://research.nvidia.com/graduate-fellowship)
-- NVIDIA PhD Fellowship · `美国/全球` · [链接](https://research.nvidia.com/graduate-fellowship)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | NVIDIA Graduate Fellowship - AI/Robotics | 美国/全球 | 专项 | [查看](https://research.nvidia.com/graduate-fellowship) |
+| 2 | NVIDIA PhD Fellowship | 美国/全球 | 专项 | [查看](https://research.nvidia.com/graduate-fellowship) |
 
 </details>
 
 <details id="jobs-special-33">
 <summary><strong>启元实验室</strong> · 1 个岗位</summary>
 
-- 博士联合培养项目 · `北京` · [链接](https://yzb.hit.edu.cn)
+| No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
+| --- | --- | --- | --- | --- |
+| 1 | 博士联合培养项目 | 北京 | 专项 | [查看](https://yzb.hit.edu.cn) |
 
 </details>
 
