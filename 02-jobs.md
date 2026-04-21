@@ -156,7 +156,7 @@
 
 ## 🏢 国内机会
 
-<details id="jobs-domestic-01">
+<details open id="jobs-domestic-01">
 <summary><strong>优必选科技</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -167,7 +167,7 @@
 
 </details>
 
-<details id="jobs-domestic-02">
+<details open id="jobs-domestic-02">
 <summary><strong>智元机器人</strong> · 17 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -192,7 +192,7 @@
 
 </details>
 
-<details id="jobs-domestic-03">
+<details open id="jobs-domestic-03">
 <summary><strong>宇树科技</strong> · 12 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -212,7 +212,7 @@
 
 </details>
 
-<details id="jobs-domestic-04">
+<details open id="jobs-domestic-04">
 <summary><strong>傅利叶智能</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -226,7 +226,7 @@
 
 </details>
 
-<details id="jobs-domestic-05">
+<details open id="jobs-domestic-05">
 <summary><strong>逐际动力</strong> · 7 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -241,7 +241,7 @@
 
 </details>
 
-<details id="jobs-domestic-06">
+<details open id="jobs-domestic-06">
 <summary><strong>星动纪元</strong> · 11 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -260,7 +260,7 @@
 
 </details>
 
-<details id="jobs-domestic-07">
+<details open id="jobs-domestic-07">
 <summary><strong>银河通用机器人</strong> · 10 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -278,7 +278,7 @@
 
 </details>
 
-<details id="jobs-domestic-08">
+<details open id="jobs-domestic-08">
 <summary><strong>千寻智能</strong> · 11 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -297,7 +297,7 @@
 
 </details>
 
-<details id="jobs-domestic-09">
+<details open id="jobs-domestic-09">
 <summary><strong>它石智航</strong> · 7 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -312,7 +312,7 @@
 
 </details>
 
-<details id="jobs-domestic-10">
+<details open id="jobs-domestic-10">
 <summary><strong>小米机器人实验室</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -325,7 +325,7 @@
 
 </details>
 
-<details id="jobs-domestic-11">
+<details open id="jobs-domestic-11">
 <summary><strong>腾讯Robotics X</strong> · 7 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -340,7 +340,7 @@
 
 </details>
 
-<details id="jobs-domestic-12">
+<details open id="jobs-domestic-12">
 <summary><strong>字节跳动</strong> · 8 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -356,7 +356,7 @@
 
 </details>
 
-<details id="jobs-domestic-13">
+<details open id="jobs-domestic-13">
 <summary><strong>华为</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -365,7 +365,7 @@
 
 </details>
 
-<details id="jobs-domestic-14">
+<details open id="jobs-domestic-14">
 <summary><strong>大疆</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -379,7 +379,7 @@
 
 </details>
 
-<details id="jobs-domestic-15">
+<details open id="jobs-domestic-15">
 <summary><strong>地平线</strong> · 7 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -394,7 +394,7 @@
 
 </details>
 
-<details id="jobs-domestic-16">
+<details open id="jobs-domestic-16">
 <summary><strong>小鹏汽车</strong> · 10 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -412,7 +412,7 @@
 
 </details>
 
-<details id="jobs-domestic-17">
+<details open id="jobs-domestic-17">
 <summary><strong>普渡科技</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -424,7 +424,7 @@
 
 </details>
 
-<details id="jobs-domestic-18">
+<details open id="jobs-domestic-18">
 <summary><strong>云深处科技</strong> · 15 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -447,7 +447,7 @@
 
 </details>
 
-<details id="jobs-domestic-19">
+<details open id="jobs-domestic-19">
 <summary><strong>思谋科技</strong> · 11 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -466,7 +466,7 @@
 
 </details>
 
-<details id="jobs-domestic-20">
+<details open id="jobs-domestic-20">
 <summary><strong>上海人工智能实验室</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -479,7 +479,7 @@
 
 </details>
 
-<details id="jobs-domestic-21">
+<details open id="jobs-domestic-21">
 <summary><strong>高通</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -488,7 +488,7 @@
 
 </details>
 
-<details id="jobs-domestic-22">
+<details open id="jobs-domestic-22">
 <summary><strong>第五纪智能</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -497,7 +497,7 @@
 
 </details>
 
-<details id="jobs-domestic-23">
+<details open id="jobs-domestic-23">
 <summary><strong>商汤科技</strong> · 9 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -514,7 +514,7 @@
 
 </details>
 
-<details id="jobs-domestic-24">
+<details open id="jobs-domestic-24">
 <summary><strong>旷视科技</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -526,7 +526,7 @@
 
 </details>
 
-<details id="jobs-domestic-25">
+<details open id="jobs-domestic-25">
 <summary><strong>云从科技</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -537,7 +537,7 @@
 
 </details>
 
-<details id="jobs-domestic-26">
+<details open id="jobs-domestic-26">
 <summary><strong>智谱AI</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -550,7 +550,7 @@
 
 </details>
 
-<details id="jobs-domestic-27">
+<details open id="jobs-domestic-27">
 <summary><strong>MiniMax</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -567,7 +567,7 @@
 
 ## 🌍 海外机会
 
-<details id="jobs-overseas-01">
+<details open id="jobs-overseas-01">
 <summary><strong>1X Technologies</strong> · 12 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -587,7 +587,7 @@
 
 </details>
 
-<details id="jobs-overseas-02">
+<details open id="jobs-overseas-02">
 <summary><strong>AIM Intelligent Machines</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -597,7 +597,7 @@
 
 </details>
 
-<details id="jobs-overseas-03">
+<details open id="jobs-overseas-03">
 <summary><strong>Amazon Frontier AI & Robotics</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -607,7 +607,7 @@
 
 </details>
 
-<details id="jobs-overseas-04">
+<details open id="jobs-overseas-04">
 <summary><strong>Amazon Industrial Robotics</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -616,7 +616,7 @@
 
 </details>
 
-<details id="jobs-overseas-05">
+<details open id="jobs-overseas-05">
 <summary><strong>Amazon Robotics</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -629,7 +629,7 @@
 
 </details>
 
-<details id="jobs-overseas-06">
+<details open id="jobs-overseas-06">
 <summary><strong>Apptronik</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -643,7 +643,7 @@
 
 </details>
 
-<details id="jobs-overseas-07">
+<details open id="jobs-overseas-07">
 <summary><strong>Aurora</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -656,7 +656,7 @@
 
 </details>
 
-<details id="jobs-overseas-08">
+<details open id="jobs-overseas-08">
 <summary><strong>Boston Dynamics</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -670,7 +670,7 @@
 
 </details>
 
-<details id="jobs-overseas-09">
+<details open id="jobs-overseas-09">
 <summary><strong>Cruise</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -680,7 +680,7 @@
 
 </details>
 
-<details id="jobs-overseas-10">
+<details open id="jobs-overseas-10">
 <summary><strong>Diligent Robotics</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -689,7 +689,7 @@
 
 </details>
 
-<details id="jobs-overseas-11">
+<details open id="jobs-overseas-11">
 <summary><strong>Figure AI</strong> · 7 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -704,7 +704,7 @@
 
 </details>
 
-<details id="jobs-overseas-12">
+<details open id="jobs-overseas-12">
 <summary><strong>Formic</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -713,7 +713,7 @@
 
 </details>
 
-<details id="jobs-overseas-13">
+<details open id="jobs-overseas-13">
 <summary><strong>Google DeepMind</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -727,7 +727,7 @@
 
 </details>
 
-<details id="jobs-overseas-14">
+<details open id="jobs-overseas-14">
 <summary><strong>Grit Ventures</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -736,7 +736,7 @@
 
 </details>
 
-<details id="jobs-overseas-15">
+<details open id="jobs-overseas-15">
 <summary><strong>HTX (Singapore)</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -745,7 +745,7 @@
 
 </details>
 
-<details id="jobs-overseas-16">
+<details open id="jobs-overseas-16">
 <summary><strong>Iconic.AI</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -754,7 +754,7 @@
 
 </details>
 
-<details id="jobs-overseas-17">
+<details open id="jobs-overseas-17">
 <summary><strong>Meta FAIR</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -765,7 +765,7 @@
 
 </details>
 
-<details id="jobs-overseas-18">
+<details open id="jobs-overseas-18">
 <summary><strong>Nuro</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -777,7 +777,7 @@
 
 </details>
 
-<details id="jobs-overseas-19">
+<details open id="jobs-overseas-19">
 <summary><strong>NVIDIA</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -790,7 +790,7 @@
 
 </details>
 
-<details id="jobs-overseas-20">
+<details open id="jobs-overseas-20">
 <summary><strong>NYU Abu Dhabi (AIR Lab)</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -799,7 +799,7 @@
 
 </details>
 
-<details id="jobs-overseas-21">
+<details open id="jobs-overseas-21">
 <summary><strong>OpenAI</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -813,7 +813,7 @@
 
 </details>
 
-<details id="jobs-overseas-22">
+<details open id="jobs-overseas-22">
 <summary><strong>Stanford Robotics Lab</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -824,7 +824,7 @@
 
 </details>
 
-<details id="jobs-overseas-23">
+<details open id="jobs-overseas-23">
 <summary><strong>Tactus</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -833,7 +833,7 @@
 
 </details>
 
-<details id="jobs-overseas-24">
+<details open id="jobs-overseas-24">
 <summary><strong>Tesla (Tesla Bot)</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -842,7 +842,7 @@
 
 </details>
 
-<details id="jobs-overseas-25">
+<details open id="jobs-overseas-25">
 <summary><strong>Tesla Optimus</strong> · 6 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -856,7 +856,7 @@
 
 </details>
 
-<details id="jobs-overseas-26">
+<details open id="jobs-overseas-26">
 <summary><strong>Toyota Research Institute</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -868,7 +868,7 @@
 
 </details>
 
-<details id="jobs-overseas-27">
+<details open id="jobs-overseas-27">
 <summary><strong>Waymo</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -880,7 +880,7 @@
 
 </details>
 
-<details id="jobs-overseas-28">
+<details open id="jobs-overseas-28">
 <summary><strong>Wayve</strong> · 5 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -897,7 +897,7 @@
 
 ## 🌟 专项人才与顶尖计划
 
-<details id="jobs-special-01">
+<details open id="jobs-special-01">
 <summary><strong>阿里巴巴</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -908,7 +908,7 @@
 
 </details>
 
-<details id="jobs-special-02">
+<details open id="jobs-special-02">
 <summary><strong>百度</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -919,7 +919,7 @@
 
 </details>
 
-<details id="jobs-special-03">
+<details open id="jobs-special-03">
 <summary><strong>北京大学</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -929,7 +929,7 @@
 
 </details>
 
-<details id="jobs-special-04">
+<details open id="jobs-special-04">
 <summary><strong>北京智源人工智能研究院</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -938,7 +938,7 @@
 
 </details>
 
-<details id="jobs-special-05">
+<details open id="jobs-special-05">
 <summary><strong>大疆创新</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -948,7 +948,7 @@
 
 </details>
 
-<details id="jobs-special-06">
+<details open id="jobs-special-06">
 <summary><strong>滴滴出行</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -958,7 +958,7 @@
 
 </details>
 
-<details id="jobs-special-07">
+<details open id="jobs-special-07">
 <summary><strong>地平线</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -969,7 +969,7 @@
 
 </details>
 
-<details id="jobs-special-08">
+<details open id="jobs-special-08">
 <summary><strong>华为</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -980,7 +980,7 @@
 
 </details>
 
-<details id="jobs-special-09">
+<details open id="jobs-special-09">
 <summary><strong>京东</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -990,7 +990,7 @@
 
 </details>
 
-<details id="jobs-special-10">
+<details open id="jobs-special-10">
 <summary><strong>快手</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1000,7 +1000,7 @@
 
 </details>
 
-<details id="jobs-special-11">
+<details open id="jobs-special-11">
 <summary><strong>旷视科技</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1010,7 +1010,7 @@
 
 </details>
 
-<details id="jobs-special-12">
+<details open id="jobs-special-12">
 <summary><strong>美团</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1020,7 +1020,7 @@
 
 </details>
 
-<details id="jobs-special-13">
+<details open id="jobs-special-13">
 <summary><strong>清华大学</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1030,7 +1030,7 @@
 
 </details>
 
-<details id="jobs-special-14">
+<details open id="jobs-special-14">
 <summary><strong>荣耀</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1039,7 +1039,7 @@
 
 </details>
 
-<details id="jobs-special-15">
+<details open id="jobs-special-15">
 <summary><strong>上海交通大学</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1049,7 +1049,7 @@
 
 </details>
 
-<details id="jobs-special-16">
+<details open id="jobs-special-16">
 <summary><strong>商汤科技</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1059,7 +1059,7 @@
 
 </details>
 
-<details id="jobs-special-17">
+<details open id="jobs-special-17">
 <summary><strong>腾讯</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1071,7 +1071,7 @@
 
 </details>
 
-<details id="jobs-special-18">
+<details open id="jobs-special-18">
 <summary><strong>西湖大学</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1081,7 +1081,7 @@
 
 </details>
 
-<details id="jobs-special-19">
+<details open id="jobs-special-19">
 <summary><strong>小米</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1092,7 +1092,7 @@
 
 </details>
 
-<details id="jobs-special-20">
+<details open id="jobs-special-20">
 <summary><strong>小鹏汽车</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1103,7 +1103,7 @@
 
 </details>
 
-<details id="jobs-special-21">
+<details open id="jobs-special-21">
 <summary><strong>优必选科技</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1112,7 +1112,7 @@
 
 </details>
 
-<details id="jobs-special-22">
+<details open id="jobs-special-22">
 <summary><strong>浙江大学</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1122,7 +1122,7 @@
 
 </details>
 
-<details id="jobs-special-23">
+<details open id="jobs-special-23">
 <summary><strong>智谱AI</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1132,7 +1132,7 @@
 
 </details>
 
-<details id="jobs-special-24">
+<details open id="jobs-special-24">
 <summary><strong>中科院</strong> · 3 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1143,7 +1143,7 @@
 
 </details>
 
-<details id="jobs-special-25">
+<details open id="jobs-special-25">
 <summary><strong>字节跳动</strong> · 4 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1155,7 +1155,7 @@
 
 </details>
 
-<details id="jobs-special-26">
+<details open id="jobs-special-26">
 <summary><strong>Amazon</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1165,7 +1165,7 @@
 
 </details>
 
-<details id="jobs-special-27">
+<details open id="jobs-special-27">
 <summary><strong>Apple</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1175,7 +1175,7 @@
 
 </details>
 
-<details id="jobs-special-28">
+<details open id="jobs-special-28">
 <summary><strong>Google</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1185,7 +1185,7 @@
 
 </details>
 
-<details id="jobs-special-29">
+<details open id="jobs-special-29">
 <summary><strong>Meta</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1195,7 +1195,7 @@
 
 </details>
 
-<details id="jobs-special-30">
+<details open id="jobs-special-30">
 <summary><strong>Microsoft</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1205,7 +1205,7 @@
 
 </details>
 
-<details id="jobs-special-31">
+<details open id="jobs-special-31">
 <summary><strong>MiniMax</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1215,7 +1215,7 @@
 
 </details>
 
-<details id="jobs-special-32">
+<details open id="jobs-special-32">
 <summary><strong>NVIDIA</strong> · 2 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
@@ -1225,7 +1225,7 @@
 
 </details>
 
-<details id="jobs-special-33">
+<details open id="jobs-special-33">
 <summary><strong>启元实验室</strong> · 1 个岗位</summary>
 
 | No. | 岗位 / 项目 | 地点 | 类别 | 链接 |
