@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="94" viewBox="0 0 1200 94" role="img" aria-labelledby="title desc">
-  <title id="title">Octoday Navigation Tip</title>
-  <desc id="desc">A green callout with black text describing how first-time visitors should browse the community.</desc>
-  <rect x="1" y="1" width="1198" height="92" rx="14" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
-  <circle cx="36" cy="34" r="10" fill="#16a34a"/>
-  <text x="58" y="40" fill="#166534" font-size="18" font-weight="700" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">TIP</text>
-  <text x="34" y="72" fill="#111111" font-size="22" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">如果你是第一次来到这个社区，可以按下面的顺序浏览。它更像使用建议，而不是固定学习路径。</text>
-</svg>
