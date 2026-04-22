@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-labelledby="title desc">
+  <title id="title">Octoday Vision</title>
+  <desc id="desc">A green callout with black text describing the Octoday Embodied AI community vision.</desc>
+  <rect x="1" y="1" width="1198" height="124" rx="14" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="36" cy="34" r="10" fill="#16a34a"/>
+  <text x="58" y="40" fill="#166534" font-size="18" font-weight="700" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">TIP</text>
+  <text x="34" y="76" fill="#111111" font-size="24" font-weight="700" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">🚀 一个连接「产业 × 资本 × 学生 × 人才」的具身智能开源社区首页</text>
+  <text x="34" y="104" fill="#111111" font-size="22" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif">An open community for learners, researchers, builders, and practitioners across Embodied AI.</text>
+</svg>
