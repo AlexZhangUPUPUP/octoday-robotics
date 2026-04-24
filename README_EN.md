@@ -26,17 +26,19 @@ Start with [Fundamentals](00-basics.md):
 
 ### 1.2 Explore papers, code, and datasets
 
-Enter the [Papers and Code Index](03-papers-code.md) and browse the areas you care about most to quickly understand the main research directions in embodied AI:
+Enter the [Papers and Code Index](03-papers.md) and browse the areas you care about most to quickly understand the main research directions in embodied AI:
 
-- [Embodied Foundation Models](03-papers-code.md#embodied-foundation-models)
-- [Vision-Language-Action (VLA)](03-papers-code.md#vision-language-action-vla)
-- [Embodied Agents & Reasoning](03-papers-code.md#embodied-agents-reasoning)
-- [Manipulation](03-papers-code.md#manipulation)
-- [Navigation & Spatial Intelligence](03-papers-code.md#navigation-spatial-intelligence)
-- [Simulation & Sim2Real](03-papers-code.md#simulation-sim2real)
-- [Datasets](03-papers-code.md#datasets)
-- [Benchmarks & Evaluation](03-papers-code.md#benchmarks-evaluation)
-- [Survey](03-papers-code.md#survey)
+- [Embodied Foundation Models](03-papers.md#embodied-foundation-models)
+- [Vision-Language-Action (VLA)](03-papers.md#vision-language-action-vla)
+- [Embodied Agents & Reasoning](03-papers.md#embodied-agents-reasoning)
+- [Manipulation](03-papers.md#manipulation)
+- [Navigation & Spatial Intelligence](03-papers.md#navigation-spatial-intelligence)
+- [Multi-Robot Systems & HRI](03-papers.md#multi-robot-systems-hri)
+- [Simulation & Sim2Real](03-papers.md#simulation-sim2real)
+- [Datasets](03-papers.md#datasets)
+- [Benchmarks & Evaluation](03-papers.md#benchmarks-evaluation)
+- [Embodied Safety & Alignment](03-papers.md#embodied-safety-alignment)
+- [Survey](03-papers.md#survey)
 
 It also helps to read this alongside [Tools and Platforms](04-tools.md) so the connection between research ideas and engineering practice becomes clearer.
 

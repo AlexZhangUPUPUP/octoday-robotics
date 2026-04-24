@@ -6,10 +6,10 @@
 </div>
 
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&duration=3200&pause=900&color=FF9F1C&center=true&vCenter=true&width=760&height=44&lines=Welcome+to+Octoday-Robotics." alt="Welcome to Octoday-Robotics." />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&duration=3200&pause=900&color=FF9F1C&center=true&vCenter=true&width=760&height=44&lines=Welcome+to+Octoday-Robotics." alt="Welcome to Octoday Robotics." />
 </div>
+
 
 
 <p align="center">
@@ -31,8 +31,8 @@
 
 ## 🌟 我们的愿景
 
-> 一个连接「产业 × 资本 × 学生 × 人才」的具身智能开源社区  
-> An open embodied AI community connecting industry, capital, students, and talent.
+> 一个连接「产业 × 资本 × 人才」的具身智能开源社区  
+> An open embodied AI community connecting industry, capital and talent.
 
 **“星期八”意味着额外的一天。** 它不是日历上的真实日期，而是一种面向长期主义的想象：在快速演进、信息密度极高的具身智能浪潮里，为真正想理解这个领域的人，多留出一天去学习、观察、连接与行动。
 
@@ -41,9 +41,7 @@
 - `🏕 新手村`：帮助初学者从零建立具身机器人世界的认知框架、学习路径和项目起点。
 - `✍️ 技术专题`：整理高质量技术博客、工程总结、项目拆解与一线经验。
 - `🧠 课程资源`：系统汇总机器人学、控制、感知、SLAM、强化学习、VLA 等核心课程。
-- `📚 前沿论文`：持续追踪顶会与 arXiv 的代表性工作，形成可复用的研究地图。
-- `🎥 视频学习`：补充课程视频、实验演示、专家讲解，让抽象方法更容易理解。
-- `🧓 专家观点与访谈`：从研究者、创业者、产业参与者视角理解趋势与路线分歧。
+- `📚 前沿论文`：持续追踪最新论文，形成可复用的研究地图。
 - `🧪 科研实验室`：整理海内外重点实验室、研究组、方向与代表成果。
 - `📰 行业资讯`：追踪政策、标准、事件与阶段性行业拐点。
 - `📝 行业研报`：汇集研究机构、投行、政府与媒体的深度分析材料。
@@ -51,7 +49,7 @@
 
 当前仓库已经优先开放了最核心的五个入口：
 
-**[基础知识](00-basics.md)**、**[公司列表](01-companies.md)**、**[招聘信息](02-jobs.md#jobs-overview)**、**[论文&代码](03-papers-code.md)**、**[工具与平台](04-tools.md)**。
+**[基础知识](00-basics.md)**、**[公司列表](01-companies.md)**、**[招聘信息](02-jobs.md#jobs-overview)**、**[论文合集](03-papers.md)**、**[工具与平台](04-tools.md)**。
 
 它们构成了一条从「入门认知」到「研究跟进」，再到「工程实践」「产业观察」「岗位机会」的连续链路，后续也会在这个基础上继续向更完整的方向扩展。我们希望让每一位探索者都能在这里更快建立坐标系，更低成本找到高价值信息，更清楚地知道下一步该学什么、看什么、做什么。
 
@@ -60,6 +58,8 @@
 > 如果你是第一次来到这个社区，可以按下面的顺序浏览。它更像使用建议，而不是固定学习路径。
 
 ### 1.1 先建立基础认知框架
+
+> 当前共收录 `22` 条基础资源：`12` 本推荐书籍、`10` 门在线课程。
 
 从 [基础知识总览](00-basics.md) 开始。对于绝大多数人来说，真正的难点不是“找不到一篇好论文”，而是还没有先建立一个足够稳固的整体框架。
 
@@ -71,29 +71,37 @@
 
 ### 1.2 再按研究主题进入论文与开源代码
 
-进入 [论文&代码总览](03-papers-code.md)。这部分不仅是 paper list，更是一张帮助你理解技术路线演进的研究地图。
+> 当前共收录 `212` 条论文相关资源，覆盖 `11` 个研究主题板块。
 
-- [Embodied Foundation Models](03-papers-code.md#embodied-foundation-models)：适合先看“通用机器人智能底座”正在如何被定义。
-- [Vision-Language-Action (VLA)](03-papers-code.md#vision-language-action-vla)：适合关注当前最热的视觉-语言-动作统一建模方向。
-- [Embodied Agents & Reasoning](03-papers-code.md#embodied-agents-reasoning)：适合理解规划、推理、长时程决策与 Agent 化能力。
-- [Manipulation](03-papers-code.md#manipulation)：适合关注机械臂、人形手部、灵巧操作、抓取与精细控制。
-- [Navigation & Spatial Intelligence](03-papers-code.md#navigation-spatial-intelligence)：适合关注导航、空间理解、地图构建与世界建模。
-- [Simulation & Sim2Real](03-papers-code.md#simulation-sim2real)：适合理解仿真训练如何向真实系统迁移。
-- [Datasets](03-papers-code.md#datasets)：适合寻找训练数据、数据采集方案、多本体数据与公开资源。
-- [Benchmarks & Evaluation](03-papers-code.md#benchmarks-evaluation)：适合建立“怎样评测具身系统”的基本判断标准。
-- [Survey](03-papers-code.md#survey)：适合快速扫全景、建立方向地图、准备选题或做领域综述。
+进入 [论文合集](03-papers.md)。这部分不仅是 paper list，更是一张帮助你理解技术路线演进的研究地图。
+
+- [Embodied Foundation Models](03-papers.md#embodied-foundation-models)：适合先看“通用机器人智能底座”正在如何被定义。
+- [Vision-Language-Action (VLA)](03-papers.md#vision-language-action-vla)：适合关注当前最热的视觉-语言-动作统一建模方向。
+- [Embodied Agents & Reasoning](03-papers.md#embodied-agents-reasoning)：适合理解规划、推理、长时程决策与 Agent 化能力。
+- [Manipulation](03-papers.md#manipulation)：适合关注机械臂、人形手部、灵巧操作、抓取与精细控制。
+- [Navigation & Spatial Intelligence](03-papers.md#navigation-spatial-intelligence)：适合关注导航、空间理解、地图构建与世界建模。
+- [Multi-Robot Systems & HRI](03-papers.md#multi-robot-systems-hri)：适合关注多机器人协同设计、人机协作与群体机器人组织问题。
+- [Simulation & Sim2Real](03-papers.md#simulation-sim2real)：适合理解仿真训练如何向真实系统迁移。
+- [Datasets](03-papers.md#datasets)：适合寻找训练数据、数据采集方案、多本体数据与公开资源。
+- [Benchmarks & Evaluation](03-papers.md#benchmarks-evaluation)：适合建立“怎样评测具身系统”的基本判断标准。
+- [Embodied Safety & Alignment](03-papers.md#embodied-safety-alignment)：适合关注具身系统的安全约束、风险规避与可靠部署。
+- [Survey](03-papers.md#survey)：适合快速扫全景、建立方向地图、准备选题或做领域综述。
 
 ### 1.3 用工具与平台补足工程视角
 
+> 当前共收录 `54` 个工具与平台，覆盖 `5` 大工具类别。
+
 结合 [工具与平台](04-tools.md) 一起看，会更容易把论文里的方法、模块和概念映射到真实系统与工程实践。
 
-- [仿真平台与物理引擎](04-tools.md#simulation)：适合找训练、验证、复现与场景构建环境。
+- [仿真平台](04-tools.md#simulation)：适合找训练、验证、复现与场景构建环境。
 - [具身智能平台与开发框架](04-tools.md#framework)：适合找开发底座、任务编排方式和通用能力接口。
 - [机器人硬件与开发平台](04-tools.md#hardware)：适合找机器人本体、底盘、教学平台与实验验证设备。
 - [机器人开发工具与 SDK](04-tools.md#devtools)：适合找调试、控制、开发与配套工具链。
 - [机器人公司开源项目](04-tools.md#opensource)：适合从公司维度反看产业玩家在持续开源什么能力。
 
 ### 1.4 单独查看公司列表，理解产业版图
+
+> 当前共收录 `306` 家具身智能相关公司：国内 `184` 家、国外 `122` 家。
 
 进入 [公司列表总览](01-companies.md)。如果论文页帮助你理解“技术在往哪走”，那公司页更能帮助你理解“行业现在是谁在做、做到了哪里、可能先在哪些场景落地”。
 
@@ -103,6 +111,8 @@
 - 如果你关心产业链结构，可以把公司页与论文页、工具页交叉阅读，更容易看清“研究热点”和“商业落点”之间的关系。
 
 ### 1.5 单独查看招聘机会，理解人才需求
+
+> 当前共收录 `366` 个岗位机会：国内 `191` 个、海外 `102` 个、专项 `73` 个。
 
 进入 [招聘信息总览](02-jobs.md#jobs-overview)。招聘信息本身就是行业体温计，岗位数量、岗位类型、地点分布与团队方向，往往比口号更能说明这个领域当下真正缺什么人。
 
@@ -142,7 +152,7 @@
 | 云从科技 | [查看招聘信息](02-jobs.md#jobs-domestic-25) | Tesla Optimus | [查看招聘信息](02-jobs.md#jobs-overseas-25) |
 | 智谱AI | [查看招聘信息](02-jobs.md#jobs-domestic-26) | Toyota Research Institute | [查看招聘信息](02-jobs.md#jobs-overseas-26) |
 | MiniMax | [查看招聘信息](02-jobs.md#jobs-domestic-27) | Waymo | [查看招聘信息](02-jobs.md#jobs-overseas-27) |
-|  |  |                               |                                             |
+|  |  | Wayve | [查看招聘信息](02-jobs.md#jobs-overseas-28) |
 
 ### 1.6 最后看贡献方式，参与社区共建
 
