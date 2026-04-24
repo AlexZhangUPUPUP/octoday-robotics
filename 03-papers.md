@@ -3,7 +3,7 @@
 A curated list of **classic and recent Embodied AI papers** including robotics foundation models, VLA models, embodied agents, manipulation, and navigation.
 持续收录具身智能领域最具代表性的论文，包含核心内容摘要和原文链接。**欢迎补充**（可通过 Issues 或 PR 提交）。
 
-> 当前共收录 `212` 条论文相关资源，覆盖 `11` 个研究主题板块。
+> 当前共收录 `230` 条论文相关资源，覆盖 `11` 个研究主题板块。
 
 # Table of Contents
 
@@ -24,6 +24,8 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="embodied-foundation-models" name="embodied-foundation-models"></a>
 # Embodied Foundation Models
 
+- **[arXiv 2026年4月]** Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.20627)
+- **[arXiv 2026年4月]** Mask World Model: Predicting What Matters for Robust Robot Policy Learning. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.19683)
 - **[arXiv 2026年4月]** Visually-grounded Humanoid Agents. 视觉接地的人形智能体双层次框架，通过世界层重建语义丰富的3D高斯场景，在真实3D环境中实现主动的具身规划和迭代推理. [link](https://arxiv.org/abs/2604.08509)
 - **[arXiv 2026年4月]** Learning Without Losing Identity: Capability Evolution for Embodied Agents. 能力中心演化的具身智能体新范式，引入模块化能力模块实现连续学习，在20次迭代中将任务成功率从32.4%提升至91.3%，零策略漂移. [link](https://arxiv.org/abs/2604.07799)
 - **[arXiv 2026年4月]** HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents. 专为真实世界具身智能体设计的VLM系列模型，采用MoE架构，覆盖2B/32B两种规模，在22个基准上表现优异. [link](https://arxiv.org/abs/2604.07430)
@@ -64,6 +66,9 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="vision-language-action-vla" name="vision-language-action-vla"></a>
 # Vision-Language-Action (VLA)
 
+- **[arXiv 2026年4月]** CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.21241)
+- **[arXiv 2026年4月]** Learning Physics from Pretrained Video Models: A Multimodal Continuous and Sequential World Interaction Models for Robotic Manipulation. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2603.00110)
+- **[arXiv 2026年4月]** Instance-level Visual Active Tracking with Occlusion-Aware Planning. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.21453)
 - **[arXiv 2026年3月]** XL-VLA: Cross-Hand Latent Representation for Vision-Language-Action Models. 跨手隐式表示的VLA框架，在不同灵巧手之间共享统一的隐式动作空间，实现跨本体的灵巧操纵训练. [link](https://arxiv.org/abs/2603.10158)
 - **[CVPR 2026年]** HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models. 为VLA配备运动为中心的世界模型，通过后见之明先验和前瞻推理实现长时程任务的边思考边行动范式. [link](https://arxiv.org/abs/2512.09928)
 - **[arXiv 2026年4月]** Reflection-Based Task Adaptation for Self-Improving VLA. 通过失败驱动的反思性RL和成功驱动的质量引导SFT双路径架构，实现VLA模型的快速自主任务自适应. [link](https://arxiv.org/abs/2510.12710)
@@ -145,6 +150,11 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="navigation-spatial-intelligence" name="navigation-spatial-intelligence"></a>
 # Navigation & Spatial Intelligence
 
+- **[arXiv 2026年4月]** EgoExo++: Integrating On-demand Exocentric Visuals with 2.5D Ground Surface Estimation for Interactive Teleoperation of Underwater ROVs. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2407.00848)
+- **[arXiv 2026年4月]** UVIO: An UWB-Aided Visual-Inertial Odometry Framework with Bias-Compensated Anchors Initialization. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2308.00513)
+- **[arXiv 2026年4月]** Real-Time Initialization of Unknown Anchors for UWB-aided Navigation. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2506.15518)
+- **[arXiv 2026年4月]** Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2501.07399)
+- **[arXiv 2026年4月]** CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2603.28032)
 - **[arXiv 2026年4月]** UrbanNav Benchmark: How Far Are Large Multimodal Models from Human-Level Spatial Action. 首个针对城市场景目标导向导航的具身空间动作基准，包含5037个高质量样本，强调3D垂直行动和丰富城市场景语义信息. [link](https://arxiv.org/abs/2604.07973)
 - **[arXiv 2026年4月]** WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models. 教师-学生框架，世界模型驱动的教师从生成视频构建语义空间记忆，通过显式规划产生轨迹伪标签，轻量学生直接训练预测导航轨迹. [link](https://arxiv.org/abs/2604.07957)
 - **[arXiv 2026年4月]** HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation. 首个基于动作熵自适应决定是否在每个步骤进行思考的导航智能体，通过混合监督微调冷启动和在线强化学习，仅在熵高的关键动作上激活显式推理. [link](https://arxiv.org/abs/2604.08232)
@@ -177,6 +187,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="multi-robot-systems-hri" name="multi-robot-systems-hri"></a>
 # Multi-Robot Systems & HRI
 
+- **[arXiv 2026年4月]** Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.21138)
 - **[arXiv 2026年4月]** Task-Driven Co-Design of Heterogeneous Multi-Robot Systems. 面向异构多机器人系统的任务驱动协同设计框架，统一考虑机器人设计、编队组成、规划与执行之间的耦合权衡. [link](https://arxiv.org/abs/2604.21894)
 - **[arXiv 2026年4月]** Effects of Swarm Size Variability on Operator Workload. 研究群体机器人规模动态变化对人类操作者负荷与表现的影响，为真实部署中的人群协同与任务分配提供依据. [link](https://arxiv.org/abs/2604.21707)
 
@@ -231,6 +242,8 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="benchmarks-evaluation" name="benchmarks-evaluation"></a>
 # Benchmarks & Evaluation
 
+- **[arXiv 2026年4月]** WorldMark: A Unified Benchmark Suite for Interactive Video World Models. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.21686)
+- **[arXiv 2026年4月]** E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.17969)
 - **[AAAI 2026年]** IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks. 首个多模态交互安全基准，包含161个挑战性场景和388个独特安全风险，采用新颖的过程导向评估验证风险缓解步骤是否在特定风险步骤前后正确执行. [link](https://ojs.aaai.org/index.php/AAAI/article/view/40880)
 - **[arXiv 2026年1月]** ERIQ: Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training. 大规模具身推理基准，包含6K+问答对，涵盖四个推理维度，通过解耦推理与执行实现系统评估，揭示具身推理能力与端到端VLA泛化之间的强正相关. [link](https://arxiv.org/abs/2512.24125)
 - **[arXiv 2026年1月]** WoW-World-Eval: Wow, wo, val. A Comprehensive Embodied World Model Evaluation Turing Test. 具身图灵测试基准，基于609个机器人操作数据，考察感知、规划、预测、泛化和执行五大核心能力，22个指标的综合评估协议与人类偏好Pearson相关性>0.93. [link](https://arxiv.org/abs/2601.04137)
@@ -248,6 +261,11 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 <a id="embodied-safety-alignment" name="embodied-safety-alignment"></a>
 # Embodied Safety & Alignment
 
+- **[arXiv 2026年4月]** How VLAs (Really) Work In Open-World Environments. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.21192)
+- **[arXiv 2026年4月]** ExpressMM: Expressive Mobile Manipulation Behaviors in Human-Robot Interactions. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.05320)
+- **[arXiv 2026年4月]** VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.03956)
+- **[arXiv 2026年4月]** Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.20472)
+- **[arXiv 2026年4月]** A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking. 来自每日自动抓取去重，待补人工中文摘要. [link](https://arxiv.org/abs/2604.20347)
 - **[arXiv 2026年4月]** LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture. 面向边缘机器人安全控制的ISO合规架构，将自然语言安全规范转为可执行谓词并部署到低时延闭环控制中. [link](https://arxiv.org/abs/2604.20193)
 - **[arXiv 2026年4月]** Toward Safe Autonomous Robotic Endovascular Interventions using World Models. 面向血管介入机器人的世界模型安全控制框架，提升在多样化患者解剖条件下的自主导航鲁棒性与长期稳定性. [link](https://arxiv.org/abs/2604.20151)
 - **[arXiv 2026年4月]** A Bayesian Reasoning Framework for Robotic Systems in Autonomous Casualty Triage. 融合多种视觉算法输出与贝叶斯网络推理，在缺失或冲突感知输入下完成自动化伤员分诊与风险判断. [link](https://arxiv.org/abs/2604.21568)
