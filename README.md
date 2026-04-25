@@ -154,7 +154,7 @@
 | 云从科技 | [查看招聘信息](02-jobs.md#jobs-domestic-25) | Tesla Optimus | [查看招聘信息](02-jobs.md#jobs-overseas-25) |
 | 智谱AI | [查看招聘信息](02-jobs.md#jobs-domestic-26) | Toyota Research Institute | [查看招聘信息](02-jobs.md#jobs-overseas-26) |
 | MiniMax | [查看招聘信息](02-jobs.md#jobs-domestic-27) | Waymo | [查看招聘信息](02-jobs.md#jobs-overseas-27) |
-|  |  | Wayve | [查看招聘信息](02-jobs.md#jobs-overseas-28) |
+|  |  |  |  |
 
 ### 1.6 最后看贡献方式，参与社区共建
 

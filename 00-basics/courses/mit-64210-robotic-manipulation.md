@@ -31,3 +31,22 @@
 
 1. 建议和《Mechanics of Robotic Manipulation》、MIT manipulation notes 一起看。
 2. 非常适合打通理论与系统实现。
+
+## 课程导航
+
+MIT 官方公开材料更像一套持续维护的 online notes，而不是逐次 lecture 标题。下面按 `manipulation.mit.edu` 的课程章节整理。
+
+| 单元 | 主题 | 学习重点 |
+| :--- | :--- | :--- |
+| Chapter 1 | Introduction | 先建立 manipulation 不只是 pick-and-place 的问题观 |
+| Chapter 2 | Let's Get You a Robot | 认识 arms、hands、sensors 和整套实验站架构 |
+| Chapter 3 | Basic Pick and Place | 把位姿、雅可比和轨迹第一次连成任务 |
+| Chapter 4 | Geometric Pose Estimation | 理解点云配准、ICP、tracking 这些几何感知主线 |
+| Chapter 5 | Bin Picking | 进入 clutter、抓取选择和任务逻辑 |
+| Chapter 6 | Motion Planning | 区分 IK、轨迹优化、采样规划和 GCS 一类方法 |
+| Chapter 7 | Mobile Manipulation | 理解加入移动底盘后感知和规划会怎么变化 |
+| Chapter 8 | Manipulator Control | 把跟踪控制、力控和刚度控制放进同一框架 |
+| Chapter 9 | Object Detection and Segmentation | 补齐操作前的视觉输入问题 |
+| Chapter 10 | Deep Perception for Manipulation | 看 learned perception 如何服务抓取与状态估计 |
+| Chapter 11 | Reinforcement Learning | 理解 RL 在 manipulation 中的价值和边界 |
+| Chapter 12 | Soft Robots and Tactile Sensing | 扩展到软体机器人和触觉感知 |

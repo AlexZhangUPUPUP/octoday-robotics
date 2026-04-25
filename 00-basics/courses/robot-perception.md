@@ -30,3 +30,9 @@
 
 1. 建议和《计算机视觉：模型、学习和推理》搭配。
 2. 如果你做导航，也可以顺带看仓库里的 Navigation 板块。
+
+## 课程导航状态
+
+- 当前仓库给出的主要入口是 Coursera Robotics Specialization 页面。
+- 本次核实能确认 `Robot Perception` 属于 University of Pennsylvania 的 Robotics 系列，但没有稳定拿到公开的 lecture / module 细目。
+- 为避免把平台摘要写成正式 syllabus，这一页先保留待补状态；如果后续补到课程主页或模块页，可以改成逐讲表格。
