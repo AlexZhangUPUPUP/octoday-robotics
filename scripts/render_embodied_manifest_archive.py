@@ -18,7 +18,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output", type=Path, required=True, help="Markdown output path.")
     parser.add_argument(
         "--title",
-        help="Optional page title. Defaults to 'Embodied Paper Archive · <start> to <end>'.",
+        help="Optional page title. Defaults to 'Daily Paper · <start> to <end>'.",
     )
     return parser.parse_args()
 
@@ -50,7 +50,7 @@ def build_title(manifest: dict, override: str | None) -> str:
         return override
     date_range = manifest["range"]
     return (
-        "Embodied Paper Archive · "
+        "Daily Paper · "
         f"{date_range['start_date_utc']} to {date_range['end_date_utc']}"
     )
 

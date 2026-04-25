@@ -71,11 +71,11 @@
 
 ### 1.2 再按研究主题进入论文与开源代码
 
-> 当前精选主表共收录 `230` 条论文相关资源，覆盖 `11` 个研究主题板块；Daily Paper Archives 另收录 `1102` 条自动归档论文条目。
+> 当前精选主表共收录 `230` 条论文相关资源，覆盖 `11` 个研究主题板块；Daily Paper 另收录 `1102` 条自动归档论文条目。
 
 进入 [论文合集](03-papers.md)。这部分不仅是 paper list，更是一张帮助你理解技术路线演进的研究地图。
 
-如果你想看按天自动更新的 [Daily Paper Archives](daily-paper/README.md)，当前已收录 `1102` 条自动归档论文条目。若与主表一起统计，仓库当前共汇总 `1332` 条论文条目，去重后为 `1283` 篇。
+如果你想看按天自动更新的 [Daily Paper](daily-paper/README.md)，当前已收录 `1102` 条自动归档论文条目。若与主表一起统计，仓库当前共汇总 `1332` 条论文条目，去重后为 `1283` 篇。
 
 - [Embodied Foundation Models](03-papers.md#embodied-foundation-models)：适合先看“通用机器人智能底座”正在如何被定义。
 - [Vision-Language-Action (VLA)](03-papers.md#vision-language-action-vla)：适合关注当前最热的视觉-语言-动作统一建模方向。

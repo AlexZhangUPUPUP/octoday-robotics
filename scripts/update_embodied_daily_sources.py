@@ -833,7 +833,7 @@ def render_dated_snapshot_markdown(
         grouped[suggest_section(paper.title, paper.summary, paper.categories)].append(paper)
 
     lines = [
-        f"# Daily Embodied Paper Snapshot · {run_date.isoformat()}",
+        f"# Daily Paper · {run_date.isoformat()}",
         "",
         f"- Local date (Asia/Shanghai): {run_date.isoformat()}",
         f"- Source window (UTC dates): {start_date.isoformat()} to {end_date.isoformat()}",

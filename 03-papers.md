@@ -4,7 +4,7 @@ A curated list of **classic and recent Embodied AI papers** including robotics f
 持续收录具身智能领域最具代表性的论文，包含核心内容摘要和原文链接。**欢迎补充**（可通过 Issues 或 PR 提交）。
 
 > 当前精选主表共收录 `230` 条论文相关资源，覆盖 `11` 个研究主题板块。
-> [Daily Paper Archives](daily-paper/README.md) 当前另收录 `1102` 条自动归档论文条目；两部分合计 `1332` 条条目，去重后为 `1283` 篇。
+> [Daily Paper](daily-paper/README.md) 当前另收录 `1102` 条自动归档论文条目；两部分合计 `1332` 条条目，去重后为 `1283` 篇。
 
 # Table of Contents
 

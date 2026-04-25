@@ -548,7 +548,7 @@ def render_daily_readme(
     repo_total_unique: int,
 ) -> str:
     lines: list[str] = [
-        "# Daily Paper Archives",
+        "# Daily Paper",
         "",
         f"> 当前共收录 `{len(records)}` 条每日归档论文条目。",
         (
@@ -622,16 +622,16 @@ def update_readme_counts(
         r"> 当前.*?条论文相关资源，覆盖 `\d+` 个研究主题板块。",
         (
             f"> 当前精选主表共收录 `{curated_resource_count}` 条论文相关资源，"
-            f"覆盖 `{total_theme_count}` 个研究主题板块；Daily Paper Archives 另收录 "
+            f"覆盖 `{total_theme_count}` 个研究主题板块；Daily Paper 另收录 "
             f"`{archive_count}` 条自动归档论文条目。"
         ),
         cn,
         count=1,
     )
     cn = re.sub(
-        r"如果你想看自动抓取后的时间范围全量归档.*?共 `\d+` 篇候选论文。",
+        r"如果你想看(?:按天自动更新的 \[Daily Paper(?: Archives)?\]\(daily-paper/README\.md\)|自动抓取后的时间范围全量归档).*?去重后为 `\d+` 篇。",
         (
-            f"如果你想看按天自动更新的 [Daily Paper Archives](daily-paper/README.md)，"
+            f"如果你想看按天自动更新的 [Daily Paper](daily-paper/README.md)，"
             f"当前已收录 `{archive_count}` 条自动归档论文条目。"
             f"若与主表一起统计，仓库当前共汇总 `{repo_total_entries}` 条论文条目，"
             f"去重后为 `{repo_total_unique}` 篇。"
@@ -644,9 +644,9 @@ def update_readme_counts(
 
     en = README_EN_PATH.read_text(encoding="utf-8")
     en = re.sub(
-        r"If you want the full time-range automated archive.*?filtered candidate papers\.",
+        r"If you want (?:the daily-updated \[Daily Paper(?: Archives)?\]\(daily-paper/README\.md\)|the full time-range automated archive).*?deduplication\.",
         (
-            f"If you want the daily-updated [Daily Paper Archives](daily-paper/README.md), "
+            f"If you want the daily-updated [Daily Paper](daily-paper/README.md), "
             f"it currently contains `{archive_count}` automatically archived paper entries. "
             f"Together with the curated main index, the repository now tracks `{repo_total_entries}` paper entries, "
             f"or `{repo_total_unique}` unique papers after deduplication."
@@ -668,9 +668,9 @@ def update_readme_counts(
         count=1,
     )
     papers = re.sub(
-        r"> (?:如果你想查看按时间范围自动抓取的全量候选归档.*|.*Daily Paper Archives.*)",
+        r"> (?:如果你想查看按时间范围自动抓取的全量候选归档.*|.*Daily Paper(?: Archives)?.*)",
         (
-            f"> [Daily Paper Archives](daily-paper/README.md) 当前另收录 `{archive_count}` 条自动归档论文条目；"
+            f"> [Daily Paper](daily-paper/README.md) 当前另收录 `{archive_count}` 条自动归档论文条目；"
             f"两部分合计 `{repo_total_entries}` 条条目，去重后为 `{repo_total_unique}` 篇。"
         ),
         papers,
