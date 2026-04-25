@@ -28,6 +28,8 @@ Start with [Fundamentals](00-basics.md):
 
 Enter the [Papers and Code Index](03-papers.md) and browse the areas you care about most to quickly understand the main research directions in embodied AI:
 
+If you want the daily-updated [Daily Paper Archives](daily-paper/README.md), it currently contains `1102` automatically archived paper entries. Together with the curated main index, the repository now tracks `1332` paper entries, or `1283` unique papers after deduplication.
+
 - [Embodied Foundation Models](03-papers.md#embodied-foundation-models)
 - [Vision-Language-Action (VLA)](03-papers.md#vision-language-action-vla)
 - [Embodied Agents & Reasoning](03-papers.md#embodied-agents-reasoning)
